@@ -1,0 +1,147 @@
+[mark_6qt33ij77wk9z089lj79]Симулятор гопника, часть 5.\nv1.{this.game_version}[ANSWERSORDER ON][BGNDIMAGE Intro.jpg]
+	НАЧАТЬ ИГРУ / START THE GAME
+		[mark_au0e5w32c3m410n44507]Здарова, братан! Не узнал что ли? (гопник подходит вплотную)[VIDEO GopSpeechSimpleLoop][AUDIO hello][BGNDVIDEO GopStandsBouncing][ANSWERSORDER OFF]
+			Нет. А ты кто?
+				[mark_6alypq5q1m98ft66te87]Да ты чо, внатуре, мы же с тобой бухали недавно в клубешнике![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules01][BGNDVIDEO GopStandsBouncing]
+					Ты ошибаешься, я не пью.
+						[mark_e5clk197gpb673ill77w]Да не гони! Я помню ты нажрался в дрова! Ыыы...[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules02][BGNDVIDEO GopStandsBouncing]
+							Ты меня, наверное, с кем-то путаешь.
+								[mark_uk20uioavhg205762bne]Нее, я тебя сразу узнал! Там еще с нами Толян был...
+									Какой еще Толян?
+										[mark_1eta3ru4snypwf6vc550]Мой кореш Толян. Здоровый такой бык, КМС по боксу. Ты у него еще по-пьяне штукарь занял и не возвращаешь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules03][BGNDVIDEO GopStandsBouncing]
+											Ничего я ни у кого не занимал.
+												[mark_29ewi18dv2742cwyk306]Братишь, не по-пацански это. Долги отдавать надо.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules04][BGNDVIDEO GopStandsBouncing]
+													Я никому ничего не должен.
+														[mark_5tfl6i46zh2aj51o8jo5]Давай Толяна позовем, спросим. Если он подтвердит, ты и мне штукарь должен будешь. Согласен?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules05][BGNDVIDEO GopStandsBouncing]
+															Так он в твою пользу соврет.
+																[mark_32x4ej434z44wz39ezwc]То есть ты считаешь, что Толян - звездобол?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
+																	Ничего я не считаю.
+																		[mark_b4ijzr9au23r98u42fx1]Ты только что сказал, что Толян соврет. Значит по-твоему он звездобол. Повторишь это Толяну лично?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																			Да не так все было!
+																				[mark_b4ijzr9au23r98u42fx1]Ну так как, позвать его или сразу штукарь вернешь?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																					Давай, зови.
+																						[mark_7o9oi4402x1to148qqxf]- Толян! Ди сюда! Тут лошара твои деньги заныкал![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																							
+																								[mark_82y74f91q9hk347m9kj0]Эээ, тля! Бабло мне вернул быстро!
+																									Я тебе ничего не должен.
+																										[mark_d668k5r493u721343bqk]Ты чо, крыса! Я те щас очки пропишу с размаху![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																											Только попробуй, сядешь надолго!
+																												[mark_pefw5j351a75z6glg5g2]Дудух на!!![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																													А-а-а! Больно!
+																														[mark_38a5650q7a5ywj5d3n06]Ну чо, крыса, теперь ты мне пятерку должен![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																															
+																																[mark_52a9s4of7n38045y9pqh]Эээ, пацаны, успокойтесь, вы что творите?! (третий герой)
+																																	
+																																		[mark_bs2svufhx5uxzfm30y2i]Не твое дело, проходи мимо!
+																																			
+																																				[mark_mxckmzsfeq46195b0u3q]Эээ, ты так со мной не разговаривай! Полкана знаешь?
+																																					
+																																						[mark_p4e774y2zc4gdf6kck97]Ты ментовской штоле? (Толян)
+																																							
+																																								[mark_5g4e2a54i02sam7q1qgd]Возможно...
+																																									Помоги! Они с меня деньги трясут!
+																																										[mark_70gnr1p4q012tg66n1t6]О, как... Пацаны, погодите! Давайте перетрем это по нормальному. 
+																																											
+																																												[mark_9nq319o4a76ys4e1k86p]Ну давай, предлагай...
+																																													
+																																														[mark_d4i6muk0q956d23mc5rh]Слушай, я с ними поговорил. Сам помочь тебе не могу. Да даже, если сейчас помог бы, то они тебя завтра снова выловят.
+																																															
+																																																[mark_e05s609dt578w57f8eg5]Есть один вариант - я могу позвонить Полкану. Это мой босс, начальник районной полиции. Они все его боятся.
+																																																	
+																																																		[mark_34975tmm22n4u97856m9]Он подъедет, разберется с ними. Только сам понимаешь, бесплатно он не работает. Ему минимум три штуки надо будет заплатить...
+																																																			
+																																																				[mark_4u3ujg93c09686am0q5y]И они тебя больше никогда не тронут. Позвонить ему?
+																																																					А почему они успокоились?
+																																																						[mark_72onm0i7h0504196y38y]Не верят, что я Полкана позвать могу. Дали мне полчаса времени, потом хз что с тобой будет.
+																																																							Хорошо, я согласен, зови Полкана!
+																																																								[mark_ygu3750y467znbsx5s58]Только ему заплатить надо будет сразу, иначе он очень ообидится. У тебя с собой есть деньги или карта?
+																																																									Да.
+																																																										[give_money_for_polkan]Ладно, давай мне, только незаметно.
+																																																											Держи.
+																																																												[mark_1mndfg2f5x4bf8r3h2ga]- Алло, Пал Палыч, здравствуйте... (далее неразборчиво)
+																																																													
+																																																														[mark_le4gz524fdqo7o55z623]Сейчас приедет.
+																																																															
+																																																																[polkan_arrived]Ждем полкана.
+																																																																	
+																																																																		[mark_6lsvvz92ns85u5a6q603]- Алло, Пал Палыч, приехали? А где стоите? Понял, сейчас их приведу...
+																																																																			
+																																																																				[mark_79nn070747v3p5vwy50q]Все, можешь идти домой.
+																																																																					
+																																																																						[mark_i9jf375y9m1sb01o394p](все трое идут за угол)
+																																																																							
+																																																																								[mark_5996989h48nxeo95zw2y](уходишь)
+																																																																									
+																																																																										[mark_8ixa6807r08qnnp960bg]Тебе не кажется, что тебя только что развели?
+																																																									Нет, только дома.
+																																																										[mark_ry86660q693j432my5a8]Ладно, сбегай пока домой за деньгами, а мне в залог оставь мобилу.
+																																																											
+																																																												[mark_kv8lhohd0bc6iz85v1b7]Понимаешь, я за тебя сейчас впрягаюсь, а ты меня подставишь, если не вернешься.
+																																																													Нет, я не могу.
+																																																														[mark_ulw7bbbyp87d35303cg5]Тогда я тебе не смогу помочь, выкручивайся сам.
+																																																															[give_mobile_for_home_money]Ладно, вот мобила.
+																																																																[mark_ur578879x8ky406v596d](убегаешь домой)Вернешься?
+																																																																	Да
+																																																																		[mark_7e7226b2d60cfcxv6510](вернулся)
+																																																																			...
+																																																																				[mark_6qfim9j8l62sj7yquf7l]Ну как, принес?
+																																																																					Да.
+																																																																						[mark_u93jvtuk1o12x3r4ahy9][GOTO give_money_for_polkan]
+																																																																					У меня только 2 штуки...
+																																																																						[mark_ex8yeq089758ttrjd35v][GOTO give_money_for_polkan]
+																																																																	Нет. Ну их всех в баню!
+																																																																		[mark_73d84n024ou7l5396688]Отрицательный финал, ты утратил мобилу.
+																																																															<Enter text here>
+																																																													[GOTO give_mobile_for_home_money]
+																																																									Нет, ничего нет.
+																																																										[mark_r4be2y61412603ty0q22]<Enter text here>
+																					Ладно, отдам, но у меня на карте.
+																						[mark_1bya98c75zlmcuk7m6jb]Так переведи мне с карты на мобилу по номеру.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																							У меня карта не привязана к номеру
+																								[mark_4uymxj79h9g7572l6d28]И чо? Давай сюда мобилу, я привяжу.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																									Не получится, инет закончился.
+																										[mark_mptq2k084l1fd65lz41u]Я тебе свой инет раздам.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																											Давай лучше я до банкомата схожу?
+																												[mark_krayolv9f9t0sj93tc2r]Сходи, но мобилу в залог оставь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																													Давай по-другому?
+																														[mark_6l4879o950bjjz2ij1i9]Как?
+																															Ты сходишь, а я тебя с мобилой подожду.
+																																[mark_s2ee18mf1061136wk511]<Enter text here>
+																					Ладно, вот штукарь.
+																						[mark_bwf1i0d5n8284il51dw0]Слышь, а ты еще за тачку мне должен.
+																							Какую тачку?
+																								[mark_4ss1e0t6e6k8785q10l2]Мы тебя после клубешника на таксишке до дома довезли. С тебя сотка.
+																									Я такого не помню.
+																										[mark_47199268xi568wy4phk6]Конеш не помнишь, братишь - ты ж в отключке был. А мог бы и спасибо сказать.
+																											Больше я ничего не должен?
+																												[mark_68915docu9n0co4mzo9o]Да, вроде, нет.
+																													Ладно, держи сотку.
+																														[mark_esoqm6nsauu7slcae50y]А, да, ты еще по пути попросил купить сиги. Еще двухсотка с тебя.
+																															Я же не курю!
+																																[mark_n82l43lt8z01620n83b6]Так ты нам с Толяном их подарил, мы отказывались, а ты сказал: "Берите, пацаны, запишите на мой счет!".
+																																	Сигареты за двести? Дорого как-то...
+																																		[mark_156d96me7l349g4278qz]Так ты блатные сиги подарил - с кнопкой. Ваще ты вейп хотел купить, но мы отговорили...
+																																			Ладно, вот еще двести.
+																																				[mark_x60uukit3p28v222a4m9]Тебя раскрутили по полной, наихудший финал...
+																																					<Enter text here>
+					Это был не я.
+						[mark_0zpjx419w77x5diw77v0]Братишь, да ты тогда весь вечер был не ты!
+			[skip_rules]Эээ... нет, не припоминаю...
+				[mark_a7c215315ost6ki2p7z8][GOTO INTRO]
+			Здарова, узнал конечно!
+				[mark_8ra12i504lwq2t5xv6pf]А погоняло мое помнишь?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
+					Кирпич
+						[mark_3uu3073rd03979909520]<Enter text here>
+					Толян
+					Чекрыж
+					Васян
+			[donate]Достать лопатник.
+				[mark_ht148aj862wm21q30ogd][NAVIGATEURL https://money.yandex.ru/embed/shop.xml?account=41001220674141&quickpay=shop&payment-type-choice=on&writer=seller&targets=На развитие проекта&targets-hint=&default-sum=50&button-text=01&mail=on" width="450" height="199"]
+					
+						[mark_29quy4j3a76s4d9p9747][GOTO START]
+			[ddonate]Закивасить.
+				[mark_t319971dwu2865mjn7qo][NAVIGATEURL https://qiwi.com/n/SERJIOS]
+					
+						[mark_8r456ve83222mbv60b0m][GOTO START]
+	[GOTO donate]
+	[GOTO ddonate]
