@@ -2,13 +2,13 @@
 	[mark_jq3z9230b0d555d900as]НАЧАТЬ ИГРУ / START THE GAME
 		[mark_au0e5w32c3m410n44507]Здарова, братан! Не узнал что ли? (гопник подходит вплотную)[VIDEO GopSpeechSimpleLoop][AUDIO hello][BGNDVIDEO GopStandsBouncing][ANSWERSORDER OFF]
 			Нет. А ты кто?
-				[mark_6alypq5q1m98ft66te87]Да ты чо, внатуре, мы же с тобой недавно в клубешнике бухали![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules01][BGNDVIDEO GopStandsBouncing]
-					Ты ошибаешься, я не пью
+				[mark_6alypq5q1m98ft66te87]Да ты чо, внатуре, мы с тобой недавно в клубешнике бухали![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules01][BGNDVIDEO GopStandsBouncing]
+					[hero_you_wrong_i_dont_drink]Ты ошибаешься, я не пью
 						[mark_e5clk197gpb673ill77w]Да не гони! Я помню ты нажрался в дрова! Ыыы...[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules02][BGNDVIDEO GopStandsBouncing]
-							Ты меня с кем-то путаешь
+							[hero_you_dont_know_me]Ты меня с кем-то путаешь
 								[mark_uk20uioavhg205762bne]Нее, я тебя сразу узнал! Там еще с нами Кирпич был...
 									Какой Кирпич?
-										[mark_1eta3ru4snypwf6vc550]Здоровый такой бык, боксер, кореш мой. Ты у него еще по-пьяне штукарь занял и не возвращаешь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules03][BGNDVIDEO GopStandsBouncing]
+										[gop1_about_gop2]Здоровый такой бык, боксер, кореш мой. Ты у него еще по-пьяне штукарь занял и не возвращаешь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules03][BGNDVIDEO GopStandsBouncing]
 											Ничего я ни у кого не занимал.
 												[mark_29ewi18dv2742cwyk306]Братишь, не по-пацански это. Долги отдавать надо.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules04][BGNDVIDEO GopStandsBouncing]
 													Я никому ничего не должен.
@@ -36,7 +36,7 @@
 																																			
 																																				[mark_38a5650q7a5ywj5d3n06]И мне штукарь! (Хрящ говнистым голосом)[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
 																																					Отвалите от меня!
-																																						[mark_52a9s4of7n38045y9pqh]Здарова, пацаны, что здесь происходит? (третий герой)
+																																						[mark_52a9s4of7n38045y9pqh]Здарова, пацаны, что здесь происходит? (третий герой, Червлей)
 																																							...
 																																								[mark_bs2svufhx5uxzfm30y2i]Иди куда шел!
 																																									...
@@ -44,7 +44,7 @@
 																																											...
 																																												[mark_p4e774y2zc4gdf6kck97]Полкана... Ты ментовской штоле? (Кирпич)
 																																													...
-																																														[mark_5g4e2a54i02sam7q1qgd]Не совсем, но приближенный.
+																																														[mark_5g4e2a54i02sam7q1qgd]Просто знаю
 																																															Братан, помоги! Они с меня деньги трясут!
 																																																[mark_70gnr1p4q012tg66n1t6]Деньги трясут? Пацаны, да это же уголовка!
 																																																	...
@@ -224,10 +224,36 @@
 																																												[mark_1j35eyb12b9ev73had2e]У тебя ровно полчаса, крыса! Не успеешь, без мобилы останешься.
 																																													Я вернусь!
 																																														[mark_ud0l13544j40877i16rj][GOTO mark_final2]
-																															Буду биться с ними
-																																[mark_z8u0fc6xv4l41es84tvk]<Enter text here>
-																																	<Enter text here>
-																																		[mark_ecs61i21bdtu696h51z1]<Enter text here>
+																															Встану в стойку
+																																[mark_z8u0fc6xv4l41es84tvk](Кирпич наносит удар правой)
+																																	Пригнусь
+																																		[mark_76t31o9x1kmxwxq309ae](Хрящ наносит удар левой)
+																																			Поставлю блок
+																																				[mark_333zb2h71rc736q91lb3](Кирпич пытается пнуть)
+																																					Отпрыгну назад
+																																						[mark_f9mp82e794lh513y2vzy](Кирпич и Хрящ одновременно заносят руки в удар (правая и левая руки соответ) и медленно бьют, идет таймер)
+																																							Поставлю блок
+																																								[mark_2db9980107z78rl6u63i](Кирпич и Хрящ одновременно бьют замедленно)
+																																									Проскочу между ними
+																																										[mark_ecs61i21bdtu696h51z1](Кирпич и Хрящ стукнули стукнули друг-друга в тыквы и самоликвидировались)
+																																											...
+																																												[mark_n7znc86030ay1yofb3p7][GOTO mark_final22]
+																																							Пригнусь
+																																								[mark_dx1oo0ot9upmv97jox2x](Пинают тебя одновременно)
+																																									...
+																																										[mark_4ky82257892ua3szm6m9][GOTO mark_final17]
+																																					Поставлю блок
+																																						[mark_vmvp82r80c31md1do5sv](Кирпич пропинывает твой блок)
+																																							...
+																																								[mark_cpa74ek0v43ze54w8647][GOTO mark_final17]
+																																			Пригнусь
+																																				[mark_92697385np2u07f2pouf](Хрящ пинает тебя в лицо)
+																																					...
+																																						[mark_k558349g92o2hkmjb33a][GOTO mark_final17]
+																																	Поставлю блок
+																																		[mark_3i736w7qmv0b5l15q0r8](блок не спас от Кирпича, пробил в тыкву)
+																																			...
+																																				[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
 																									Мне некогда
 																										[mark_7j1uu6q6w1ig035hx2jy]Я те сказал стой тут, жди Кирпича!
 																											Стукну в тыкву
@@ -235,15 +261,23 @@
 																													Еще удар
 																														[mark_1hj4466em106g59vhi17](удар другой рукой, гоп уворачивается, идет время на ответ)
 																															Присяду
-																																[mark_h5aq234y09k43mr949a3](гоп ударяет в воздух над тобой)
-																																	Апперкот
-																																		[mark_su7856dz60n3suca41f5](гоп отлетает назад)
+																																[mark_t732dlc1075msv84xxkb](Гоп замахивается, без удара)
+																																	Присяду
+																																		[mark_h5aq234y09k43mr949a3](гоп ударяет в воздух над тобой)
+																																			Апперкот
+																																				[mark_su7856dz60n3suca41f5](гоп отлетает назад)
+																																					...
+																																						[mark_2510wf555p36di44ws5a][GOTO mark_final15]
+																																			[battle_you_sit_down]Присяду
+																																				[mark_6qj6c6rp207793rs35ik](ты присаживаешься, гоп1 пинает тебя с ноги)
+																																					...
+																																						[mark_l503n0656u50a8mdz26l][GOTO mark_final14]
+																																	Еще удар
+																																		[mark_f1866depr165posh0q80](Гоп1 отлетает назад)
 																																			...
-																																				[mark_2510wf555p36di44ws5a][GOTO mark_final15]
-																																	[battle_you_sit_down]Присяду
-																																		[mark_6qj6c6rp207793rs35ik](ты присаживаешься, гоп1 пинает тебя с ноги)
-																																			...
-																																				[mark_l503n0656u50a8mdz26l][GOTO mark_final14]
+																																				[mark_y35q62iqmj30vc3197n7](сзади тебя бьют по голове, экран чернеет)
+																																					...
+																																						[mark_7qgl2t00017943h445h6][GOTO mark_final16]
 																															Отойду назад
 																																[mark_qv1og1325u0brex06m61](Гоп прыгает на тебя и бьет в репу, ты падаешь)
 																																	[GOTO mark_final14]
@@ -302,15 +336,28 @@
 																																				[mark_v8246e24t7o188e5s760][GOTO mark_final4]
 					Это был не я.
 						[mark_0zpjx419w77x5diw77v0]Братишь, да ты тогда весь вечер был не ты!
-			Эээ... нет, не припоминаю...
-				[mark_a7c215315ost6ki2p7z8][GOTO INTRO]
-			Здарова, узнал конечно!
-				[mark_8ra12i504lwq2t5xv6pf]А погоняло мое помнишь?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
-					Хрящ
-						[mark_3uu3073rd03979909520]<Enter text here>
-					Кирпич
-					Батян
-					Васян
+							<Enter text here>
+								[mark_lz46dx46a811f19kz52q]<Enter text here>
+					[GOTO hero_you_dont_know_me]
+			Здарова
+				[mark_8ra12i504lwq2t5xv6pf]Забыл мое погоняло что ли?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
+					[gop1_name_hryash]Хрящ
+						[mark_3uu3073rd03979909520]Точняк! Мы с тобой недавно в клубешнике бухали.
+							[GOTO hero_you_wrong_i_dont_drink]
+					[GOTO gop1_name_kirpich]Кирпич
+						[mark_6930hdge2325a152653q]Нее, Кирпич - это другой чел...
+							[GOTO gop1_name_hryash]
+							[GOTO gop1_name_chervley]
+							[GOTO gop1_name_vasyan]
+					[gop1_name_chervley]Червлей
+						[mark_773c02iq32gmoe1n64s3]Нее, Червлей попозже подойдет...
+							[GOTO gop1_name_hryash]
+							[GOTO gop1_name_kirpich]
+							[GOTO gop1_name_vasyan]
+					[gop1_name_vasyan]Васян
+						[mark_r2o8845h92371j97wafq](Хрящ бьет тебя в тыкву)Сам ты Васян!
+							...
+								[mark_sv54ce7is24h03h0fg7c][GOTO mark_final14]
 			[donate]Достать лопатник.
 				[mark_ht148aj862wm21q30ogd][NAVIGATEURL https://money.yandex.ru/embed/shop.xml?account=41001220674141&quickpay=shop&payment-type-choice=on&writer=seller&targets=На развитие проекта&targets-hint=&default-sum=50&button-text=01&mail=on" width="450" height="199"]
 					
@@ -342,4 +389,4 @@
 [mark_final19]
 [mark_final20]Полкан заплатил тебе крупную сумму денег, чтобы ты забрал заявление из полиции. Больше тебя никогда не трогали. Главный положительный финал (но не самый правильный)
 [mark_final21]Ты отказался от денег Полкана и не забрал заявление. Бандитов посадили. А чуть позже Полкана сняли с должности, и он куда-то уехал. Главный положительный финал!
-[mark_final22]
+[mark_final22]Кирпич и Хрящ самоликвидировались. Положительный финал (но можно лучше)
