@@ -1,363 +1,359 @@
 [mark_6qt33ij77wk9z089lj79]Симулятор гопника, часть 5.\nv1.{this.game_version}[ANSWERSORDER ON][BGNDIMAGE Intro.jpg]
 	[mark_jq3z9230b0d555d900as]НАЧАТЬ ИГРУ / START THE GAME
 		[mark_au0e5w32c3m410n44507]Здарова, братан! Не узнал что ли? (гопник подходит вплотную)[VIDEO GopSpeechSimpleLoop][AUDIO hello][BGNDVIDEO GopStandsBouncing][ANSWERSORDER OFF]
-			Нет. А ты кто?
-				[mark_6alypq5q1m98ft66te87]Да ты чо, внатуре, мы с тобой недавно в клубешнике бухали![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules01][BGNDVIDEO GopStandsBouncing]
-					[hero_you_wrong_i_dont_drink]Ты ошибаешься, я не пью
-						[mark_e5clk197gpb673ill77w]Да не гони! Я помню ты нажрался в дрова! Ыыы...[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules02][BGNDVIDEO GopStandsBouncing]
-							[hero_you_dont_know_me]Ты меня с кем-то путаешь
-								[mark_uk20uioavhg205762bne]Нее, я тебя сразу узнал! Там еще с нами Кирпич был...
-									Какой Кирпич?
-										[gop1_about_gop2]Здоровый такой бык, боксер, кореш мой. Ты у него еще по-пьяне штукарь занял и не возвращаешь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules03][BGNDVIDEO GopStandsBouncing]
-											Ничего я ни у кого не занимал.
-												[mark_29ewi18dv2742cwyk306]Братишь, не по-пацански это. Долги отдавать надо.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules04][BGNDVIDEO GopStandsBouncing]
-													Я никому ничего не должен.
-														[mark_5tfl6i46zh2aj51o8jo5]Лады, давай Кирпича позовем, спросим. Если он подтвердит, ты мне тоже штукарь должен будешь. Согласен?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules05][BGNDVIDEO GopStandsBouncing]
-															Так он в твою пользу скажет.
-																[mark_32x4ej434z44wz39ezwc]Опачки! То есть ты считаешь, что Кирпич может стрендеть?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
-																	Я такого не говорил
-																		[mark_b4ijzr9au23r98u42fx1]Он по-твоему балабол?! Надо Кирпича позвать, уточнить этот момент...[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																			Вовсе нет
-																				[mark_b4ijzr9au23r98u42fx1]Ну так как, позвать его или просто штукарь вернешь?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																					А давай, зови, я объясню
-																						[mark_is9l30lpzegie914u2r4]- Алло, Кирпич! Ди сюда! Тут лошара твои деньги заныкал![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																							Уйду отсюда
-																								[mark_7o9oi4402x1to148qqxf]Куда ты пошел? Стой тут, жди Кирпича!
-																									[you_wait_gop2]Подожду Кирпича.
-																										[mark_82y74f91q9hk347m9kj0]Эээ, ты! Бабло мне вернул быстро!
-																											Я у тебя ничего не занимал
-																												[mark_tb2zlj12971734h227l7]Кирпич, этот черт тебя еще балаболом назвал.
-																													Я не говорил такого!
-																														[mark_d668k5r493u721343bqk]Ты чо, чертила! Я те щас очки пропишу с размаху![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																															Только попробуй, сядешь надолго!
-																																[mark_pefw5j351a75z6glg5g2]Дудух на!!!(кирпич пробил ГГ)[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																																	...
-																																		[mark_z67oqpivgewvnds08al0]Слышь, черт, теперь ты мне две штуки должен![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																																			
-																																				[mark_38a5650q7a5ywj5d3n06]И мне штукарь! (Хрящ говнистым голосом)[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																																					Отвалите от меня!
-																																						[mark_52a9s4of7n38045y9pqh]Здарова, пацаны, что здесь происходит? (третий герой, Червлей)
-																																							...
-																																								[mark_bs2svufhx5uxzfm30y2i]Иди куда шел!
-																																									...
-																																										[mark_mxckmzsfeq46195b0u3q]Зачем ты так со мной разговариваешь? Я может быть с самим Полканом знаком, знаешь такого?
-																																											...
-																																												[mark_p4e774y2zc4gdf6kck97]Полкана... Ты ментовской штоле? (Кирпич)
-																																													...
-																																														[mark_5g4e2a54i02sam7q1qgd]Просто знаю
-																																															Братан, помоги! Они с меня деньги трясут!
-																																																[mark_70gnr1p4q012tg66n1t6]Деньги трясут? Пацаны, да это же уголовка!
-																																																	...
-																																																		[mark_9nq319o4a76ys4e1k86p]И чо с того, что ты знаешь Полкана? Лады, слух, давай обсудим это с тобой.
-																																																			...
-																																																				[mark_5dxb2e2cr81rl35j3bak](отходят в сторону, шушукаются между собой)
-																																																					Достану мобилу
-																																																						[mark_js5qql20j0z3i8340h0i](достаешь мобилу)
-																																																							Сниму их на видео
-																																																								[mark_c1lh4w73vj9zm7ig30t2](снимаешь чуваков)
-																																																									...
-																																																										[mark_gz30b81g7i796fdk7qfy]Эээ, ты чо там снимаешь? Я те щас камеру разобью! (Кирпич подходит ближе, замахивается ножом)
-																																																											У меня видео в "облако" пишется.
-																																																												[mark_10193v11r11ed84g6gkz]Какое еще облако? Чо ты паришь?
-																																																													В интернете облако. Там видно будет, кто разбил.
-																																																														[mark_0n9dme43lsqaq4iq7033]Слышь ты, облако, убрал камеру быстро я сказал!
-																																																															Уберу мобилу
-																																																																[mark_459erwc4346s92kbjz55](Червлей возвращается к тебе)
-																																																																	...
-																																																																		[mark_d4i6muk0q956d23mc5rh]Слушай, я с ними поговорил. Сам помочь тебе не могу. Даже если сейчас помогу, то они завтра тебя снова выловят.
-																																																																			...
-																																																																				[mark_e05s609dt578w57f8eg5]У меня есть один вариант - я могу позвонить Полкану. Это мой босс, начальник районной полиции. Здесь, на его территории, они его боятся.
-																																																																					...
-																																																																						[mark_34975tmm22n4u97856m9]Он подъедет, разберется с ними. Только, сам понимаешь, не бесплатно. Ему минимум три штуки надо будет заплатить.
-																																																																							Это очень много для меня
-																																																																								[mark_4u3ujg93c09686am0q5y]Обычно он пять берет, но я договорюсь за три. И они тебя больше никогда не тронут. Позвонить ему?
-																																																																									А почему они успокоились?
-																																																																										[mark_72onm0i7h0504196y38y]Не верят, что я Полкана позвать могу. Дали мне полчаса времени, потом я хз что с тобой будет.
-																																																																											Ладно, я согласен, звони Полкану!
-																																																																												[mark_ygu3750y467znbsx5s58]Только ему заплатить надо сразу, иначе он на тебя очень сильно обидится. У тебя есть деньги или карта?
-																																																																													С собой нет, только дома.
-																																																																														[chervley_ok_go_home_take_money]Ладно, сбегай пока домой за деньгами, а я их разговором займу. Но в залог оставь мобилу.
-																																																																															Я не могу оставить мобилу
-																																																																																[mark_kv8lhohd0bc6iz85v1b7]Понимаешь, я за тебя сейчас впрягаюсь, а ты, если не вернешься, меня сильно подставишь.
-																																																																																	Нет, я не могу без мобилы
-																																																																																		[chervley_cant_help_you]Тогда я не могу тебе помочь, выкручивайся сам.
-																																																																																			[mark_5d5t5qd432n24j90uw3i]Давай ко мне домой вместе сходим
-																																																																																				[mark_3wy8d582i3p76ssl57k3]Думаешь, они тебя отпустят?
-																																																																																					Скажи им, что я за деньгами.
-																																																																																						[mark_8086spuxapd8g24yn9u6](идет к челам, опять шушукаются о чем то)
-																																																																																							...
-																																																																																								[mark_5bv656a52kl842gy92hx]Они сказали, что за нами пойдут.
-																																																																																									Ну пусть идут.
-																																																																																										[mark_4k4d1vsbj8m0388hpt0t](видео с камеры на доме во дворе)
-																																																																																											...
-																																																																																												[mark_vfz19753k210voz255qr](видео, как заходят в подъезд)
-																																																																																													...
-																																																																																														[mark_rbxul59kmi5ely7agmi6](видео на этаже)
-																																																																																															Подожди здесь, я сейчас вынесу.
-																																																																																																[mark_t5fp242jm0d6vl5b5878]Давай, только не подставляй меня.
-																																																																																																	Да я быстро!
-																																																																																																		[mark_3182okae9f63vx0n00x9](видео в квартире)Что теперь будешь делать?
-																																																																																																			Позвоню в полицию.
-																																																																																																				[mark_3140585l6rb830m76o0w]- Алло, полиция! У меня деньги вымогают! Пришлите наряд!
-																																																																																																					...
-																																																																																																						[mark_90598350p45rz101xjzu]Через 5 минут...(видео, как чел убегает из подъезда)
-																																																																																																							...
-																																																																																																								[mark_d39ph33i76mm42km12ar]Через полчаса к тебе приехала полиция. Конечно же, никого из бандитов уже не было.(видео, как бобик подъезжает)
-																																																																																																									...
-																																																																																																										[mark_jj1415p60549c75og4iy]Ты поехал в полицию, написал заявление о разбойном нападении, вымогательстве и передал вовремя отснятое видео. (бобик увозит ГГ)
-																																																																																																											...
-																																																																																																												[mark_v0s021y00y4673u7j96x]Через некоторое время, полиция вычислила подозреваемых и предъявила им обвинения по статье 162 УК РФ, Разбой.
-																																																																																																													...
-																																																																																																														[mark_kz9utf5367l3uf37s7wo]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.
-																																																																																																															...
-																																																																																																																[mark_sd4o99qhh71vt9ty5p1a]Здравствуй. Меня зовут Полкан. У меня к тебе предложение - я даю тебе денег, а ты забираешь свое заявление из полиции, чтобы ребят отпустили. Обещаю, они тебя больше никогда не побеспокоят. Согласен?
-																																																																																																																	Нет, я не согласен
-																																																																																																																		[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги!!!(Полкан угрожает пистолетом)
-																																																																																																																			[ok_take_money_from_polkan]Ладно, я согласен
-																																																																																																																				[mark_iy35st9q2g3s1y9zzyu6][GOTO mark_final20]
-																																																																																																																			Нет, я не возьму
-																																																																																																																				[mark_1m964ojth3g9o801za12]Я же тебя пристрелю, как щенка! И мне ничего за это не будет! Ты разве этого не понимаешь?
-																																																																																																																					Просто мои очки сейчас пишут видео в "облако"
-																																																																																																																						[mark_mkgji67st6zn8tmcdpik][GOTO mark_final21]
-																																																																																																																	[GOTO ok_take_money_from_polkan]
-																																																																																																			[mark_8y60755o339g7r3ksx3t]Вынесу деньги.
-																																																																																																			[mark_f0p7nao9asmwi0g13i36]Лягу спать.
-																																																																																			Ладно, вот мобила.
-																																																																																				[mark_ur578879x8ky406v596d](убегаешь домой)Вернешься?
-																																																																																					Да
-																																																																																						[mark_7e7226b2d60cfcxv6510](вернулся)
-																																																																																							...
-																																																																																								[mark_6qfim9j8l62sj7yquf7l]Ну как, принес?
-																																																																																									Да.
-																																																																																										[chervley_give_money_for_polkan]Хорошо, давай мне, только незаметно.
-																																																																																											Держи.
-																																																																																												[mark_1mndfg2f5x4bf8r3h2ga]- Алло, Пал Палыч, здравствуйте... (далее неразборчиво)
-																																																																																													
-																																																																																														[mark_le4gz524fdqo7o55z623]Сейчас приедет.
-																																																																																															
-																																																																																																[polkan_arrived]Ждем полкана.
-																																																																																																	
-																																																																																																		[mark_6lsvvz92ns85u5a6q603]- Алло, Пал Палыч, приехали? А где стоите? Понял, сейчас их приведу...
-																																																																																																			
-																																																																																																				[mark_79nn070747v3p5vwy50q]Все, можешь идти домой.
-																																																																																																					
-																																																																																																						[mark_i9jf375y9m1sb01o394p](все трое идут за угол)
-																																																																																																							
-																																																																																																								[mark_5996989h48nxeo95zw2y](уходишь)
-																																																																																																									
-																																																																																																										[mark_ajeg6aq37l8k4nyb3h8i][GOTO mark_final6]
-																																																																																					Нет. Ну их всех в баню!
-																																																																																						[mark_73d84n024ou7l5396688]Отрицательный финал, ты утратил мобилу.
-																																																																																			[mark_44ekxqtr50lcbj5l3cn6]Хотел бы помочь - помог уже
-																																																																																				[mark_mq8y82pxq6b9koy6t2eu](помощник уходит)
-																																																																																					[mark_dtf7enrc53a5cexc9q0i]...
-																																																																																						[mark_5a9r0v13qcl3q69j5j68]Ну чо, лошара, сдулся твой приятель? Ыыы... Гони бабло!
-																																																																																							[mark_a8j2m78g8tkxzgu4vg70]Он сейчас вернется, я же ему заплатил
-																																																																																								[mark_5h555f9bcp4o9309985v]Чо??? Ты отдал бабло Червлею?!
-																																																																																									[mark_bofao6s64894h75tx87j]Так вы его знаете?
-																																																																																										[mark_8w4614pylmip7f24n408]Быстро бежим за ним!!!
-																																																																																											[mark_c6jswd340hl1ce99jg4t]...
-																																																																																												[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
-																																																																																							Я вам ничего не должен
-																																																																																								[mark_g1i4e59244axc79jp05u](тут будет динамическая битва один против двоих, исходы: они тебя два раза, ты их один)
-																																																																																	[mark_3xb0sl66ej831882jmhr][GOTO give_mobile_for_home_money]
-																																																																													[mark_uwc9bq4k352bxlm888o8]Да.
-																																																																														[mark_u93jvtuk1o12x3r4ahy9][GOTO chervley_give_money_for_polkan]
-																																																																													[mark_g40ynlt837g12oig560x]Нет, ничего нет.
-																																																																														[mark_9r6fq1et1jy1zad7zcu9]А дома есть?
-																																																																															Нет, дома тоже ничего нет.
-																																																																																[mark_7em3r5d2adn0d184knb7][GOTO chervley_cant_help_you]
-																																																																															Да, дома есть
-																																																																																[mark_8z0b6imnl6w69phcp5r5][GOTO chervley_ok_go_home_take_money]
-																																																							Сделаю вид, что звонят
-																																																								[mark_2xj8sa309856we5r87l1]Эээ, ты чо там достал? Мобилу?
-																																																									Мама звонит, надо обязательно ответить
-																																																										[mark_c144b60b0v1byo3879j0]- Алло, мам! Да, все нормально у меня. Да, дела нормально... (медленно уходишь за угол, убегаешь)
-																																																											...
-																																																												[mark_1lf441i5zl498du9a273][GOTO mark_final11]
-																																																					Просто постою
-																																																						[mark_5x7oh2ocq92r3b2up30c]<Enter text here>
-																																																							<Enter text here>
-																																					Ладно, ладно, отдам!
-																																						[mark_2u0l69w5v6h0mh98y01b]Гони сюда бабло![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																																							У меня с собой нет
-																																								[mark_k3tj65r027942icevw7j]Ты чо, издеваешься? Хрящ, достань перо!
-																																									Дайте мне время, я домой сбегаю!
-																																										[mark_aep0i960511x767a18uy]Аха, щас! Кинуть нас удумал? В залог оставляй мобилу, чертилла!
-																																											Мне мобила нужна, чтобы деньги снять
-																																												[mark_zh6ef12262yb6kv7632s]Ты чо, нас совсем за простачков держишь? Идем, показывай, где живешь!
-																																													Да я тут рядом живу, я мигом сбегаю!
-																																														[mark_5jp26yowf2l98ar730v1]Слух, Кирпич, внатуре, пусть сам сгоняет. Если не вернется, мы его потом полюбасу выловим!
-																																															...
-																																																[mark_m956oyh8d8y2c6204ac9]Лады, беги. Если через полчаса не вернешься, я твою тушку лично проткну, понял?
-																																																	Да я вернусь!
-																																																		[mark_3l531p42uj5745206j4p](заходишь в квартиру) Что будешь делать?
-																																																			Возьму колбасу и водку
-																																																				[mark_6881c5flyoah7si0fk60]Теперь что?
-																																																					Вернусь к гопам
-																																																						[mark_m20f321obl6k853h4i4v](вернулся к гопам)Вернулся, успел... где бабло?
-																																																							Ребят, такое дело, нет денег...
-																																																								[mark_a8922t0s31a6rdd6io8t]Ты чо, чертилла, совсем охренел??? Хрящ, дай перо!
-																																																									Я не виноват! Напарник, студент, все истратил
-																																																										[mark_0arav4pg6bji62in8q88]Моя какая проблема?! Я свое слово держу - щас в тебе дыра будет!
-																																																											
-																																																												[mark_824x92onje9wb1abvn85]Кирпич, погоди! Смотри, у него пакет. Чо у тебя в пакете ? Ну-ка дай сюда!
-																																																													Ребят, пожалуйста, не трогайте...
-																																																														[mark_6iyz6my23hvzz8w0sns1](вырывает пакет) Кирпич, смотри - колбаса и водка!
-																																																															Ребята, серъезно, вам это не надо...
-																																																																[mark_zn5107hjieyk1u7yjj96]Тебя спросить забыли! Я жрать хочу, наливай! (наливает)
-																																																																	...
-																																																																		[mark_74x8116z8lrf9r5ual5x]Нормас пошла, закусим!(закусывает колбасой)
-																																																																			...
-																																																																				[mark_xe442uj7f8q38w90nzb9](Кирпич)А-А-А!!! Измена! Колбаса! Мне днище вырывает!
-																																																																					Я же говорил вам - не надо!
-																																																																						[mark_6k3e7tl33b86z2ax1w6a]В развалины! Срочно! Разгружаться!
-																																																																							Ах-ха-ха-ха!!!
-																																																																								[mark_7y3w1jifrvcm082l395o][GOTO mark_final1]
-																																																					Выпью и закушу для храбрости
-																																																						[mark_8dcn5za8772mu2f0o6q8][GOTO mark_final5]
-																																																			Закроюсь и лягу спать
-																																																				[mark_06m6192i04k5ga55a156][GOTO mark_final5]
-																																																			Позвоню в полицию
-																																																				[mark_ua97hy88uz1701x8t40y]<Enter text here>
-																																											Да, вот, держи
-																																												[mark_1j35eyb12b9ev73had2e]У тебя ровно полчаса, крыса! Не успеешь, без мобилы останешься.
-																																													Я вернусь!
-																																														[mark_ud0l13544j40877i16rj][GOTO mark_final2]
-																															Встану в стойку
-																																[mark_z8u0fc6xv4l41es84tvk](Кирпич наносит удар правой)
-																																	Пригнусь
-																																		[mark_76t31o9x1kmxwxq309ae](Хрящ наносит удар левой)
-																																			Поставлю блок
-																																				[mark_333zb2h71rc736q91lb3](Кирпич пытается пнуть)
-																																					Отпрыгну назад
-																																						[mark_f9mp82e794lh513y2vzy](Кирпич и Хрящ одновременно заносят руки в удар (правая и левая руки соответ) и медленно бьют, идет таймер)
-																																							Поставлю блок
-																																								[mark_2db9980107z78rl6u63i](Кирпич и Хрящ одновременно бьют замедленно)
-																																									Проскочу между ними
-																																										[mark_ecs61i21bdtu696h51z1](Кирпич и Хрящ стукнули стукнули друг-друга в тыквы и самоликвидировались)
-																																											...
-																																												[mark_n7znc86030ay1yofb3p7][GOTO mark_final22]
-																																							Пригнусь
-																																								[mark_dx1oo0ot9upmv97jox2x](Пинают тебя одновременно)
-																																									...
-																																										[mark_4ky82257892ua3szm6m9][GOTO mark_final17]
-																																					Поставлю блок
-																																						[mark_vmvp82r80c31md1do5sv](Кирпич пропинывает твой блок)
-																																							...
-																																								[mark_cpa74ek0v43ze54w8647][GOTO mark_final17]
-																																			Пригнусь
-																																				[mark_92697385np2u07f2pouf](Хрящ пинает тебя в лицо)
-																																					...
-																																						[mark_k558349g92o2hkmjb33a][GOTO mark_final17]
-																																	Поставлю блок
-																																		[mark_3i736w7qmv0b5l15q0r8](блок не спас от Кирпича, пробил в тыкву)
-																																			...
-																																				[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
-																									Мне некогда
-																										[mark_7j1uu6q6w1ig035hx2jy]Я те сказал стой тут, жди Кирпича!
-																											Стукну в тыкву
-																												[mark_x62k643iom09cwmjdwdf](удар, гоп уворачивается, идет время на ответ)
-																													Еще удар
-																														[mark_1hj4466em106g59vhi17](удар другой рукой, гоп уворачивается, идет время на ответ)
-																															Присяду
-																																[mark_t732dlc1075msv84xxkb](Гоп замахивается, без удара)
-																																	Присяду
-																																		[mark_h5aq234y09k43mr949a3](гоп ударяет в воздух над тобой)
-																																			Апперкот
-																																				[mark_su7856dz60n3suca41f5](гоп отлетает назад)
-																																					...
-																																						[mark_2510wf555p36di44ws5a][GOTO mark_final15]
-																																			[battle_you_sit_down]Присяду
-																																				[mark_6qj6c6rp207793rs35ik](ты присаживаешься, гоп1 пинает тебя с ноги)
-																																					...
-																																						[mark_l503n0656u50a8mdz26l][GOTO mark_final14]
-																																	Еще удар
-																																		[mark_f1866depr165posh0q80](Гоп1 отлетает назад)
-																																			...
-																																				[mark_y35q62iqmj30vc3197n7](сзади тебя бьют по голове, экран чернеет)
-																																					...
-																																						[mark_7qgl2t00017943h445h6][GOTO mark_final16]
-																															Отойду назад
-																																[mark_qv1og1325u0brex06m61](Гоп прыгает на тебя и бьет в репу, ты падаешь)
-																																	[GOTO mark_final14]
-																													[GOTO battle_you_sit_down]
-																											Да пошел ты!
-																												[mark_0mutcki7py0194n7a7ov][GOTO mark_final9]
-																							[GOTO you_wait_gop2]
-																					Ладно, отдам, только у меня на карте.
-																						[mark_1bya98c75zlmcuk7m6jb]Так переведи мне с карты на карту по номеру мобилы.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																							У меня карта не привязана к номеру
-																								[mark_4uymxj79h9g7572l6d28]И чо? Давай сюда мобилу, я привяжу.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																									Не получится, на ней Инета нет
-																										[mark_mptq2k084l1fd65lz41u]Я тебе свой Инет раздам.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																											Нее, давай я лучше до банкомата схожу
-																												[mark_krayolv9f9t0sj93tc2r]Лады, сходи, но мобилу в залог оставь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
-																													Хотя нет, давай по-другому
-																														[mark_6l4879o950bjjz2ij1i9]Как?
-																															Ты сходишь, а мне свою мобилу оставишь
-																																[mark_s2ee18mf1061136wk511]Эээ... лады, держи, я погнал.
-																																	...
-																																		[mark_gk441eebpwfvd66o5jp3](гоп тупанул и ушел)
-																																			...
-																																				[mark_e5363vgi79qv1pyabiw9][GOTO mark_final12]
-																													Ладно, держи
-																														[mark_96c9h4x1437p8ben8zzj][GOTO real_mobile,fake_mobile]
-																															
-																																[real_mobile](отдаешь настоящую мобилу)
-																																	Пойду
-																																		[mark_nx48fiv60vph5vd326pv][GOTO mark_final2]
-																																[fake_mobile](вытаскиваешь фейковую мобилу и отдаешь)
-																																	Уйду
-																																		[mark_u1790b94d15877de0281][GOTO mark_final3]
-																													Да тебе такая не нужна
-																														[mark_0057t87j888zd492g3au]Ну-ка покажи чо за мобила?
-																															Вот, смотри
-																																[mark_3v1vb7f40e695t35k5m4](достаешь древний кнопочный телефон типа nokia3310)
-																																	...
-																																		[mark_c5hx767k8d39ko8dl3yu]Братан, у тебя внатуре все так плохо? Вот тебе деньги, купи себе нормальную!
-																																			Спасибо, братан!
-																																				[mark_i0cvjx052393jj5270p0][GOTO mark_final13]
-																					Ладно, вот штукарь.
-																						[mark_bwf1i0d5n8284il51dw0]Слышь, а ты еще за тачку мне должен.
-																							Какую тачку?
-																								[mark_4ss1e0t6e6k8785q10l2]Мы тебя после клубешника на таксишке до дома довезли. С тебя сотка.
-																									Я такого не помню.
-																										[mark_47199268xi568wy4phk6]Конеш не помнишь, братишь - ты ж в отключке был. А мог бы и спасибо сказать.
-																											Больше я ничего не должен?
-																												[mark_68915docu9n0co4mzo9o]Да, вроде, нет.
-																													Ладно, держи сотку.
-																														[mark_esoqm6nsauu7slcae50y]А, погоди, вспомнил - ты по пути просил купить сиги. С тебя двухсотка еще.
-																															Я же не курю!
-																																[mark_n82l43lt8z01620n83b6]Так ты нам с Кирпичом их подарил, мы отказывались, а ты сказал: "Берите, пацаны, запишите на мой счет!".
-																																	Сигареты за двести? Дорого как-то...
-																																		[mark_156d96me7l349g4278qz]Так ты блатные сиги купил - с кнопкой. Ваще ты вейп хотел купить, но мы отговорили...
-																																			Ладно, вот еще двести.
-																																				[mark_v8246e24t7o188e5s760][GOTO mark_final4]
-					Это был не я.
-						[mark_0zpjx419w77x5diw77v0]Братишь, да ты тогда весь вечер был не ты!
-							<Enter text here>
-								[mark_lz46dx46a811f19kz52q]<Enter text here>
-					[GOTO hero_you_dont_know_me]
 			Здарова
-				[mark_8ra12i504lwq2t5xv6pf]Забыл мое погоняло что ли?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
-					[gop1_name_hryash]Хрящ
-						[mark_3uu3073rd03979909520]Точняк! Мы с тобой недавно в клубешнике бухали.
-							[GOTO hero_you_wrong_i_dont_drink]
-					[GOTO gop1_name_kirpich]Кирпич
-						[mark_6930hdge2325a152653q]Нее, Кирпич - это другой чел...
+				[mark_8ra12i504lwq2t5xv6pf]Помнишь, меня?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
+					Нет, не помню
+						[we_clubbed_together]Да ты чо, внатуре, мы с тобой недавно в клубешнике бухали![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules01][BGNDVIDEO GopStandsBouncing]
+							[hero_you_wrong_i_dont_drink]Ты ошибаешься, я не пью
+								[mark_e5clk197gpb673ill77w]Да не гони! Я помню ты нажрался в дрова! Ыыы...[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules02][BGNDVIDEO GopStandsBouncing]
+									[hero_you_dont_know_me]Ты меня с кем-то путаешь
+										[mark_uk20uioavhg205762bne]Нее, я тебя сразу узнал! Там еще с нами Кирпич был...
+											[who_is_kirpich]Какой Кирпич?
+												[gop1_about_gop2]Здоровый такой бык, боксер, кореш мой. Ты у него еще по-пьяне штукарь занял и не отдаешь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules03][BGNDVIDEO GopStandsBouncing]
+													Ничего я ни у кого не занимал.
+														[mark_29ewi18dv2742cwyk306]Братишь, не по-пацански это. Долги отдавать надо.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules04][BGNDVIDEO GopStandsBouncing]
+															Я никому ничего не должен.
+																[mark_5tfl6i46zh2aj51o8jo5]Лады, давай Кирпича позовем, спросим. Если он подтвердит, ты мне тоже штукарь должен будешь. Согласен?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules05][BGNDVIDEO GopStandsBouncing]
+																	Так он в твою пользу скажет.
+																		[mark_32x4ej434z44wz39ezwc]Опачки! То есть ты считаешь, что Кирпич может стрендеть?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules06][BGNDVIDEO GopStandsBouncing]
+																			Я такого не говорил
+																				[mark_b4ijzr9au23r98u42fx1]Он по-твоему балабол?! Надо Кирпича позвать, уточнить этот момент...[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																					Вовсе нет
+																						[mark_b4ijzr9au23r98u42fx1]Ну так как, позвать его или просто штукарь вернешь?[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																							А давай, зови, я объясню
+																								[mark_is9l30lpzegie914u2r4]- Алло, Кирпич! Ди сюда! Тут лошара твои деньги заныкал![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																									Уйду отсюда
+																										[mark_7o9oi4402x1to148qqxf]Куда ты пошел? Стой тут, жди Кирпича!
+																											[you_wait_gop2]Подожду Кирпича.
+																												[mark_82y74f91q9hk347m9kj0]Эээ, ты! Бабло мне вернул быстро!
+																													Я у тебя ничего не занимал
+																														[mark_tb2zlj12971734h227l7]Кирпич, этот черт тебя еще балаболом назвал.
+																															Я не говорил такого!
+																																[mark_d668k5r493u721343bqk]Ты чо, чертила! Я те щас очки пропишу с размаху![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																																	Только попробуй, сядешь надолго!
+																																		[mark_pefw5j351a75z6glg5g2]Дудух на!!!(кирпич пробил ГГ)[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																																			...
+																																				[mark_z67oqpivgewvnds08al0]Слышь, черт, теперь ты мне две штуки должен![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																																					
+																																						[mark_38a5650q7a5ywj5d3n06]И мне штукарь! (Хрящ говнистым голосом)[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																																							Отвалите от меня!
+																																								[mark_52a9s4of7n38045y9pqh]Здарова, пацаны, что здесь происходит? (третий герой, Червлей)
+																																									...
+																																										[mark_bs2svufhx5uxzfm30y2i]Иди куда шел!
+																																											...
+																																												[mark_mxckmzsfeq46195b0u3q]Зачем ты так со мной разговариваешь? Я может быть с самим Полканом знаком, знаешь такого?
+																																													...
+																																														[mark_p4e774y2zc4gdf6kck97]Полкана... Ты ментовской штоле? (Кирпич)
+																																															...
+																																																[mark_5g4e2a54i02sam7q1qgd]Просто знаю
+																																																	Братан, помоги! Они с меня деньги трясут!
+																																																		[mark_70gnr1p4q012tg66n1t6]Деньги трясут? Пацаны, да это же уголовка!
+																																																			...
+																																																				[mark_9nq319o4a76ys4e1k86p]И чо с того, что ты знаешь Полкана? Лады, слух, давай обсудим это с тобой.
+																																																					...
+																																																						[mark_5dxb2e2cr81rl35j3bak](отходят в сторону, шушукаются между собой)
+																																																							Достану мобилу
+																																																								[mark_js5qql20j0z3i8340h0i](достаешь мобилу)
+																																																									Сниму их на видео
+																																																										[mark_c1lh4w73vj9zm7ig30t2](снимаешь чуваков)
+																																																											...
+																																																												[mark_gz30b81g7i796fdk7qfy]Эээ, ты чо там снимаешь? Я те щас камеру разобью! (Кирпич подходит ближе, замахивается ножом)
+																																																													У меня видео в "облако" пишется.
+																																																														[mark_10193v11r11ed84g6gkz]Какое еще облако? Чо ты паришь?
+																																																															В интернете облако. Там видно будет, кто разбил.
+																																																																[mark_0n9dme43lsqaq4iq7033]Слышь ты, облако, убрал камеру быстро я сказал!
+																																																																	Уберу мобилу
+																																																																		[mark_459erwc4346s92kbjz55](Червлей возвращается к тебе)
+																																																																			...
+																																																																				[mark_d4i6muk0q956d23mc5rh]Слушай, я с ними поговорил. Сам помочь тебе не могу. Даже если сейчас помогу, то они завтра тебя снова выловят.
+																																																																					...
+																																																																						[mark_e05s609dt578w57f8eg5]У меня есть один вариант - я могу позвонить Полкану. Это мой босс, начальник районной полиции. Здесь, на его территории, они его боятся.
+																																																																							...
+																																																																								[mark_34975tmm22n4u97856m9]Он подъедет, разберется с ними. Только, сам понимаешь, не бесплатно. Ему минимум три штуки надо будет заплатить.
+																																																																									Это очень много для меня
+																																																																										[mark_4u3ujg93c09686am0q5y]Обычно он пять берет, но я договорюсь за три. И они тебя больше никогда не тронут. Позвонить ему?
+																																																																											А почему они успокоились?
+																																																																												[mark_72onm0i7h0504196y38y]Не верят, что я Полкана позвать могу. Дали мне полчаса времени, потом я хз что с тобой будет.
+																																																																													Ладно, я согласен, звони Полкану!
+																																																																														[mark_ygu3750y467znbsx5s58]Только ему заплатить надо сразу, иначе он на тебя очень сильно обидится. У тебя есть деньги или карта?
+																																																																															С собой нет, только дома.
+																																																																																[chervley_ok_go_home_take_money]Ладно, сбегай пока домой за деньгами, а я их разговором займу. Но в залог оставь мобилу.
+																																																																																	Я не могу оставить мобилу
+																																																																																		[mark_kv8lhohd0bc6iz85v1b7]Понимаешь, я за тебя сейчас впрягаюсь, а ты, если не вернешься, меня сильно подставишь.
+																																																																																			Нет, я не могу без мобилы
+																																																																																				[chervley_cant_help_you]Тогда я не могу тебе помочь, выкручивайся сам.
+																																																																																					[mark_5d5t5qd432n24j90uw3i]Давай ко мне домой вместе сходим
+																																																																																						[mark_3wy8d582i3p76ssl57k3]Думаешь, они тебя отпустят?
+																																																																																							Скажи им, что я за деньгами.
+																																																																																								[mark_8086spuxapd8g24yn9u6](идет к челам, опять шушукаются о чем то)
+																																																																																									...
+																																																																																										[mark_5bv656a52kl842gy92hx]Они сказали, что за нами пойдут.
+																																																																																											Ну пусть идут.
+																																																																																												[mark_4k4d1vsbj8m0388hpt0t](видео с камеры на доме во дворе)
+																																																																																													...
+																																																																																														[mark_vfz19753k210voz255qr](видео, как заходят в подъезд)
+																																																																																															...
+																																																																																																[mark_rbxul59kmi5ely7agmi6](видео на этаже)
+																																																																																																	Подожди здесь, я сейчас вынесу.
+																																																																																																		[mark_t5fp242jm0d6vl5b5878]Давай, только не подставляй меня.
+																																																																																																			Да я быстро!
+																																																																																																				[mark_3182okae9f63vx0n00x9](видео в квартире)Что теперь будешь делать?
+																																																																																																					Позвоню в полицию.
+																																																																																																						[mark_3140585l6rb830m76o0w]- Алло, полиция! У меня деньги вымогают! Пришлите наряд!
+																																																																																																							...
+																																																																																																								[mark_90598350p45rz101xjzu]Через 5 минут...(видео, как чел убегает из подъезда)
+																																																																																																									...
+																																																																																																										[mark_d39ph33i76mm42km12ar]Через полчаса к тебе приехала полиция. Конечно же, никого из бандитов уже не было.(видео, как бобик подъезжает)
+																																																																																																											...
+																																																																																																												[mark_jj1415p60549c75og4iy]Ты поехал в полицию, написал заявление о разбойном нападении, вымогательстве и передал вовремя отснятое видео. (бобик увозит ГГ)
+																																																																																																													...
+																																																																																																														[mark_v0s021y00y4673u7j96x]Через некоторое время, полиция вычислила подозреваемых и предъявила им обвинения по статье 162 УК РФ, Разбой.
+																																																																																																															...
+																																																																																																																[mark_kz9utf5367l3uf37s7wo]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.
+																																																																																																																	...
+																																																																																																																		[mark_sd4o99qhh71vt9ty5p1a]Здравствуй. Меня зовут Полкан. У меня к тебе предложение - я даю тебе денег, а ты забираешь свое заявление из полиции, чтобы ребят отпустили. Обещаю, они тебя больше никогда не побеспокоят. Согласен?
+																																																																																																																			Нет, я не согласен
+																																																																																																																				[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги!!!(Полкан угрожает пистолетом)
+																																																																																																																					[ok_take_money_from_polkan]Ладно, я согласен
+																																																																																																																						[mark_iy35st9q2g3s1y9zzyu6][GOTO mark_final20]
+																																																																																																																					Нет, я не возьму
+																																																																																																																						[mark_1m964ojth3g9o801za12]Я же тебя пристрелю, как щенка! И мне ничего за это не будет! Ты разве этого не понимаешь?
+																																																																																																																							Просто мои очки сейчас пишут видео в "облако"
+																																																																																																																								[mark_mkgji67st6zn8tmcdpik][GOTO mark_final21]
+																																																																																																																			[GOTO ok_take_money_from_polkan]
+																																																																																																					[mark_8y60755o339g7r3ksx3t]Вынесу деньги.
+																																																																																																					[mark_f0p7nao9asmwi0g13i36]Лягу спать.
+																																																																																					Ладно, вот мобила.
+																																																																																						[mark_ur578879x8ky406v596d](убегаешь домой)Вернешься?
+																																																																																							Да
+																																																																																								[mark_7e7226b2d60cfcxv6510](вернулся)
+																																																																																									...
+																																																																																										[mark_6qfim9j8l62sj7yquf7l]Ну как, принес?
+																																																																																											Да.
+																																																																																												[chervley_give_money_for_polkan]Хорошо, давай мне, только незаметно.
+																																																																																													Держи.
+																																																																																														[mark_1mndfg2f5x4bf8r3h2ga]- Алло, Пал Палыч, здравствуйте... (далее неразборчиво)
+																																																																																															
+																																																																																																[mark_le4gz524fdqo7o55z623]Сейчас приедет.
+																																																																																																	
+																																																																																																		[polkan_arrived]Ждем полкана.
+																																																																																																			
+																																																																																																				[mark_6lsvvz92ns85u5a6q603]- Алло, Пал Палыч, приехали? А где стоите? Понял, сейчас их приведу...
+																																																																																																					
+																																																																																																						[mark_79nn070747v3p5vwy50q]Все, можешь идти домой.
+																																																																																																							
+																																																																																																								[mark_i9jf375y9m1sb01o394p](все трое идут за угол)
+																																																																																																									
+																																																																																																										[mark_5996989h48nxeo95zw2y](уходишь)
+																																																																																																											
+																																																																																																												[mark_ajeg6aq37l8k4nyb3h8i][GOTO mark_final6]
+																																																																																							Нет. Ну их всех в баню!
+																																																																																								[mark_73d84n024ou7l5396688]Отрицательный финал, ты утратил мобилу.
+																																																																																					[mark_44ekxqtr50lcbj5l3cn6]Хотел бы помочь - помог уже
+																																																																																						[mark_mq8y82pxq6b9koy6t2eu](помощник уходит)
+																																																																																							[mark_dtf7enrc53a5cexc9q0i]...
+																																																																																								[mark_5a9r0v13qcl3q69j5j68]Ну чо, лошара, сдулся твой приятель? Ыыы... Гони бабло!
+																																																																																									[mark_a8j2m78g8tkxzgu4vg70]Он сейчас вернется, я же ему заплатил
+																																																																																										[mark_5h555f9bcp4o9309985v]Чо??? Ты отдал бабло Червлею?!
+																																																																																											[mark_bofao6s64894h75tx87j]Так вы его знаете?
+																																																																																												[mark_8w4614pylmip7f24n408]Быстро бежим за ним!!!
+																																																																																													[mark_c6jswd340hl1ce99jg4t]...
+																																																																																														[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
+																																																																																									Я вам ничего не должен
+																																																																																										[mark_g1i4e59244axc79jp05u](тут будет динамическая битва один против двоих, исходы: они тебя два раза, ты их один)
+																																																																																			[mark_3xb0sl66ej831882jmhr][GOTO give_mobile_for_home_money]
+																																																																															[mark_uwc9bq4k352bxlm888o8]Да.
+																																																																																[mark_u93jvtuk1o12x3r4ahy9][GOTO chervley_give_money_for_polkan]
+																																																																															[mark_g40ynlt837g12oig560x]Нет, ничего нет.
+																																																																																[mark_9r6fq1et1jy1zad7zcu9]А дома есть?
+																																																																																	Нет, дома тоже ничего нет.
+																																																																																		[mark_7em3r5d2adn0d184knb7][GOTO chervley_cant_help_you]
+																																																																																	Да, дома есть
+																																																																																		[mark_8z0b6imnl6w69phcp5r5][GOTO chervley_ok_go_home_take_money]
+																																																									Сделаю вид, что звонят
+																																																										[mark_2xj8sa309856we5r87l1]Эээ, ты чо там достал? Мобилу?
+																																																											Мама звонит, надо обязательно ответить
+																																																												[mark_c144b60b0v1byo3879j0]- Алло, мам! Да, все нормально у меня. Да, дела нормально... (медленно уходишь за угол, убегаешь)
+																																																													...
+																																																														[mark_1lf441i5zl498du9a273][GOTO mark_final11]
+																																																							Просто постою
+																																																								[mark_5x7oh2ocq92r3b2up30c]<Enter text here>
+																																																									<Enter text here>
+																																							Ладно, ладно, отдам!
+																																								[mark_2u0l69w5v6h0mh98y01b]Гони сюда бабло![VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																																									У меня с собой нет
+																																										[mark_k3tj65r027942icevw7j]Ты чо, издеваешься? Хрящ, достань перо!
+																																											Дайте мне время, я домой сбегаю!
+																																												[mark_aep0i960511x767a18uy]Аха, щас! Кинуть нас удумал? В залог оставляй мобилу, чертилла!
+																																													Мне мобила нужна, чтобы деньги снять
+																																														[mark_zh6ef12262yb6kv7632s]Ты чо, нас совсем за простачков держишь? Идем, показывай, где живешь!
+																																															Да я тут рядом живу, я мигом сбегаю!
+																																																[mark_5jp26yowf2l98ar730v1]Слух, Кирпич, внатуре, пусть сам сгоняет. Если не вернется, мы его потом полюбасу выловим!
+																																																	...
+																																																		[mark_m956oyh8d8y2c6204ac9]Лады, беги. Если через полчаса не вернешься, я твою тушку лично проткну, понял?
+																																																			Да я вернусь!
+																																																				[mark_3l531p42uj5745206j4p](заходишь в квартиру) Что будешь делать?
+																																																					Возьму колбасу и водку
+																																																						[mark_6881c5flyoah7si0fk60]Теперь что?
+																																																							Вернусь к гопам
+																																																								[mark_m20f321obl6k853h4i4v](вернулся к гопам)Вернулся, успел... где бабло?
+																																																									Ребят, такое дело, нет денег...
+																																																										[mark_a8922t0s31a6rdd6io8t]Ты чо, чертилла, совсем охренел??? Хрящ, дай перо!
+																																																											Я не виноват! Напарник, студент, все истратил
+																																																												[mark_0arav4pg6bji62in8q88]Моя какая проблема?! Я свое слово держу - щас в тебе дыра будет!
+																																																													
+																																																														[mark_824x92onje9wb1abvn85]Кирпич, погоди! Смотри, у него пакет. Чо у тебя в пакете ? Ну-ка дай сюда!
+																																																															Ребят, пожалуйста, не трогайте...
+																																																																[mark_6iyz6my23hvzz8w0sns1](вырывает пакет) Кирпич, смотри - колбаса и водка!
+																																																																	Ребята, серъезно, вам это не надо...
+																																																																		[mark_zn5107hjieyk1u7yjj96]Тебя спросить забыли! Я жрать хочу, наливай! (наливает)
+																																																																			...
+																																																																				[mark_74x8116z8lrf9r5ual5x]Нормас пошла, закусим!(закусывает колбасой)
+																																																																					...
+																																																																						[mark_xe442uj7f8q38w90nzb9](Кирпич)А-А-А!!! Измена! Колбаса! Мне днище вырывает!
+																																																																							Я же говорил вам - не надо!
+																																																																								[mark_6k3e7tl33b86z2ax1w6a]В развалины! Срочно! Разгружаться!
+																																																																									Ах-ха-ха-ха!!!
+																																																																										[mark_7y3w1jifrvcm082l395o][GOTO mark_final1]
+																																																							Выпью и закушу для храбрости
+																																																								[mark_8dcn5za8772mu2f0o6q8][GOTO mark_final5]
+																																																					Закроюсь и лягу спать
+																																																						[mark_06m6192i04k5ga55a156][GOTO mark_final5]
+																																																					Позвоню в полицию
+																																																						[mark_ua97hy88uz1701x8t40y]<Enter text here>
+																																													Да, вот, держи
+																																														[mark_1j35eyb12b9ev73had2e]У тебя ровно полчаса, крыса! Не успеешь, без мобилы останешься.
+																																															Я вернусь!
+																																																[mark_ud0l13544j40877i16rj][GOTO mark_final2]
+																																	Встану в стойку
+																																		[mark_z8u0fc6xv4l41es84tvk](Кирпич наносит удар правой)
+																																			Пригнусь
+																																				[mark_76t31o9x1kmxwxq309ae](Хрящ наносит удар левой)
+																																					Поставлю блок
+																																						[mark_333zb2h71rc736q91lb3](Кирпич пытается пнуть)
+																																							Отпрыгну назад
+																																								[mark_f9mp82e794lh513y2vzy](Кирпич и Хрящ одновременно заносят руки в удар (правая и левая руки соответ) и медленно бьют, идет таймер)
+																																									Поставлю блок
+																																										[mark_2db9980107z78rl6u63i](Кирпич и Хрящ одновременно бьют замедленно)
+																																											Проскочу между ними
+																																												[mark_ecs61i21bdtu696h51z1](Кирпич и Хрящ стукнули стукнули друг-друга в тыквы и самоликвидировались)
+																																													...
+																																														[mark_n7znc86030ay1yofb3p7][GOTO mark_final22]
+																																									Пригнусь
+																																										[mark_dx1oo0ot9upmv97jox2x](Пинают тебя одновременно)
+																																											...
+																																												[mark_4ky82257892ua3szm6m9][GOTO mark_final17]
+																																							Поставлю блок
+																																								[mark_vmvp82r80c31md1do5sv](Кирпич пропинывает твой блок)
+																																									...
+																																										[mark_cpa74ek0v43ze54w8647][GOTO mark_final17]
+																																					Пригнусь
+																																						[mark_92697385np2u07f2pouf](Хрящ пинает тебя в лицо)
+																																							...
+																																								[mark_k558349g92o2hkmjb33a][GOTO mark_final17]
+																																			Поставлю блок
+																																				[mark_3i736w7qmv0b5l15q0r8](блок не спас от Кирпича, пробил в тыкву)
+																																					...
+																																						[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
+																											Мне некогда
+																												[mark_7j1uu6q6w1ig035hx2jy]Я те сказал стой тут, жди Кирпича!
+																													Стукну в тыкву
+																														[mark_x62k643iom09cwmjdwdf](удар, гоп уворачивается, идет время на ответ)
+																															Еще удар
+																																[mark_1hj4466em106g59vhi17](удар другой рукой, гоп уворачивается, идет время на ответ)
+																																	Присяду
+																																		[mark_t732dlc1075msv84xxkb](Гоп замахивается, без удара)
+																																			Присяду
+																																				[mark_h5aq234y09k43mr949a3](гоп ударяет в воздух над тобой)
+																																					Апперкот
+																																						[mark_su7856dz60n3suca41f5](гоп отлетает назад)
+																																							...
+																																								[mark_2510wf555p36di44ws5a][GOTO mark_final15]
+																																					[battle_you_sit_down]Присяду
+																																						[mark_6qj6c6rp207793rs35ik](ты присаживаешься, гоп1 пинает тебя с ноги)
+																																							...
+																																								[mark_l503n0656u50a8mdz26l][GOTO mark_final14]
+																																			Еще удар
+																																				[mark_f1866depr165posh0q80](Гоп1 отлетает назад)
+																																					...
+																																						[mark_y35q62iqmj30vc3197n7](сзади тебя бьют по голове, экран чернеет)
+																																							...
+																																								[mark_7qgl2t00017943h445h6][GOTO mark_final16]
+																																	Отойду назад
+																																		[mark_qv1og1325u0brex06m61](Гоп прыгает на тебя и бьет в репу, ты падаешь)
+																																			[GOTO mark_final14]
+																															[GOTO battle_you_sit_down]
+																													Да пошел ты!
+																														[mark_0mutcki7py0194n7a7ov][GOTO mark_final9]
+																									[GOTO you_wait_gop2]
+																							Ладно, отдам, только у меня на карте.
+																								[mark_1bya98c75zlmcuk7m6jb]Так переведи мне с карты на карту по номеру мобилы.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																									У меня карта не привязана к номеру
+																										[mark_4uymxj79h9g7572l6d28]И чо? Давай сюда мобилу, я привяжу.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																											Не получится, на ней Инета нет
+																												[mark_mptq2k084l1fd65lz41u]Я тебе свой Инет раздам.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																													Нее, давай я лучше до банкомата схожу
+																														[mark_krayolv9f9t0sj93tc2r]Лады, сходи, но мобилу в залог оставь.[VIDEO GopSpeechSimpleLoop][AUDIO rules/rules07][BGNDVIDEO GopStandsBouncing]
+																															Хотя нет, давай по-другому
+																																[mark_6l4879o950bjjz2ij1i9]Как?
+																																	Ты сходишь, а мне свою мобилу оставишь
+																																		[mark_s2ee18mf1061136wk511]Эээ... лады, держи, я погнал.
+																																			...
+																																				[mark_gk441eebpwfvd66o5jp3](гоп тупанул и ушел)
+																																					...
+																																						[mark_e5363vgi79qv1pyabiw9][GOTO mark_final12]
+																															Ладно, держи
+																																[mark_96c9h4x1437p8ben8zzj][GOTO real_mobile,fake_mobile]
+																																	
+																																		[real_mobile](отдаешь настоящую мобилу)
+																																			Пойду
+																																				[mark_nx48fiv60vph5vd326pv][GOTO mark_final2]
+																																		[fake_mobile](вытаскиваешь фейковую мобилу и отдаешь)
+																																			Уйду
+																																				[mark_u1790b94d15877de0281][GOTO mark_final3]
+																															Да тебе такая не нужна
+																																[mark_0057t87j888zd492g3au]Ну-ка покажи чо за мобила?
+																																	Вот, смотри
+																																		[mark_3v1vb7f40e695t35k5m4](достаешь древний кнопочный телефон типа nokia3310)
+																																			...
+																																				[mark_c5hx767k8d39ko8dl3yu]Братан, у тебя внатуре все так плохо? Вот тебе деньги, купи себе нормальную!
+																																					Спасибо, братан!
+																																						[mark_i0cvjx052393jj5270p0][GOTO mark_final13]
+																							Ладно, вот штукарь.
+																								[mark_bwf1i0d5n8284il51dw0]Слышь, а ты еще за тачку мне должен.
+																									Какую тачку?
+																										[mark_4ss1e0t6e6k8785q10l2]Мы тебя после клубешника на таксишке до дома довезли. С тебя сотка.
+																											Я такого не помню.
+																												[mark_47199268xi568wy4phk6]Конеш не помнишь, братишь - ты ж в отключке был. А мог бы и спасибо сказать.
+																													Больше я ничего не должен?
+																														[mark_68915docu9n0co4mzo9o]Да, вроде, нет.
+																															Ладно, держи сотку.
+																																[mark_esoqm6nsauu7slcae50y]А, погоди, вспомнил - ты по пути просил купить сиги. С тебя двухсотка еще.
+																																	Я же не курю!
+																																		[mark_n82l43lt8z01620n83b6]Так ты нам с Кирпичом их подарил, мы отказывались, а ты сказал: "Берите, пацаны, запишите на мой счет!".
+																																			Сигареты за двести? Дорого как-то...
+																																				[mark_156d96me7l349g4278qz]Так ты блатные сиги купил - с кнопкой. Ваще ты вейп хотел купить, но мы отговорили...
+																																					Ладно, вот еще двести.
+																																						[mark_v8246e24t7o188e5s760][GOTO mark_final4]
+							Это был не я.
+								[mark_0zpjx419w77x5diw77v0]Братишь, конеш не ты! Когда в дрова упился, просил чтоб тебя называли Черный Гопник.
+									<Enter text here>
+										[mark_lz46dx46a811f19kz52q]<Enter text here>
+							[GOTO hero_you_dont_know_me]
+					[gop1_name_hryash]Хрящ?
+						[mark_3uu3073rd03979909520]Точняк! Мы с тобой недавно в клубешнике бухали. Там еще Кирпич был.
+							[who_is_kirpich]
+					[gop1_name_chervley]Червлей?
+						[mark_773c02iq32gmoe1n64s3]Нее, Червлей чуть позже подойдет.
 							[GOTO gop1_name_hryash]
-							[GOTO gop1_name_chervley]
 							[GOTO gop1_name_vasyan]
-					[gop1_name_chervley]Червлей
-						[mark_773c02iq32gmoe1n64s3]Нее, Червлей попозже подойдет...
-							[GOTO gop1_name_hryash]
-							[GOTO gop1_name_kirpich]
-							[GOTO gop1_name_vasyan]
-					[gop1_name_vasyan]Васян
-						[mark_r2o8845h92371j97wafq](Хрящ бьет тебя в тыкву)Сам ты Васян!
+					[gop1_name_vasyan]Вася?
+						[mark_r2o8845h92371j97wafq](Хрящ бьет тебя в тыкву)Сам ты Вася!
 							...
 								[mark_sv54ce7is24h03h0fg7c][GOTO mark_final14]
+			Нет. А ты кто?
+				[mark_5ezv3r4f8669lm442122][GOTO we_clubbed_together]
 			[donate]Достать лопатник.
 				[mark_ht148aj862wm21q30ogd][NAVIGATEURL https://money.yandex.ru/embed/shop.xml?account=41001220674141&quickpay=shop&payment-type-choice=on&writer=seller&targets=На развитие проекта&targets-hint=&default-sum=50&button-text=01&mail=on" width="450" height="199"]
 					
