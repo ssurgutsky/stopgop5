@@ -2,9 +2,9 @@
 
 export default {
   // Increase this on every update to reload assets for new on startup
-  GAME_VERSION: 33,
+  GAME_VERSION: 1,
   // Release = true
-  CACHE_ENABLED: true,
+  CACHE_ENABLED: false,
 
   GAME_VERSION_VAR_NAME: 'game_version',
   GAME_UPGRADE_POINT: 'GAME_UPGRADEPOINT',
@@ -12,10 +12,10 @@ export default {
   // Goto this mark if not found player's one on LOAD button pressing
   DEFAULT_LOAD_MARK_NAME: 'START',
   // Just a name of Index DB for this game
-  INDEXEDDB_STORE_NAME: 'store_sg4',
+  INDEXEDDB_STORE_NAME: 'store_sg5',
   // Google Play IAP
-  GP_PRODUCT1_NAME: 'com.skystairgames.sg4.coin1',
-  GP_PRODUCT2_NAME: 'com.skystairgames.sg4.episodes',
+  GP_PRODUCT1_NAME: 'com.skystairgames.sg5.coin1',
+  GP_PRODUCT2_NAME: 'com.skystairgames.sg5.episodes',
   // You can enable some buttons by default in the regular game
   ENABLE_SAVE_BUTTON: true,
   ENABLE_LOAD_BUTTON: true,

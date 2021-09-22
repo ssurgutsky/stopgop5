@@ -1,2 +1,0 @@
-this.isFriendsChecked = this.friends && this.friends !== '' && this.friends.length >= 5 && this.friends.length <= 40;
-'';
