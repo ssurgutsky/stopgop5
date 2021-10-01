@@ -346,10 +346,14 @@
 																																															[GOTO no_money_really]
 																																													Вот, держи, только говно с рукава вытри
 																																														[mark_z32iy83tfsz6fw69r036]Где говно?[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																															
-																																																[mark_0lrzn3s0k943my3ygt89]Да он гонит![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																	
-																																																		[mark_6auu4w21s729szjpn251][GOTO mark_final17]
+																																															...
+																																																[mark_0lrzn3s0k943my3ygt89]Да он гонит! Внимание отвлекает.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																	...
+																																																		[mark_r15750b9qmj9m2g0u0p6]Да нее, глянь, мож реально говно? Я навалил в подворотне недавно, вдруг испачкался? А мне еще с телкой сегодня встречаться...[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																			...
+																																																				[mark_864sh3d5l8vvo841tcb4]Да нормально все, успокойся![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																					...
+																																																						[mark_6auu4w21s729szjpn251][GOTO mark_final17]
 																																					[GOTO will_fight]
 																																			[GOTO ok_ok_will_give1000]
 																																			[GOTO will_fight]
