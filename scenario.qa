@@ -1,6 +1,6 @@
 [mark_6qt33ij77wk9z089lj79]Симулятор гопника, часть 5.\nv1.{this.game_version}[ANSWERSORDER ON][BGNDIMAGE Intro.jpg]
 	[mark_jq3z9230b0d555d900as]НАЧАТЬ ИГРУ / START THE GAME
-		[mark_au0e5w32c3m410n44507]Здарова, братан! Не узнал что ли? (гопник подходит вплотную)[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+		[GAME_SAVEPOINT]Здарова, братан! Не узнал что ли? (гопник подходит вплотную)[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 			Здарова
 				[mark_8ra12i504lwq2t5xv6pf]Помнишь, меня?[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 					Нет, не помню
@@ -42,7 +42,7 @@
 																																									...
 																																										[mark_38a5650q7a5ywj5d3n06]И мне штукарь! (Хрящ говнистым голосом)[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																											Отвалите от меня!
-																																												[EPISODE3]Здарова, пацаны, что здесь происходит? (третий герой, Червлей)[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																												[EPISODE7]Здарова, пацаны, что здесь происходит? (третий герой, Червлей)[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																													...
 																																														[mark_bs2svufhx5uxzfm30y2i]Иди куда шел![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																															...
@@ -76,7 +76,7 @@
 																																																																											...
 																																																																												[mark_459erwc4346s92kbjz55](Червлей возвращается к тебе)
 																																																																													
-																																																																														[mark_d4i6muk0q956d23mc5rh]Слушай, я с ними поговорил. Сам я тебе помочь не могу.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																																														[EPISODE9]Слушай, я с ними поговорил. Сам я тебе помочь не могу.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																															...
 																																																																																[mark_e05s609dt578w57f8eg5]Но есть один вариант - позвонить Полкану. Это мой босс, начальник районной полиции, они его боятся.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																																	...
@@ -100,7 +100,7 @@
 																																																																																																			...
 																																																																																																				[mark_5bv656a52kl842gy92hx]Они сказали, что за нами пойдут.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																																																					Ну пусть идут.
-																																																																																																						[mark_4k4d1vsbj8m0388hpt0t](видео с камеры на доме во дворе)
+																																																																																																						[EPISODE10](видео с камеры на доме во дворе)
 																																																																																																							...
 																																																																																																								[mark_vfz19753k210voz255qr](видео, как заходят в подъезд)
 																																																																																																									...
@@ -122,7 +122,7 @@
 																																																																																																																									...
 																																																																																																																										[mark_kz9utf5367l3uf37s7wo]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.
 																																																																																																																											...
-																																																																																																																												[mark_sd4o99qhh71vt9ty5p1a]Здравствуй. Меня зовут Полкан. У меня к тебе предложение - я даю тебе денег, а ты забираешь свое заявление из полиции, чтобы ребят отпустили.
+																																																																																																																												[EPISODE11]Здравствуй. Меня зовут Полкан. У меня к тебе предложение - я даю тебе денег, а ты забираешь свое заявление из полиции, чтобы ребят отпустили.
 																																																																																																																													Нет, я не согласен
 																																																																																																																														[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги!!!(Полкан угрожает пистолетом)
 																																																																																																																															[ok_take_money_from_polkan]Ладно, я согласен
@@ -193,7 +193,7 @@
 																																																																																																							...
 																																																																																																								[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
 																																																																																																			Я вам ничего не должен
-																																																																																																				[mark_g1i4e59244axc79jp05u]Кранты тебе![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																																																																				[EPISODE8]Кранты тебе![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																																																					[will_fight]Буду биться
 																																																																																																						[mark_z8u0fc6xv4l41es84tvk](Кирпич наносит удар правой)
 																																																																																																							Пригнусь
@@ -288,7 +288,7 @@
 																																																			Я тут рядом живу, быстро сбегаю
 																																																				[mark_5jp26yowf2l98ar730v1]Слух, Кирпич, внатуре, пусть сам сгоняет. Если не вернется, мы его потом полюбасу выловим![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																					...
-																																																						[mark_m956oyh8d8y2c6204ac9]Лады, беги. Если через полчаса не вернешься, я твою тушку лично проткну, понял?[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																						[EPISODE6]Лады, беги. Если через полчаса не вернешься, я твою тушку лично проткну, понял?[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																							Понял
 																																																								[mark_3l531p42uj5745206j4p](заходишь в квартиру) Что будешь делать?
 																																																									Возьму колбасу и водку
@@ -363,7 +363,7 @@
 																															[GOTO will_fight]
 																															[GOTO i_didnt_ask_money_from_gop2]
 																													[ok_take_1000]Ладно, вот штукарь.
-																														[mark_g6k72gtp80ns00a4us2c](отдаешь штукарь гопу)[VIDEO GopTakes2x50rub][AUDIO silent_1]
+																														[EPISODE4](отдаешь штукарь гопу)[VIDEO GopTakes2x50rub][AUDIO silent_1]
 																															
 																																[mark_bwf1i0d5n8284il51dw0]Слух, ты мне еще за тачку должен.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																	Какую тачку?
@@ -383,35 +383,39 @@
 																																															[stop_lying]Да хватит загонять уже!
 																																																[mark_wiil3ba9l94b2b428557]Ты чо, мне не веришь?[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																	[i_have_to_go]Мне надо идти
-																																																		[gop1_we_didnt_finish_talking]Эээ! Куда пошел? Мы не добазарили![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																			Стукну в тыкву
-																																																				[mark_x62k643iom09cwmjdwdf](удар, гоп уворачивается, идет время на ответ)
-																																																					Еще удар
-																																																						[mark_1hj4466em106g59vhi17](удар другой рукой, гоп уворачивается, идет время на ответ)
-																																																							Присяду
-																																																								[mark_t732dlc1075msv84xxkb](Гоп замахивается, без удара)
+																																																		[gop1_we_didnt_finish_talking]Эээ! Куда пошел? Мы еще не добазарили![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																			Разговор окончен
+																																																				[EPISODE5,gop1_we_didnt_finish_talking]Тут стой, я сказал![VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																					[hit_to_face_gop1]Дам ему в жбан
+																																																						[mark_x62k643iom09cwmjdwdf](удар, гоп уворачивается, идет время на ответ)
+																																																							Еще удар
+																																																								[mark_1hj4466em106g59vhi17](удар другой рукой, гоп уворачивается, идет время на ответ)
 																																																									Присяду
-																																																										[mark_h5aq234y09k43mr949a3](гоп ударяет в воздух над тобой)
-																																																											Апперкот
-																																																												[mark_su7856dz60n3suca41f5](гоп отлетает назад)
+																																																										[mark_t732dlc1075msv84xxkb](Гоп замахивается, без удара)
+																																																											Присяду
+																																																												[mark_h5aq234y09k43mr949a3](гоп ударяет в воздух над тобой)
+																																																													Апперкот
+																																																														[mark_su7856dz60n3suca41f5](гоп отлетает назад)
+																																																															...
+																																																																[mark_2510wf555p36di44ws5a][GOTO mark_final15]
+																																																													[battle_you_sit_down]Присяду
+																																																														[mark_6qj6c6rp207793rs35ik](ты присаживаешься, гоп1 пинает тебя с ноги)
+																																																															...
+																																																																[mark_l503n0656u50a8mdz26l][GOTO mark_final14]
+																																																											Еще удар
+																																																												[mark_f1866depr165posh0q80](Гоп1 отлетает назад)
 																																																													...
-																																																														[mark_2510wf555p36di44ws5a][GOTO mark_final15]
-																																																											[battle_you_sit_down]Присяду
-																																																												[mark_6qj6c6rp207793rs35ik](ты присаживаешься, гоп1 пинает тебя с ноги)
-																																																													...
-																																																														[mark_l503n0656u50a8mdz26l][GOTO mark_final14]
-																																																									Еще удар
-																																																										[mark_f1866depr165posh0q80](Гоп1 отлетает назад)
-																																																											...
-																																																												[mark_y35q62iqmj30vc3197n7](сзади тебя бьют по голове, экран чернеет)
-																																																													...
-																																																														[mark_7qgl2t00017943h445h6][GOTO mark_final16]
-																																																							Отойду назад
-																																																								[mark_qv1og1325u0brex06m61](Гоп прыгает на тебя и бьет в репу, ты падаешь)
-																																																									[GOTO mark_final14]
-																																																					[GOTO battle_you_sit_down]
-																																																			[fuck_you]Да пошел ты!
-																																																				[mark_0mutcki7py0194n7a7ov][GOTO mark_final9]
+																																																														[mark_y35q62iqmj30vc3197n7](сзади тебя бьют по голове, экран чернеет)
+																																																															...
+																																																																[mark_7qgl2t00017943h445h6][GOTO mark_final16]
+																																																									Отойду назад
+																																																										[mark_qv1og1325u0brex06m61](Гоп прыгает на тебя и бьет в репу, ты падаешь)
+																																																											[GOTO mark_final14]
+																																																							[GOTO battle_you_sit_down]
+																																																					[fuck_you]Отвали от меня
+																																																						[mark_0mutcki7py0194n7a7ov][GOTO mark_final9]
+																																																			[GOTO fuck_you]
+																																																			[GOTO hit_to_face_gop1]
 																																																	[ok_take_200]Ладно, вот держи.
 																																																		[mark_yj92cfu67h4846w301o4](отдаешь двести гопу)[VIDEO GopTakes2x50rub][AUDIO silent_1]
 																																																			
@@ -426,11 +430,11 @@
 																																			[GOTO do_i_own_you_else]
 																																	[GOTO stop_lying]
 																													[ok_take_1000_from_card]Ладно, отдам, только у меня на карте.
-																														[mark_1bya98c75zlmcuk7m6jb]Так переведи мне с карты на карту по номеру мобилы.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																														[EPISODE3]Так переведи мне с карты на карту по номеру мобилы.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															У меня карта не привязана к номеру
 																																[mark_4uymxj79h9g7572l6d28]И чо? Давай сюда мобилу, я привяжу.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																	Не получится, на ней инета нет
-																																		[mark_mptq2k084l1fd65lz41u]Давай сюда, я тебе свой инет раздам.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																		[mark_mptq2k084l1fd65lz41u]Я тебе со своей мобилы инет раздам.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																			Нее, давай я лучше до банкомата схожу
 																																				[mark_krayolv9f9t0sj93tc2r]Лады, сходи, тока мобилу в залог оставь.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																					Хотя нет, давай по-другому
