@@ -2,7 +2,7 @@
   <div :style="styleControls">
     <button @click="onRestartClick">3AHOBO</button>
     <button :style="styleObjectCheat" v-show="isSaveButton" @click="onSaveClick">Coxp.</button>
-    <button :style="styleObjectCheat" v-show="isLoadButton" @click="onLoadClick">3Arp.</button>
+    <button :style="styleObjectCheat" v-show="isLoadButton" @click="onLoadClick">3arp.</button>
     <button :style="styleObjectCheat" v-show="isCheatPurchased || isSkipButton" @click="onSkipClick">npon.</button>
     <button :style="styleObjectCheat" v-show="isBackButton" @click="onBackClick">Ha3ag</button>
     <button :style="styleObjectCheat" v-show="isCheatPurchased || isEpisodesButton" @click="onEpisodeClick">3nu3og</button>

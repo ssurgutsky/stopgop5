@@ -64,7 +64,7 @@
 																																																															
 																																																																[mark_gz30b81g7i796fdk7qfy]Эээ, ты чо там снимаешь? (Кирпич подбегает вплотную. Кирпич угрожает ножом)
 																																																																	Я для себя снимаю
-																																																																		[mark_78dg7r66491jbug6zzqy]Ты меня снимаешь! Я те щас мобилу разобью!(Кирпич угрожает ножом)
+																																																																		[mark_78dg7r66491jbug6zzqy]Ты меня снимаешь! Я те щас камеру разобью!(Кирпич угрожает ножом)
 																																																																			Даже если разобьешь, видео в "облаке" останется
 																																																																				[mark_10193v11r11ed84g6gkz]В каком еще облаке? Эээ! Ты чо мне тут паришь?
 																																																																					Менты в инете потом посмотрят, как ты мой телефон разбил
@@ -430,7 +430,7 @@
 																																			[GOTO do_i_own_you_else]
 																																	[GOTO stop_lying]
 																													[ok_take_1000_from_card]Ладно, отдам, только у меня на карте.
-																														[EPISODE3]Так переведи мне с карты на карту по номеру мобилы.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																														[EPISODE3]Так переведи мне на карту по номеру мобилы.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															У меня карта не привязана к номеру
 																																[mark_4uymxj79h9g7572l6d28]И чо? Давай сюда мобилу, я привяжу.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																	Не получится, на ней инета нет
@@ -438,7 +438,7 @@
 																																			Нее, давай я лучше до банкомата схожу
 																																				[mark_krayolv9f9t0sj93tc2r]Лады, сходи, тока мобилу в залог оставь.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																					Хотя нет, давай по-другому
-																																						[mark_6l4879o950bjjz2ij1i9]Как?[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																						[mark_6l4879o950bjjz2ij1i9]Как по-другому?[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																							Ты сходишь, а мне свою мобилу оставишь
 																																								[mark_s2ee18mf1061136wk511]Эээ... лады, держи, я погнал.[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																									...
@@ -464,14 +464,20 @@
 																																												[mark_i0cvjx052393jj5270p0][GOTO mark_final13]
 																																					[open_mobile]Достану мобилу
 																																						[mark_624m21nuqqb9l2q7q1e7](достаешь мобилу)[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																							Открою секретное приложение
+																																							Нажму иконку "ТК"
 																																								[mark_56o3268gjgc178m4no21](тыкаешь в мобиле на приложение "Тревожная кнопка")[VIDEO GopSpeechSimpleLoop][AUDIO silent_2]
 																																									
 																																										[mark_7hj8640ll1a242s3i28d]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![VIDEO GopSpeechSimpleLoop][AUDIO silent_3]
 																																											
-																																												[mark_i6dfhf294x2637m8tzxy](гоп в панике убегает от тебя)[VIDEO GopIsFrightened][AUDIO silent_5]
-																																													
-																																														[mark_tnn68n559e179amn4072][GOTO mark_final8]
+																																												[mark_tnn68n559e179amn4072][GOTO mark_final8]
+																																							Наберу 112
+																																								[mark_dvh0xj3281viv07916w2][GOTO mark_final9]
+																																							Позвоню маме
+																																								[mark_4e0m0pb9z73j5t005wp6]- Алло, мама, у меня деньги вымогают... Хны-хны-хнык...[BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																									
+																																										[mark_xozoc3696383uci133bj]Фу гля, с кем я связался... мамсик!(гоп уходит)[VIDEO GopSpeechSimpleLoop][AUDIO silent_1][BGNDVIDEO GopStandsBouncing][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																											...
+																																												[mark_fa32aw164p46cn2n7209][GOTO mark_final23]
 																																			[GOTO open_mobile]
 																																	[GOTO open_mobile]
 																															[GOTO open_mobile]
@@ -552,21 +558,22 @@
 		[mark_final5]В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.
 		[mark_final6]Кажется, тебя только что кинули. Отрицательный финал.
 		[mark_final7]Ты обманул разводил, соврав, что отдал деньги Червлею! Положительный финал (но можно лучше).
-		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)
+		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[VIDEO GopIsFrightened][AUDIO silent_5]
 		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал. (когда долго отвечаешь).[VIDEO GopPunchesToFace][AUDIO silent_2]
-		[mark_final10]Кирпич стукнул тебе в хавальник. Отрицательный финал. (когда завис).
+		[mark_final10]Кирпич стукнул тебе в хавальник. Отрицательный финал. (когда завис).[VIDEO GopPunchesToFace][AUDIO silent_2]
 		[mark_final11]В итоге, тебе удалось свалить, и в будущем тебя никто так и не выловил. Повезло. Положительный финал (но можно и лучше).
 		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).
 		[mark_final13]Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)
 		[mark_final14]Гоп надрал тебе твою нежную задницу. Отрицательный финал.[VIDEO GopPunchesToFace][AUDIO silent_2]
-		[mark_final15]Ты надрал гопу задницу! Положительный финал (но можно лучше)
+		[mark_final15]Ты надрал гопу задницу! Положительный финал (но можно лучше)[VIDEO GopBePunched][AUDIO silent_2]
 		[mark_final16]Тебя сзади стукнул кореш гопа. Отрицательный финал.
 		[mark_final17]Гопы надрали тебе твою нежную задницу. Отрицательный финал.
-		[mark_final18]Ты надрал гопам их нежные задницы! Положительный финал (но можно лучше)
-		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)
+		[mark_final18]Ты надрал гопам их нежные задницы! Положительный финал (но можно лучше)[VIDEO GopBePunched][AUDIO silent_2]
+		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)[VIDEO GopIsFrightened][AUDIO silent_5]
 		[mark_final20]Ты утратил свою не дешевую мобилу, взятую в кредит. А когда вернулся, никого уже не было. Отрицательный финал.
 		[mark_final21]Кирпич и Хрящ самоликвидировались. Положительный финал (но можно лучше)
 		[mark_final22]Ты очнулся в больнице, что произошло - не помнишь. Отрицательный финал.
+		[mark_final23]Ты оказался мамсиком (маменькиным сынком). Отрицательный финал.[VIDEO GopLostInterest][AUDIO silent_2]
 		[mark_final30]Полкан заплатил тебе крупную сумму денег, чтобы ты забрал заявление из полиции. Больше тебя никогда не трогали. Главный положительный финал (но не самый правильный)
 		[mark_final31]Ты отказался от денег Полкана и не забрал заявление. Бандитов посадили. А чуть позже Полкана сняли с должности, и он куда-то уехал. Главный положительный финал!
 	[GOTO donate]
