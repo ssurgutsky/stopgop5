@@ -54,7 +54,7 @@ export default {
     if (asset) {
       return asset
     }
-    if (name.indexOf('.jpg') <= 0 && name.indexOf('.png') <= 0) {
+    if (name.indexOf('.jpg') <= 0 && name.indexOf('.png') <= 0 && name.indexOf('.gif') <= 0) {
       name = name + '.jpg'
     }
     return this.getImagePathByName(name)

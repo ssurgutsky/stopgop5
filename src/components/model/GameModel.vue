@@ -26,6 +26,7 @@ export default {
     currentVideoIndex: 0,
     currentAudioSequence: [],
     currentAudioIndex: 0,
+    currentBgPictures: null,
     currentBgndImages: null,
     currentImages: null,
     currentAmbientName: '',
@@ -270,6 +271,9 @@ export default {
         bgndImagesSequence = commonUtils.getTagValueIMAGE(tmpParsedContent)
         this.currentBgndImages = commonUtils.getArrayRandomElement(bgndImagesSequence)
       }
+
+      const bgPicturesSequence = commonUtils.getTagValueBGPICTURE(this.currentNode._parsedContent)
+      this.currentBgPictures = commonUtils.getArrayRandomElement(bgPicturesSequence)
 
       const imagesSequence = commonUtils.getTagValueIMAGE(this.currentNode._parsedContent)
       this.currentImages = commonUtils.getArrayRandomElement(imagesSequence)

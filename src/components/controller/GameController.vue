@@ -134,6 +134,7 @@ export default {
       this.mode = this.MODE_QUESTION
       this.playVideoAndAudio()
 
+      this.clearAndShowBgPictures()
       this.mainView.clearBgndImages()
       this.clearAndShowImages()
 
@@ -330,6 +331,17 @@ export default {
 
       this.mainView.clearImages()
       this.mainView.showImages(this.gameModel.currentImages)
+    },
+
+    clearAndShowBgPictures () {
+      // Hide video screen if there is no video but there is a background image
+      let hasVideoEmpty = this.gameModel.hasVideoEmpty()
+      if (hasVideoEmpty && this.gameModel.currentBgPictures) {
+        this.mainView.playVideo('NONE', false)
+      }
+
+      this.mainView.clearBgPictures()
+      this.mainView.showBgPictures(this.gameModel.currentBgPictures)
     },
 
     playAmbient () {

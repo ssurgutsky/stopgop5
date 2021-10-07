@@ -1,5 +1,6 @@
 <template>
   <div ref="mainView" class="main-view">
+    <BgPicturePlayer class="bg-picture-container" ref="bgPicturePlayer"/>
     <VideoPlayer class="video-container" ref="videoPlayer" @videoEnded="processVideoEnded"/>
     <BgndImagePlayer class="bgnd-image-container" ref="bgndImagePlayer"/>
     <ImagePlayer class="image-container" ref="imagePlayer"/>
@@ -24,6 +25,7 @@
 </template>
 
 <script>
+import BgPicturePlayer from './BgPicturePlayer.vue'
 import VideoPlayer from './VideoPlayer.vue'
 import BgndImagePlayer from './BgndImagePlayer.vue'
 import ImagePlayer from './ImagePlayer.vue'
@@ -35,6 +37,7 @@ import ControlsView from './ControlsView.vue'
 
 export default {
   components: {
+    BgPicturePlayer,
     VideoPlayer,
     BgndImagePlayer,
     ImagePlayer,
@@ -85,6 +88,14 @@ export default {
 
     clearTimer (seconds) {
       this.$refs.timerView.clearTimer()
+    },
+
+    showBgPictures (images) {
+      this.$refs.bgPicturePlayer.showBgPictures(images)
+    },
+
+    clearBgPictures () {
+      this.$refs.bgPicturePlayer.clearBgPictures()
     },
 
     playVideo (name, loop) {
@@ -221,6 +232,17 @@ export default {
   }
 
   @media screen and (max-aspect-ratio: 13/9) {
+    .bg-picture-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 50vh;
+      margin: 0;
+      padding: 0;
+      z-index: -5;
+    }
+
     .video-container {
       position: fixed;
       top: 0;
@@ -252,17 +274,6 @@ export default {
       margin: 0;
       padding: 0;
       z-index: -2;
-    }
-
-    .yandex-money-container {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 50vh;
-      margin: 0;
-      padding: 0;
-      z-index: -1;
     }
 
     .questions-container {
@@ -299,6 +310,17 @@ export default {
   }
 
   @media screen and (min-aspect-ratio: 13/9) {
+    .bg-picture-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 50vw;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      z-index: -5;
+    }
+
     .video-container {
       position: fixed;
       top: 0;
@@ -310,7 +332,7 @@ export default {
       z-index: -4;
     }
 
-    .image-container {
+    .bgnd-image-container {
       position: fixed;
       top: 0;
       left: 0;
@@ -321,7 +343,7 @@ export default {
       z-index: -3;
     }
 
-    .bgnd-image-container {
+    .image-container {
       position: fixed;
       top: 0;
       left: 0;
@@ -330,17 +352,6 @@ export default {
       margin: 0;
       padding: 0;
       z-index: -2;
-    }
-
-    .yandex-money-container {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 50vw;
-      height: 100%;
-      margin: 0;
-      padding: 0;
-      z-index: -1;
     }
 
     .questions-container {

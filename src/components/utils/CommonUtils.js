@@ -8,6 +8,7 @@ export default {
     'GOTO',
     'NAVIGATEURL',
     'PURCHASE',
+    'BGPICTURE',
     'VIDEO',
     'AUDIO',
     'BGNDVIDEO',
@@ -81,12 +82,16 @@ export default {
     return this.getTagValueVideoSequence(content, 'BGNDAUDIO')
   },
 
-  getTagValueBGNDIMAGE (content) {
-    return this.getTagValueSequence(content, 'BGNDIMAGE')
+  getTagValueBGPICTURE (content) {
+    return this.getTagValueSequence(content, 'BGPICTURE')
   },
 
   getTagValueIMAGE (content) {
     return this.getTagValueSequence(content, 'IMAGE')
+  },
+
+  getTagValueBGNDIMAGE (content) {
+    return this.getTagValueSequence(content, 'BGNDIMAGE')
   },
 
   getTagValueAMBIENT (content) {
