@@ -10,7 +10,7 @@
       id="bgcanvasHidden"
       width="640px"
       height="480px"
-      display="none"
+      style="visibility: hidden"
     ></canvas>
   </div>
 </template>
@@ -24,7 +24,8 @@ export default {
   data () {
     return {
       bgPicturePlayer: null,
-      currentImages: ''
+      currentImages: '',
+      prevImages: ''
     }
   },
   mounted () {
@@ -40,35 +41,33 @@ export default {
     },
 
     showBgPictures (value) {
-      if (!value || value === '') return
-
+      this.prevImages = this.currentImages
       this.currentImages = value
 
-      let canvas = document.getElementById('bgcanvas')
+      // Clear hidden canvas, draw pics for new and copy to visible canvas
+      let canvas = document.getElementById('bgcanvasHidden')
       let ctx = canvas.getContext('2d')
 
-      imageUtils.showImages(value, canvas, ctx)
+      imageUtils.showImages(value, canvas, ctx, true)
         .finally(() => {
-          this.switchCanvas()
+          this.copyHiddenToVisibleCanvas()
         })
     },
 
-    switchCanvas () {
+    copyHiddenToVisibleCanvas () {
       let destCanvas = document.getElementById('bgcanvas')
       let sourceCanvas = document.getElementById('bgcanvasHidden')
 
       // grab the context from your destination canvas
-      var destCtx = destCanvas.getContext('2d')
+      let destCtx = destCanvas.getContext('2d')
+
+      // Force clear cause sourceCanvas can be zero
+      if (this.prevImages !== this.currentImages) {
+        destCtx.clearRect(0, 0, destCanvas.width, destCanvas.height)
+      }
 
       // call its drawImage() function passing it the source canvas directly
       destCtx.drawImage(sourceCanvas, 0, 0)
-    },
-
-    clearBgPictures () {
-      let canvas = document.getElementById('bgcanvas')
-      let ctx = canvas.getContext('2d')
-      ctx.clearRect(0, 0, canvas.width, canvas.height)
-      this.currentImages = ''
     }
   }
 }

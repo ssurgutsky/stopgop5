@@ -94,10 +94,6 @@ export default {
       this.$refs.bgPicturePlayer.showBgPictures(images)
     },
 
-    clearBgPictures () {
-      this.$refs.bgPicturePlayer.clearBgPictures()
-    },
-
     playVideo (name, loop) {
       this.$refs.videoPlayer.playVideo(name, loop)
     },

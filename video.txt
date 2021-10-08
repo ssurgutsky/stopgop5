@@ -1,0 +1,20 @@
+gop1_speaking_soft (Ыыы! Братиш, ты когда кальян выдул, так и сказал "Это был не я")
+gop1_idle_soft
+gop1_speaking (То есть ты хочешь сказать, что Кирпич трендила?)
+gop1_idle
+gop1_speaking_hard (Стой тут, жди Кирпича!)
+gop1_idle_hard
+
+gop2_speaking_soft (Ну чо, свалил твой приятель? ыыы)
+gop2_idle_soft
+gop2_speaking (Хрящ, все равно проверь, вдруг там говно)
+gop2_idle
+gop2_speaking_hard (Гони сюда мое бабло!)
+gop2_idle_hard
+
+gop3_speaking_soft (Не знаю, устроит ли тебя, могу позвать двух наркоманов)
+gop3_idle_soft
+gop3_speaking (Здорова, что здесь происходит?)
+gop3_idle
+gop3_speaking_hard (Полкан ждать не будет!)
+gop3_idle_hard
