@@ -28,7 +28,7 @@
 																											
 																												[mark_192bbc64p6dpbz6wvh7y]Все, тля, стой, бойся, щас Кирпич нагрянет.[BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																													Пойду отсюда
-																														[mark_562tsqg8s95n4v112d90]Куда ты пошел? Стой тут и жди Кирпича![BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																														[mark_562tsqg8s95n4v112d90]Куда ты почапал? Стой тут, жди Кирпича![BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															[you_wait_gop2]Подожду Кирпича.
 																																[mark_82y74f91q9hk347m9kj0](Приходит Кирпич)Эээ, ты! Я тя помню! Бабло мне вернул быстро.[BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																	Я тебя даже не знаю
@@ -201,7 +201,7 @@
 																																																																																																															...
 																																																																																																																[mark_5a9r0v13qcl3q69j5j68]Ну чо, сдулся твой защитничек? Ыыы... Гони бабло![BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																																																																	Он вернется, я же ему заплатил
-																																																																																																																		[mark_5h555f9bcp4o9309985v](Кирпич)Чо??? Ты уже отдал бабло Червлею?![BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																		[mark_5h555f9bcp4o9309985v](Кирпич)Чо??? Ты отдал бабло Червлею?![BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																			Так вы заодно с ним?
 																																																																																																																				[mark_8w4614pylmip7f24n408]Хрящ, быстро за ним! Он нас кинул![BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																					...
@@ -447,7 +447,7 @@
 																																																												[mark_qv1og1325u0brex06m61](камера отходит назад на 1м, сзади тебя бьет по голове Кирпич, камера содрогается, ты медленно падаешь лицом вверх. Сверху подходит Хрящ и Кирпич и смотрят на тебя)
 																																																													[GOTO mark_final16]
 																																																									[GOTO fight1_back_block]
-																																																							[fuck_you]Отстань от меня
+																																																							[fuck_you]Нюхай бебру
 																																																								[mark_0mutcki7py0194n7a7ov][GOTO mark_final9]
 																																																					[GOTO fuck_you]
 																																																					[GOTO hit_to_face_gop1]
@@ -509,8 +509,8 @@
 																																										[mark_dvh0xj3281viv07916w2][GOTO mark_final9]
 																																									Позвоню маме
 																																										[mark_4e0m0pb9z73j5t005wp6]- Алло, мама, у меня деньги вымогают... Хнык-хнык-хнык...[BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																											
-																																												[mark_xozoc3696383uci133bj]Фу ё-моё! С кем я связался?! Ты же херов "мамсик"!(гоп уходит)[BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																											...
+																																												[mark_xozoc3696383uci133bj]Фу ё-моё! С кем я связался?! Ты же "мамсик"!(гоп уходит)[BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																													...
 																																														[mark_fa32aw164p46cn2n7209][GOTO mark_final23]
 																																					[GOTO open_mobile]
@@ -555,7 +555,7 @@
 										[gop1_tells_drunken_story2]Да ладно! Таких забивных синяков еще поискать надо! Ыыы...[VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											[GOTO you_missed_me_with_smbdy]
 											[GOTO that_wasnt_me]
-										[gop1_tells_drunken_story3]Это ты то не пьешь? Я помню, ты на спор хлопнул пять шотов, чтоб нахаляву хряпнуть еще семь призовых! Ыыы...[VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+										[gop1_tells_drunken_story3]Это ты то не пьешь? Я помню, ты на спор хлопнул пять шотов, чтоб хряпнуть еще семь призовых! Ыыы...[VIDEO gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											[GOTO you_missed_me_with_smbdy]
 											[GOTO that_wasnt_me]
 							[GOTO you_missed_me_with_smbdy]
@@ -578,7 +578,7 @@
 					Нет, не узнаю
 						[mark_5ezv3r4f8669lm442122][GOTO we_clubbed_together]
 					Ты из доставки пиццы?
-						[mark_0k96cn48a2db58uu3a0o](Хрящ бьет тебя в тыкву)Нюхай бебру![BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_2]
+						[mark_0k96cn48a2db58uu3a0o](Хрящ бьет тебя в тыкву)Сам ты из пиццы![BGPICTURE bg.jpg][VIDEO gop1_speaking.webm][AUDIO silent_2]
 							
 								[mark_p2791ewxz33ktim5wf7s][GOTO mark_final14]
 			Здарова, нет не узнал
