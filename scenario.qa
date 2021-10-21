@@ -52,17 +52,17 @@
 																																																			Отвалите от меня!
 																																																				[EPISODE7]Здарова, пацаны, что здесь происходит? (третий герой, Червлей)[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																					...
-																																																						[mark_bs2svufhx5uxzfm30y2i]Иди куда шел![BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																						[mark_bs2svufhx5uxzfm30y2i]Иди куда шел![BGPICTURE bg.jpg][VIDEO gops3_gop1_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																							...
 																																																								[mark_mxckmzsfeq46195b0u3q]Зачем так со мной разговариваешь? Я, может, с самим Полканом знаком, знаешь такого?[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																									...
-																																																										[mark_p4e774y2zc4gdf6kck97](Кирпич)Какого Полкана? Ааа... ты ментовской штоле?[BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																										[mark_p4e774y2zc4gdf6kck97](Кирпич)Какого Полкана? Ааа... ты ментовской штоле?[BGPICTURE bg.jpg][VIDEO gops3_gop1_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																											...
 																																																												[mark_5g4e2a54i02sam7q1qgd]Нет, но, может, я работаю на него.[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																													Братан, помоги! Они с меня деньги трясут!
 																																																														[shaking_money]Деньги трясут? Пацаны, да это же уголовка...[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																															...
-																																																																[mark_9nq319o4a76ys4e1k86p](Кирпич)Какая уголовка? Он нам денег должен. И чо с того, что ты знаешь Полкана?[BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																[mark_9nq319o4a76ys4e1k86p](Кирпич)Какая уголовка? Он нам денег должен. И чо с того, что ты знаешь Полкана?[BGPICTURE bg.jpg][VIDEO gops3_gop1_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																	...
 																																																																		[mark_6fo9di2qcedtfvb1hp2c](Хрящ)Слух, Кирпич, отскочим-побормочим с ним по этой теме.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																			...
@@ -203,8 +203,8 @@
 																																																																																																																							[GOTO return_back_to_gops]
 																																																																																																																							[GOTO go_to_sleep]
 																																																																																																																			(негромко)Хотел бы помочь - уже помог
-																																																																																																																				[gop3_gone](Червлей уходит за угол)[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm]
-																																																																																																																					...
+																																																																																																																				[gop3_gone](Червлей уходит за угол, гопы подходят к ГГ)[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm,gops2_gop1_gop2_come_to_hero1.webm]
+																																																																																																																					
 																																																																																																																						[mark_5a9r0v13qcl3q69j5j68]Ну чо, сдулся твой защитничек? Ыыы... Гони бабло![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																																																																							Он вернется, я же ему заплатил
 																																																																																																																								[mark_5h555f9bcp4o9309985v](Кирпич)Чо??? Ты отдал бабло Червлею?![BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
@@ -314,8 +314,8 @@
 																																																																							Убегу
 																																																																								[mark_u1lif59p8759v4j7h0e8][GOTO mark_final5,mark_final11]
 																																																													Братан, уходи! Они тут деньги трясут!
-																																																														[mark_0kcv4udgkk3q60fcpts2](Червлей уходит за угол)[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																															...
+																																																														[mark_0kcv4udgkk3q60fcpts2](Червлей уходит за угол)[BGPICTURE bg.jpg][VIDEO gops2_gop1_gop2_come_to_hero1.webm]
+																																																															
 																																																																[mark_4oz8fmvp65dl327h5735]Ну чо, сдулся твой защитничек? Ыыы... Гони бабло![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																	[ok_ok_will_give1000]Ладно, ладно, отдам
 																																																																		[mark_2u0l69w5v6h0mh98y01b]Гони сюда мое бабло![BGPICTURE bg.jpg][VIDEO gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
@@ -502,7 +502,7 @@
 																																															Вот, смотри
 																																																[mark_3v1vb7f40e695t35k5m4]Древний кнопочный телефон[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_old_mobile.webm][AUDIO silent_4]
 																																																	
-																																																		[mark_c5hx767k8d39ko8dl3yu]Братан, у тебя по реалу все так плохо? Я дам тебе деньги, купи себе нормальную![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm]
+																																																		[mark_c5hx767k8d39ko8dl3yu]Братан, у тебя по реалу все так плохо? Купи себе нормальную![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm]
 																																																			...
 																																																				[mark_m0e0pb97o5ra6yp7szr2]+1000[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																					Спасибо, братан!
@@ -512,7 +512,7 @@
 																																															Нажму иконку "ТК"
 																																																[mark_56o3268gjgc178m4no21](тыкаешь в мобиле на приложение "Тревожная кнопка")[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_2]
 																																																	
-																																																		[mark_7hj8640ll1a242s3i28d]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_3]
+																																																		[mark_7hj8640ll1a242s3i28d]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![BGPICTURE bg.jpg][VIDEO gops1_gop1_idle_hard.webm][AUDIO silent_3]
 																																																			
 																																																				[mark_tnn68n559e179amn4072][GOTO mark_final8]
 																																															Наберу 112
@@ -580,7 +580,7 @@
 									[GOTO gop1_name_hryash]
 									[GOTO gop1_name_vasyan]
 							[gop1_name_vasyan]Васян?
-								[mark_r2o8845h92371j97wafq](Хрящ бьет тебя в тыкву)Сам ты Васян![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
+								[mark_r2o8845h92371j97wafq]Сам ты Васян![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
 									
 										[mark_sv54ce7is24h03h0fg7c][GOTO mark_final9]
 					Нет. А ты кто?
@@ -588,11 +588,11 @@
 							Все равно, не узнаю
 								[mark_5ezv3r4f8669lm442122][GOTO we_clubbed_together]
 							Ты из доставки пиццы?
-								[mark_0k96cn48a2db58uu3a0o](Хрящ бьет тебя в тыкву)Сам ты из пиццы![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
+								[mark_0k96cn48a2db58uu3a0o]Сам ты из пиццы![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
 									
 										[mark_p2791ewxz33ktim5wf7s][GOTO mark_final9]
 					Здарова, нет не узнал
-						[mark_w9tu18dxm8d74cl0g531]Если не узнал - значит я седня богатым буду! Примета такая есть, отвечаю.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+						[mark_w9tu18dxm8d74cl0g531]Если не узнал, значит я седня богатым буду! Примета такая есть, отвечаю.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 							А ты кто?
 								[mark_dbx5i442zai4wn8u65xx][GOTO we_clubbed_together]
 							[GOTO gop1_name_hryash]
@@ -619,7 +619,7 @@
 		[mark_final7]Ты обманул разводил, соврав, что отдал деньги Червлею! Положительный финал (но можно лучше).
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[VIDEO GopIsFrightened][AUDIO silent_5]
+		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm][AUDIO silent_3]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm]
@@ -652,7 +652,7 @@
 		[mark_final18]Ты надрал гопам их нежные задницы! Положительный финал (но можно лучше)[VIDEO GopBePunched][AUDIO silent_2]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)[VIDEO GopIsFrightened][AUDIO silent_5]
+		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm][AUDIO silent_3]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final20]Ты утратил свою не дешевую мобилу, взятую в кредит. А когда вернулся, никого уже не было. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
