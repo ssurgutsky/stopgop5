@@ -21,6 +21,10 @@ export default {
       currentVideoPlayer: null,
       currentPlayerNo: 1,
       currentVideoName: '',
+      timeout1: 0,
+      timeout2: 0,
+      timeout3: 0,
+      timeout4: 0,
       loop: false,
       styleObject1: {
         'position': 'absolute',
@@ -55,7 +59,7 @@ export default {
     },
 
     playVideo (name, loop) {
-      console.log(name)
+      console.log(name, loop)
       this.currentVideoName = name
 
       if (name.toUpperCase() === 'NONE') {
@@ -72,7 +76,7 @@ export default {
         this.videoPlayer1.src = this.getVideoSrc(name)
         // this.videoPlayer1.load()
         this.videoPlayer1.pause()
-        setTimeout(() => {
+        this.timeout1 = (() => {
           this.videoPlayer1.play()
         }, 10)
       }
@@ -82,7 +86,7 @@ export default {
         this.videoPlayer2.src = this.getVideoSrc(name)
         // this.videoPlayer2.load()
         this.videoPlayer2.pause()
-        setTimeout(() => {
+        this.timeout2 = setTimeout(() => {
           this.videoPlayer2.play()
         }, 10)
       }
@@ -115,19 +119,23 @@ export default {
       if (this.currentPlayerNo === 2) {
         this.videoPlayer2.pause()
       }
+      clearTimeout(this.timeout1)
+      clearTimeout(this.timeout2)
+      clearTimeout(this.timeout3)
+      clearTimeout(this.timeout4)
     },
 
     onCanPlay (event) {
       // console.log('canPlay')
 
       if (this.currentPlayerNo === 1 || this.isFirstRun) {
-        setTimeout(() => {
+        this.timeout3 = setTimeout(() => {
           this.videoPlayer1.play()
         }, 10)
       }
 
       if (this.currentPlayerNo === 2 || this.isFirstRun) {
-        setTimeout(() => {
+        this.timeout4 = setTimeout(() => {
           this.videoPlayer2.play()
         }, 10)
       }
@@ -145,8 +153,10 @@ export default {
         this.videoPlayer2.pause()
         this.styleObject2.width = 0
         this.styleObject2.height = 0
+        this.styleObject2.visibility = 'hidden'
         this.styleObject1.width = '100%'
         this.styleObject1.height = '100%'
+        this.styleObject1.visibility = 'visible'
         this.currentVideoPlayer = this.videoPlayer1
       }
 
@@ -157,8 +167,10 @@ export default {
         this.videoPlayer1.pause()
         this.styleObject1.width = 0
         this.styleObject1.height = 0
+        this.styleObject1.visibility = 'hidden'
         this.styleObject2.width = '100%'
         this.styleObject2.height = '100%'
+        this.styleObject2.visibility = 'visible'
         this.currentVideoPlayer = this.videoPlayer2
       }
       this.currentPlayerNo = 3 - this.currentPlayerNo

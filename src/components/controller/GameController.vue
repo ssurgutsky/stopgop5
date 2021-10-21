@@ -229,8 +229,12 @@ export default {
     },
 
     playVideoSequence () {
+      let hasAudioPlaying = this.gameModel.hasCurrentAudio()
+
       if (!this.gameModel.hasCurrentVideo() && this.mode === this.MODE_QUESTION && !this.gameModel.isFinal) {
-        this.gameModel.setCurrentVideoIndex(0)
+        if (hasAudioPlaying) {
+          this.gameModel.setCurrentVideoIndex(0)
+        }
       }
 
       if (!this.gameModel.hasCurrentVideo() && this.mode === this.MODE_AFTER_QUESTION) {
@@ -262,7 +266,7 @@ export default {
       let hasVideoEmpty = this.gameModel.hasVideoEmpty()
       let hasAudioEmpty = this.gameModel.hasAudioEmpty()
 
-      console.log(this.mode, hasVideoPlaying, hasAudioPlaying, hasVideoEmpty, hasAudioEmpty)
+      console.log('<<<<<', this.mode, hasVideoPlaying, hasAudioPlaying, hasVideoEmpty, hasAudioEmpty)
 
       if (this.mode === this.MODE_QUESTION) {
         if (
