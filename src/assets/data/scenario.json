@@ -2556,15 +2556,15 @@
                                                                                                                                                                                                                     }
                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                   "_mark": "mark_gk441eebpwfvd66o5jp3",
-                                                                                                                                                                                                                  "_content": "[LABEL (гоп тупанул и ушел)]"
+                                                                                                                                                                                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][AUDIO silent_2]"
                                                                                                                                                                                                                 }
                                                                                                                                                                                                               ],
                                                                                                                                                                                                               "_mark": "",
-                                                                                                                                                                                                              "_content": "[LABEL ...]"
+                                                                                                                                                                                                              "_content": "[LABEL ]"
                                                                                                                                                                                                             }
                                                                                                                                                                                                           ],
                                                                                                                                                                                                           "_mark": "mark_s2ee18mf1061136wk511",
-                                                                                                                                                                                                          "_content": "[LABEL Эээ... лады, держи, я погнал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                          "_content": "[LABEL Эээ... лады, держи, я погнал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_mobile.webm][AUDIO silent_2]"
                                                                                                                                                                                                         }
                                                                                                                                                                                                       ],
                                                                                                                                                                                                       "_mark": "",
@@ -2602,7 +2602,7 @@
                                                                                                                                                                                                                     }
                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                   "_mark": "mark_bmn9j3o36m25min71t1z",
-                                                                                                                                                                                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]"
+                                                                                                                                                                                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm]"
                                                                                                                                                                                                                 }
                                                                                                                                                                                                               ],
                                                                                                                                                                                                               "_mark": "",
@@ -3362,7 +3362,7 @@
                     }
                   ],
                   "_mark": "mark_final3",
-                  "_content": "[LABEL Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).][BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]"
+                  "_content": "[LABEL Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).][BGPICTURE bg.jpg][VIDEO gops1_gop1_hero_go_away.webm][AUDIO silent_1.5]"
                 },
                 {
                   "node": [
@@ -3446,7 +3446,7 @@
                     }
                   ],
                   "_mark": "mark_final9",
-                  "_content": "[LABEL Хрящ стукнул тебе в жбан. Отрицательный финал. (когда долго отвечаешь).][VIDEO GopPunchesToFace][AUDIO silent_2]"
+                  "_content": "[LABEL Хрящ стукнул тебе в жбан. Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm]"
                 },
                 {
                   "node": [
@@ -3488,7 +3488,7 @@
                     }
                   ],
                   "_mark": "mark_final12",
-                  "_content": "[LABEL Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).]"
+                  "_content": "[LABEL Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).][BGPICTURE bg.jpg]"
                 },
                 {
                   "node": [

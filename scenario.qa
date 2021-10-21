@@ -481,9 +481,9 @@
 																																													Хотя нет, давай по-другому
 																																														[mark_6l4879o950bjjz2ij1i9]Как по-другому?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																															Ты сходишь, а мне свою мобилу оставишь
-																																																[mark_s2ee18mf1061136wk511]Эээ... лады, держи, я погнал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																	...
-																																																		[mark_gk441eebpwfvd66o5jp3](гоп тупанул и ушел)
+																																																[mark_s2ee18mf1061136wk511]Эээ... лады, держи, я погнал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_mobile.webm][AUDIO silent_2]
+																																																	
+																																																		[mark_gk441eebpwfvd66o5jp3]...[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][AUDIO silent_2]
 																																																			...
 																																																				[mark_e5363vgi79qv1pyabiw9][GOTO mark_final12]
 																																													Ладно, держи
@@ -491,7 +491,7 @@
 																																															
 																																																[real_mobile]...[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_mobile.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																	Пойду
-																																																		[mark_bmn9j3o36m25min71t1z]...[BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]
+																																																		[mark_bmn9j3o36m25min71t1z]...[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm]
 																																																			
 																																																				[mark_nx48fiv60vph5vd326pv][GOTO mark_final20]
 																																																[fake_mobile]...[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_mobile.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -604,7 +604,7 @@
 		[mark_final2]Ты отравился собственной отравленной колбасой. Отрицательный финал.
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final3]Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]
+		[mark_final3]Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_gop1_hero_go_away.webm][AUDIO silent_1.5]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final4]Тебя раскрутили по полной. Отрицательный финал (наихудший).[BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]
@@ -622,7 +622,7 @@
 		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[VIDEO GopIsFrightened][AUDIO silent_5]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал. (когда долго отвечаешь).[VIDEO GopPunchesToFace][AUDIO silent_2]
+		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final10]Кирпич стукнул тебе в хавальник. Отрицательный финал. (когда завис).[VIDEO GopPunchesToFace][AUDIO silent_2]
@@ -631,7 +631,7 @@
 		[mark_final11]В итоге, тебе удалось свалить, и в будущем тебя никто так и не выловил. Повезло. Положительный финал (но можно и лучше).
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).
+		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).[BGPICTURE bg.jpg]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final13]Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]
