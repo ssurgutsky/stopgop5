@@ -35,7 +35,6 @@ export default {
       currentAmbientName: '',
       currentMusicName: '',
       silentTimerId: 0,
-      timeout1: 0,
       loop: false
     }
   },
@@ -74,7 +73,7 @@ export default {
       this.audioPlayer.loop = loop
       this.audioPlayer.src = this.getAudioSrc(name)
       this.audioPlayer.pause()
-      this.timeout1 = setTimeout(() => {
+      setTimeout(() => {
         this.audioPlayer.play()
       }, 10)
     },
@@ -100,8 +99,6 @@ export default {
 
     stopAudio () {
       this.audioPlayer.pause()
-      this.clearSilentTimer()
-      clearTimeout(this.timeout1)
       if (this.musicPlayer.src !== '') {
         this.musicPlayer.volume = 0.4
       }
