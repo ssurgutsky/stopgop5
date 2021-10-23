@@ -98,7 +98,7 @@
 																																																																																																	А почему они успокоились?
 																																																																																																		[mark_72onm0i7h0504196y38y]Не верят, что я Полкана вызвать могу. Дали мне полчаса времени, потом я хз что с тобой тут будет.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																			Может есть вариант подешевле?
-																																																																																																				[mark_9vjj76w8757j36979w26]Не знаю, устроит ли тебя. Тут неподалеку живет пара наркоманов, они за штуку согласятся в драке поучаствовать, люлей за тебя получить.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
+																																																																																																				[mark_9vjj76w8757j36979w26]Не знаю, устроит ли тебя. Тут неподалеку живет наркоман, он за штуку согласится вместо тебя люлей получить.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																					А еще подешевле?
 																																																																																																						[mark_f096h2kw79w7176z4036]Куда еще дешевле? Бесплатно у меня вариантов нет, уж извини.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																							Ладно, за штуку меня устроит
@@ -396,6 +396,8 @@
 																																																																												[mark_864sh3d5l8vvo841tcb4]Да нет ничего, успокойся![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																													...
 																																																																														[mark_6auu4w21s729szjpn251][GOTO mark_final17]
+																																																																													А твою телку не Алена зовут?
+																																																																														[mark_l2u7gz2i1p4k9jmma999]Тычена Ващена
 																																																																			[GOTO fight2]
 																																																																			[GOTO no_money_really]
 																																																					[GOTO ok_ok_will_give1000]
