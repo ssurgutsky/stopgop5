@@ -122,67 +122,62 @@
 																																																																																																																									...
 																																																																																																																										[mark_5bv656a52kl842gy92hx]Они сказали, что за нами пойдут.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																																											Ну пусть идут.
-																																																																																																																												[EPISODE12](видео с камеры на доме во дворе)
-																																																																																																																													...
-																																																																																																																														[mark_vfz19753k210voz255qr](видео, как заходят в подъезд)
-																																																																																																																															...
-																																																																																																																																[mark_rbxul59kmi5ely7agmi6](видео на этаже)
-																																																																																																																																	Подожди здесь, я сейчас вынесу деньги
-																																																																																																																																		[mark_t5fp242jm0d6vl5b5878]Оставь пока мобилу, чтобы не передумать и не подставлять меня.
-																																																																																																																																			Да я быстро!
-																																																																																																																																				[mark_3182okae9f63vx0n00x9](видео в квартире)Что будешь делать?
-																																																																																																																																					Позвоню в полицию.
-																																																																																																																																						[mark_3140585l6rb830m76o0w]- Алло, полиция! У меня деньги вымогают! Пришлите наряд!
+																																																																																																																												[EPISODE12]...[BGPICTURE bg_floor.jpg][BGNDVIDEO gop3_floor_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gop3_gone]
+																																																																																																																													Подожди здесь, я сейчас вынесу деньги
+																																																																																																																														[mark_t5fp242jm0d6vl5b5878]Оставь пока мобилу, чтобы не передумать и не подставлять меня.[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_speaking.webm][AUDIO silent_2][BGNDVIDEO gop3_floor_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gop3_gone]
+																																																																																																																															Да я быстро!
+																																																																																																																																[mark_3182okae9f63vx0n00x9]Что будешь делать?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
+																																																																																																																																	Позвоню в полицию.
+																																																																																																																																		[mark_3140585l6rb830m76o0w]- Алло, полиция! У меня деньги вымогают! Пришлите наряд![BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
+																																																																																																																																			...
+																																																																																																																																				[mark_90598350p45rz101xjzu]...[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_go_out.webm]
+																																																																																																																																					...
+																																																																																																																																						[mark_d39ph33i76mm42km12ar]Через полчаса к тебе приехала полиция. Конечно же, никого из бандитов уже не было.(видео, как бобик подъезжает)
 																																																																																																																																							...
-																																																																																																																																								[mark_90598350p45rz101xjzu](Червлей уходит из подъезда)
+																																																																																																																																								[mark_jj1415p60549c75og4iy]Ты поехал в полицию, написал заявление о разбойном нападении, вымогательстве и передал вовремя отснятое видео. (бобик увозит ГГ)
 																																																																																																																																									...
-																																																																																																																																										[mark_d39ph33i76mm42km12ar]Через полчаса к тебе приехала полиция. Конечно же, никого из бандитов уже не было.(видео, как бобик подъезжает)
+																																																																																																																																										[mark_v0s021y00y4673u7j96x]Через некоторое время, полиция вычислила подозреваемых и предъявила им обвинения по статье 162 УК РФ, Разбой.
 																																																																																																																																											...
-																																																																																																																																												[mark_jj1415p60549c75og4iy]Ты поехал в полицию, написал заявление о разбойном нападении, вымогательстве и передал вовремя отснятое видео. (бобик увозит ГГ)
+																																																																																																																																												[mark_kz9utf5367l3uf37s7wo]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.
 																																																																																																																																													...
-																																																																																																																																														[mark_v0s021y00y4673u7j96x]Через некоторое время, полиция вычислила подозреваемых и предъявила им обвинения по статье 162 УК РФ, Разбой.
-																																																																																																																																															...
-																																																																																																																																																[mark_kz9utf5367l3uf37s7wo]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.
-																																																																																																																																																	...
-																																																																																																																																																		[EPISODE13]Здравствуй. Меня зовут Чекрыж. У меня к тебе предложение - я даю тебе денег, а ты забираешь свое заявление из полиции, чтобы ребят отпустили.
-																																																																																																																																																			Нет, я не согласен
-																																																																																																																																																				[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги!!!(Чекрыж угрожает пистолетом)
-																																																																																																																																																					[ok_take_money_from_check]Ладно, я согласен
-																																																																																																																																																						[mark_iy35st9q2g3s1y9zzyu6][GOTO mark_final30]
-																																																																																																																																																					Нет, я не возьму
-																																																																																																																																																						[mark_1m964ojth3g9o801za12]Я же тебя пристрелю, как щенка! И мне ничего за это не будет! Ты разве этого не понимаешь?
-																																																																																																																																																							Мои очки сейчас пишут видео в "облако"
-																																																																																																																																																								[mark_mkgji67st6zn8tmcdpik][GOTO mark_final31]
-																																																																																																																																																			[GOTO ok_take_money_from_check]
-																																																																																																																																					[bring_money_to_gop3]Вынесу деньги.
-																																																																																																																																						[mark_449zk3a44z466k2xlnnn](Червлей забирает деньги в подъезде)
+																																																																																																																																														[EPISODE13]Здравствуй. Меня зовут Чекрыж. У меня к тебе предложение - я даю тебе денег, а ты забираешь свое заявление из полиции, чтобы ребят отпустили.
+																																																																																																																																															Нет, я не согласен
+																																																																																																																																																[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги!!!(Чекрыж угрожает пистолетом)
+																																																																																																																																																	[ok_take_money_from_check]Ладно, я согласен
+																																																																																																																																																		[mark_iy35st9q2g3s1y9zzyu6][GOTO mark_final30]
+																																																																																																																																																	Нет, я не возьму
+																																																																																																																																																		[mark_1m964ojth3g9o801za12]Я же тебя пристрелю, как щенка! И мне ничего за это не будет! Ты разве этого не понимаешь?
+																																																																																																																																																			Мои очки сейчас пишут видео в "облако"
+																																																																																																																																																				[mark_mkgji67st6zn8tmcdpik][GOTO mark_final31]
+																																																																																																																																															[GOTO ok_take_money_from_check]
+																																																																																																																																	[bring_money_to_gop3]Вынесу деньги.
+																																																																																																																																		[gop3_floor_takes_money]...[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_takes_money.webm]
+																																																																																																																																			
+																																																																																																																																				[mark_8r59md526k939za7z96l]Все, можешь расслабиться, больше они тебя не тронут. Сейчас Полкан решит этот вопрос.[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_speaking.webm][AUDIO silent_2][BGNDVIDEO gop3_floor_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gop3_gone]
+																																																																																																																																					...
+																																																																																																																																						[mark_k55eogiye544q8942yat]...[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_go_out.webm]
 																																																																																																																																							
-																																																																																																																																								[mark_8r59md526k939za7z96l]Все, можешь расслабиться, больше они тебя не тронут. Сейчас Полкан решит этот вопрос.
-																																																																																																																																									
-																																																																																																																																										[mark_k55eogiye544q8942yat](Червлей уходит из подъезда, см. видео выше)
-																																																																																																																																											
-																																																																																																																																												[mark_22nf89kxrct0edn58x90][GOTO mark_final6]
-																																																																																																																																					[mark_f0p7nao9asmwi0g13i36]Лягу спать.
-																																																																																																																																						[mark_s4d9hegdle3zoyr6qv0y][GOTO mark_final5]
-																																																																																																																																			Ладно, вот мобила
-																																																																																																																																				[mark_dl917djwiw40yis1q5b0]Отлично.[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_gop3_mobile.webm]
-																																																																																																																																					
-																																																																																																																																						[mark_9ssuso517g74ss6v7857](видео в квартире)
-																																																																																																																																							Позвоню в полицию
-																																																																																																																																								[mark_j2r011h5c1ny640d3b5h]У тебя нет ни мобилы, ни доказательств.
-																																																																																																																																									[GOTO mark_final20]
-																																																																																																																																							Вынесу деньги
-																																																																																																																																								[mark_9n3y3j1l3j9nunka45o0](Червлей уходит из подъезда, уже есть видео см.выше)
-																																																																																																																																									
-																																																																																																																																										[mark_3931x84r7c48853v5h9v][GOTO mark_final6]
-																																																																																																																																							Лягу спать
-																																																																																																																																								[mark_v2xz3u2bt9b3yi6azl0x][GOTO mark_final20]
+																																																																																																																																								[mark_22nf89kxrct0edn58x90][GOTO mark_final6]
+																																																																																																																																	[mark_f0p7nao9asmwi0g13i36]Лягу спать.
+																																																																																																																																		[mark_s4d9hegdle3zoyr6qv0y][GOTO mark_final5]
+																																																																																																																															Ладно, вот мобила
+																																																																																																																																[mark_dl917djwiw40yis1q5b0]Отлично.[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_takes_mobile.webm]
+																																																																																																																																	
+																																																																																																																																		[mark_9ssuso517g74ss6v7857]Ты у себя дома, на кухне. Что дальше?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
+																																																																																																																																			Позвоню в полицию
+																																																																																																																																				[mark_j2r011h5c1ny640d3b5h]У тебя нет ни мобилы, ни доказательств.[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
+																																																																																																																																					...
+																																																																																																																																						[mark_7gypuj0u0m7p2i665m71][GOTO mark_final20]
+																																																																																																																																			Вынесу деньги
+																																																																																																																																				[mark_ne9hee5ty03114xqs31p][GOTO gop3_floor_takes_money]
+																																																																																																																																			Лягу спать
+																																																																																																																																				[mark_v2xz3u2bt9b3yi6azl0x][GOTO mark_final20]
 																																																																																																																					[ok_take_mobile_for_loan]Ладно, вот мобила.
 																																																																																																																						[mark_c9m7fsapen157e9oo0d9]Отлично.[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_gop3_mobile.webm]
 																																																																																																																							
-																																																																																																																								[EPISODE11]Ты дома. Что будешь делать?
+																																																																																																																								[EPISODE11]Ты дома. Что будешь делать?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
 																																																																																																																									Вызову полицию
-																																																																																																																										[mark_b759p5v1gr413r6whd0c]У тебя нет ни мобильника, ни доказательств для полиции.
+																																																																																																																										[mark_b759p5v1gr413r6whd0c]У тебя нет ни мобильника, ни доказательств для полиции.[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
 																																																																																																																											[return_back_to_gops]Вернусь
 																																																																																																																												[mark_7e7226b2d60cfcxv6510]...[BGPICTURE bg.jpg][BGNDVIDEO gops3_gop3_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																																													...
@@ -200,7 +195,7 @@
 																																																																																																																																									
 																																																																																																																																										[mark_ir5gnds60jk9a8jpv1yc][GOTO mark_final6]
 																																																																																																																																			Нет, сначала мобила
-																																																																																																																																				[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away.webm]
+																																																																																																																																				[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gop3_floor_go_out.webm]
 																																																																																																																																					
 																																																																																																																																						[mark_5a9r0v13qcl3q69j5j68]Ну чо, сдулся твой защитничек? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																							Он вернется, я же ему заплатил
