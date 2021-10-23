@@ -3776,7 +3776,7 @@
             }
           ],
           "_mark": "START",
-          "_content": "[LABEL Симулятор гопника, часть 5.\nv1.{this.game_version}][BGNDIMAGE Intro.jpg][ANSWERSORDER ON]"
+          "_content": "[LABEL Симулятор гопника, часть 5. Подстава.\nv1.{this.game_version}][BGNDIMAGE Intro.jpg][ANSWERSORDER ON]"
         }
       ]
     }
