@@ -109,7 +109,7 @@
 																																																																																																												[mark_sbeaa3moqcy0id7q6r01]Чтобы парни с тобой связаться могли, как приедут, ты их соориентируешь, куда подойти. Потому что я сейчас уйду.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																													[ok_call_polkan]Ладно, я согласен, зови Полкана
 																																																																																																														[mark_ygu3750y467znbsx5s58]Только ему заплатить надо сразу, иначе он на тебя очень сильно обидится. У тебя есть деньги или карта?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
-																																																																																																															С собой нет, только дома.
+																																																																																																															С собой нет, только дома
 																																																																																																																[chervley_ok_go_home_take_money]Ладно, сбегай пока домой за деньгами, а я их разговором займу. Но в залог оставь мобилу.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																																	Я не могу оставить мобилу
 																																																																																																																		[mark_kv8lhohd0bc6iz85v1b7]Понимаешь, я за тебя сейчас впрягаюсь, и ты меня сильно подставишь, если не вернешься.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
@@ -165,38 +165,86 @@
 																																																																																																																																					[mark_f0p7nao9asmwi0g13i36]Лягу спать.
 																																																																																																																																						[mark_s4d9hegdle3zoyr6qv0y][GOTO mark_final5]
 																																																																																																																																			Ладно, вот мобила
-																																																																																																																																				[mark_9ssuso517g74ss6v7857](видео в квартире)
-																																																																																																																																					Позвоню в полицию
-																																																																																																																																						[mark_j2r011h5c1ny640d3b5h]У тебя нет ни мобилы, ни доказательств.
-																																																																																																																																							[GOTO mark_final20]
-																																																																																																																																					Вынесу деньги
-																																																																																																																																						[mark_9n3y3j1l3j9nunka45o0](Червлей уходит из подъезда, уже есть видео см.выше)
-																																																																																																																																							
-																																																																																																																																								[mark_3931x84r7c48853v5h9v][GOTO mark_final6]
-																																																																																																																																					Лягу спать
-																																																																																																																																						[mark_v2xz3u2bt9b3yi6azl0x][GOTO mark_final20]
+																																																																																																																																				[mark_dl917djwiw40yis1q5b0]Отлично.[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_gop3_mobile.webm]
+																																																																																																																																					
+																																																																																																																																						[mark_9ssuso517g74ss6v7857](видео в квартире)
+																																																																																																																																							Позвоню в полицию
+																																																																																																																																								[mark_j2r011h5c1ny640d3b5h]У тебя нет ни мобилы, ни доказательств.
+																																																																																																																																									[GOTO mark_final20]
+																																																																																																																																							Вынесу деньги
+																																																																																																																																								[mark_9n3y3j1l3j9nunka45o0](Червлей уходит из подъезда, уже есть видео см.выше)
+																																																																																																																																									
+																																																																																																																																										[mark_3931x84r7c48853v5h9v][GOTO mark_final6]
+																																																																																																																																							Лягу спать
+																																																																																																																																								[mark_v2xz3u2bt9b3yi6azl0x][GOTO mark_final20]
 																																																																																																																					[ok_take_mobile_for_loan]Ладно, вот мобила.
-																																																																																																																						[mark_c9m7fsapen157e9oo0d9](убегаешь домой)
+																																																																																																																						[mark_c9m7fsapen157e9oo0d9]Отлично.[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_gop3_mobile.webm]
 																																																																																																																							
 																																																																																																																								[EPISODE11]Ты дома. Что будешь делать?
 																																																																																																																									Вызову полицию
 																																																																																																																										[mark_b759p5v1gr413r6whd0c]У тебя нет ни мобильника, ни доказательств для полиции.
 																																																																																																																											[return_back_to_gops]Вернусь
-																																																																																																																												[mark_7e7226b2d60cfcxv6510](вернулся)
+																																																																																																																												[mark_7e7226b2d60cfcxv6510]...[BGPICTURE bg.jpg][BGNDVIDEO gops3_gop3_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																																													...
 																																																																																																																														[mark_6qfim9j8l62sj7yquf7l]Принес деньги? Полкан уже ждет.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																																															А мобилу сначала верни?
 																																																																																																																																[gop3_give_money_get_mobile]Давай сначала деньги, а потом я отдам мобилу. Через 5 минут эти двое будут извиняться перед тобой.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
-																																																																																																																																	Нет, сначала мобилу
+																																																																																																																																	Нет, сначала мобила
 																																																																																																																																		[mark_v0734309i5y600g99i3q]Нет времени спорить, Полкан ждать не будет, мне придется твой мобильник отдать отдать.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																																																			[ok_here_is_money]Ладно, вот деньги
-																																																																																																																																				[mark_37323c4vm14uzze68f1v](Червлей берет деньги, кладет к себе)[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
+																																																																																																																																				[chervley_takes_money_for_polkan]...[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_money_gop3.webm]
 																																																																																																																																					
-																																																																																																																																						[mark_56db0310h14xn6z6ddv4](Червлей лезет за телефоном в куртку, но достает свой тел)Все, время вышло! Полкан звонит, мне надо срочно отдать ему деньги. Жди здесь![BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
-																																																																																																																																							
-																																																																																																																																								[mark_jembgj66978j63vn8tn6](Червлей убегает за угол с трубой у уха)[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
+																																																																																																																																						[mark_56db0310h14xn6z6ddv4]Полкан звонит, надо ответить. Жди здесь.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
+																																																																																																																																							...
+																																																																																																																																								[mark_jembgj66978j63vn8tn6]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																									
 																																																																																																																																										[mark_ir5gnds60jk9a8jpv1yc][GOTO mark_final6]
+																																																																																																																																			Нет, сначала мобила
+																																																																																																																																				[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away.webm]
+																																																																																																																																					
+																																																																																																																																						[mark_5a9r0v13qcl3q69j5j68]Ну чо, сдулся твой защитничек? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																							Он вернется, я же ему заплатил
+																																																																																																																																								[mark_5h555f9bcp4o9309985v]Чо??? Ты отдал бабло Червлею?![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																									Так вы заодно с ним?
+																																																																																																																																										[mark_8w4614pylmip7f24n408]Хрящ, быстро за ним! Он нас кинул![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																											...
+																																																																																																																																												[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
+																																																																																																																																							Я вам ничего не должен
+																																																																																																																																								[EPISODE10](Кирпич)Кранты тебе![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																									[fight2]Буду биться
+																																																																																																																																										[mark_z8u0fc6xv4l41es84tvk](Кирпич наносит удар правой, кулак идет сначала быстро, потом при приближении к камере медленно, 3 сек)
+																																																																																																																																											Уклон вниз
+																																																																																																																																												[mark_3ymq3bu7i99cg6xg9k0x](камера уходит вниз, кулак Кирпича пролетает сверху, камера возвращается вверх на исходную позицию)
+																																																																																																																																													...
+																																																																																																																																														[mark_76t31o9x1kmxwxq309ae](Хрящ наносит удар левой, кулак идет сначала быстро, потом перед камерой медленно, 3 сек)
+																																																																																																																																															Уклон вниз
+																																																																																																																																																[mark_0u4pq4h9i3986wlo25t3](камера уходит вниз, кулак Хряща пролетает сверху, камера возвращается вверх на исходную позицию)
+																																																																																																																																																	...
+																																																																																																																																																		[mark_333zb2h71rc736q91lb3](Кирпич пинает, нога идет быстро, перед камерой замедляется, 3 сек)
+																																																																																																																																																			Защита уходом назад
+																																																																																																																																																				[mark_2b50h4i1t6471610xf5d](камера уходит назад на 1м, нога Кирпича бьет воздух перед камерой, камера возвращается обратно)
+																																																																																																																																																					...
+																																																																																																																																																						[mark_f9mp82e794lh513y2vzy](Кирпич и Хрящ одновременно заносят руки в удар: правая Кирпича и левая Хряща и медленно начинают наносить удары, 3 сек)
+																																																																																																																																																							Уклон вниз
+																																																																																																																																																								[mark_2db9980107z78rl6u63i](замедленно: камера уходит вниз, но смотрит на гопов. Над камерой: Хрящ бьет Кирпича в лицо, моментом позже Кирпич бьет Хряща в лицо. Кирпич падает вправо, Хрящ отлетает и падает влево.)
+																																																																																																																																																									...
+																																																																																																																																																										[mark_n7znc86030ay1yofb3p7][GOTO mark_final21]
+																																																																																																																																																							Защита блоком
+																																																																																																																																																								[mark_dx1oo0ot9upmv97jox2x](С двух сторону тебе наносятся удары: справа рука Кирпича, слева рука Хряща. Блок не выдерживает, ГГ падает лицом вверх, камера смотрит на небо. Сверху подходят Хрящ и Кирпич и смотрят на него вниз.)
+																																																																																																																																																									...
+																																																																																																																																																										[mark_4ky82257892ua3szm6m9][GOTO mark_final17]
+																																																																																																																																																			Защита блоком
+																																																																																																																																																				[fight2_gop2_breaks_block_by_leg](Кирпич пропинывает твой блок, ГГ отлетая назад, падает, лицом вверх, камера смотрит на небо. Сверху подходят Хрящ и Кирпич и смотрят на него вниз.)
+																																																																																																																																																					...
+																																																																																																																																																						[mark_cpa74ek0v43ze54w8647][GOTO mark_final17]
+																																																																																																																																															Защита блоком
+																																																																																																																																																[mark_28ja2y2k27e6gux75y80](Хрящ наносит удар левой, но ГГ блокирует его удар, содрагаясь)
+																																																																																																																																																	
+																																																																																																																																																		[mark_00qm9wnyln6xz7i4816n][GOTO fight2_gop2_breaks_block_by_leg]
+																																																																																																																																											Защита блоком
+																																																																																																																																												[mark_3i736w7qmv0b5l15q0r8](Кирпич пробивает блок, ГГ получает по морде, падает лицом вверх, камера смотрит на небо. Сверху подходят Хрящ и Кирпич и смотрят на него вниз.)
+																																																																																																																																													...
+																																																																																																																																														[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
 																																																																																																																																	[GOTO ok_here_is_money]
 																																																																																																																															Да, принес
 																																																																																																																																[mark_6g1n6w6c113wi132i842][GOTO gop3_give_money_get_mobile]
@@ -205,65 +253,23 @@
 																																																																																																																									[GOTO return_back_to_gops]
 																																																																																																																									[GOTO go_to_sleep]
 																																																																																																																					(негромко)Хотел бы помочь - уже помог
-																																																																																																																						[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away.webm]
-																																																																																																																							
-																																																																																																																								[mark_5a9r0v13qcl3q69j5j68]Ну чо, сдулся твой защитничек? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																									Он вернется, я же ему заплатил
-																																																																																																																										[mark_5h555f9bcp4o9309985v]Чо??? Ты отдал бабло Червлею?![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																											Так вы заодно с ним?
-																																																																																																																												[mark_8w4614pylmip7f24n408]Хрящ, быстро за ним! Он нас кинул![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																													...
-																																																																																																																														[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
-																																																																																																																									Я вам ничего не должен
-																																																																																																																										[EPISODE10](Кирпич)Кранты тебе![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																											[fight2]Буду биться
-																																																																																																																												[mark_z8u0fc6xv4l41es84tvk](Кирпич наносит удар правой, кулак идет сначала быстро, потом при приближении к камере медленно, 3 сек)
-																																																																																																																													Уклон вниз
-																																																																																																																														[mark_3ymq3bu7i99cg6xg9k0x](камера уходит вниз, кулак Кирпича пролетает сверху, камера возвращается вверх на исходную позицию)
-																																																																																																																															...
-																																																																																																																																[mark_76t31o9x1kmxwxq309ae](Хрящ наносит удар левой, кулак идет сначала быстро, потом перед камерой медленно, 3 сек)
-																																																																																																																																	Уклон вниз
-																																																																																																																																		[mark_0u4pq4h9i3986wlo25t3](камера уходит вниз, кулак Хряща пролетает сверху, камера возвращается вверх на исходную позицию)
-																																																																																																																																			...
-																																																																																																																																				[mark_333zb2h71rc736q91lb3](Кирпич пинает, нога идет быстро, перед камерой замедляется, 3 сек)
-																																																																																																																																					Защита уходом назад
-																																																																																																																																						[mark_2b50h4i1t6471610xf5d](камера уходит назад на 1м, нога Кирпича бьет воздух перед камерой, камера возвращается обратно)
-																																																																																																																																							...
-																																																																																																																																								[mark_f9mp82e794lh513y2vzy](Кирпич и Хрящ одновременно заносят руки в удар: правая Кирпича и левая Хряща и медленно начинают наносить удары, 3 сек)
-																																																																																																																																									Уклон вниз
-																																																																																																																																										[mark_2db9980107z78rl6u63i](замедленно: камера уходит вниз, но смотрит на гопов. Над камерой: Хрящ бьет Кирпича в лицо, моментом позже Кирпич бьет Хряща в лицо. Кирпич падает вправо, Хрящ отлетает и падает влево.)
-																																																																																																																																											...
-																																																																																																																																												[mark_n7znc86030ay1yofb3p7][GOTO mark_final21]
-																																																																																																																																									Защита блоком
-																																																																																																																																										[mark_dx1oo0ot9upmv97jox2x](С двух сторону тебе наносятся удары: справа рука Кирпича, слева рука Хряща. Блок не выдерживает, ГГ падает лицом вверх, камера смотрит на небо. Сверху подходят Хрящ и Кирпич и смотрят на него вниз.)
-																																																																																																																																											...
-																																																																																																																																												[mark_4ky82257892ua3szm6m9][GOTO mark_final17]
-																																																																																																																																					Защита блоком
-																																																																																																																																						[fight2_gop2_breaks_block_by_leg](Кирпич пропинывает твой блок, ГГ отлетая назад, падает, лицом вверх, камера смотрит на небо. Сверху подходят Хрящ и Кирпич и смотрят на него вниз.)
-																																																																																																																																							...
-																																																																																																																																								[mark_cpa74ek0v43ze54w8647][GOTO mark_final17]
-																																																																																																																																	Защита блоком
-																																																																																																																																		[mark_28ja2y2k27e6gux75y80](Хрящ наносит удар левой, но ГГ блокирует его удар, содрагаясь)
-																																																																																																																																			
-																																																																																																																																				[mark_00qm9wnyln6xz7i4816n][GOTO fight2_gop2_breaks_block_by_leg]
-																																																																																																																													Защита блоком
-																																																																																																																														[mark_3i736w7qmv0b5l15q0r8](Кирпич пробивает блок, ГГ получает по морде, падает лицом вверх, камера смотрит на небо. Сверху подходят Хрящ и Кирпич и смотрят на него вниз.)
-																																																																																																																															...
-																																																																																																																																[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
+																																																																																																																						[mark_727st8by9q19786t974r][GOTO gop3_gone]
 																																																																																																																			[mark_3xb0sl66ej831882jmhr][GOTO give_mobile_for_home_money]
 																																																																																																																	[GOTO ok_take_mobile_for_loan]
-																																																																																																															[mark_uwc9bq4k352bxlm888o8]Да.
-																																																																																																																[mark_u93jvtuk1o12x3r4ahy9][GOTO chervley_give_money_for_polkan]
-																																																																																																															[mark_g40ynlt837g12oig560x]Нет, ничего нет.
+																																																																																																															[mark_uwc9bq4k352bxlm888o8]Да, держи
+																																																																																																																[mark_u93jvtuk1o12x3r4ahy9][GOTO chervley_takes_money_for_polkan]
+																																																																																																															[mark_g40ynlt837g12oig560x]Нет, ничего нет
 																																																																																																																[mark_9r6fq1et1jy1zad7zcu9]А дома есть?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
-																																																																																																																	Нет, дома тоже ничего нет.
+																																																																																																																	Нет, дома тоже ничего нет
 																																																																																																																		[mark_7em3r5d2adn0d184knb7][GOTO chervley_cant_help_you]
 																																																																																																																	Да, дома есть
 																																																																																																																		[mark_8z0b6imnl6w69phcp5r5][GOTO chervley_ok_go_home_take_money]
 																																																																																																													[take_mobile_for_help]Хорошо, вот мобила
-																																																																																																														[mark_571q3qpr7gs6220d78xr](Червлей уходит за угол с мобилой у уха)[BGPICTURE bg.jpg][VIDEO gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
-																																																																																																															...
-																																																																																																																[mark_0776e05yt8qec463n0sf][GOTO mark_final6]
+																																																																																																														[mark_571q3qpr7gs6220d78xr]Отлично.[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_gop3_mobile.webm]
+																																																																																																															
+																																																																																																																[mark_f0s4e407242z1yj5483i]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
+																																																																																																																	
+																																																																																																																		[mark_0776e05yt8qec463n0sf][GOTO mark_final6]
 																																																																																																											[GOTO take_mobile_for_help]
 																																																																																																									[GOTO take_mobile_for_help]
 																																																																																																							[i_m_really_have_no_money]У меня, если честно, нет денег
