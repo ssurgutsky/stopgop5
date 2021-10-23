@@ -296,17 +296,15 @@
 																																																																													Преступление снимаю
 																																																																														[mark_2u1q1w4uv6r4ycg8cl5q][GOTO gop2_hit_you_g1g3]
 																																																																									Сделаю вид, что звонят
-																																																																										[mark_2xj8sa309856we5r87l1]Эээ, ты чо там достал? Мобилу?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																																										[mark_2xj8sa309856we5r87l1]Эээ, ты чо там достал? Мобилу?[BGPICTURE bg.jpg][VIDEO gops3_far_gops_speaking.webm][AUDIO silent_2][BGNDVIDEO gops3_far_gops_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																											Мама звонит, надо ответить
 																																																																												[mark_c144b60b0v1byo3879j0]- Алло, мам! Да, все нормально у меня. Да, дела нормально... (медленно уходишь за угол, убегаешь)
 																																																																													...
 																																																																														[mark_1lf441i5zl498du9a273][GOTO mark_final11]
 																																																																									Включу секретное приложение
-																																																																										[mark_b8x0x81s825kx6c11w5v]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН!
+																																																																										[mark_b8x0x81s825kx6c11w5v]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![BGPICTURE bg.jpg][VIDEO gops3_far_gops_speaking.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																											
-																																																																												[mark_8xjsvp3m7817wy03dn58](Хрящ, Кирпич, Червлей разбегаются по сторонам)
-																																																																													
-																																																																														[mark_4qt8g09sq164iv26780h][GOTO mark_final19]
+																																																																												[mark_4qt8g09sq164iv26780h][GOTO mark_final19]
 																																																																							Постою, подожду
 																																																																								[mark_151xlboa5555991o1a57]... шушукаются между собой...[BGPICTURE bg.jpg][BGNDVIDEO gops3_far_gops_speaking.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																									Постою, подожду
@@ -623,7 +621,7 @@
 		[mark_final7]Ты обманул разводил, соврав, что отдал деньги Червлею! Положительный финал (но можно лучше).
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm][AUDIO silent_3]
+		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm]
@@ -656,7 +654,7 @@
 		[mark_final18]Ты надрал гопам их нежные задницы! Положительный финал (но можно лучше)[VIDEO GopBePunched][AUDIO silent_2]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm][AUDIO silent_3]
+		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final20]Ты утратил свою не дешевую мобилу, взятую в кредит. А когда вернулся, никого уже не было. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
