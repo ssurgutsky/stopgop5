@@ -68,7 +68,7 @@
 																																																																			...
 																																																																				[mark_6fo9di2qcedtfvb1hp2c]Слух, Кирпич, отскочим-побормочим с ним по этой теме.[BGPICTURE bg.jpg][VIDEO gops3_gop1_gop3_speaking.webm][AUDIO silent_3][BGNDVIDEO gops3_gops_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																					...
-																																																																						[EPISODE8]...[BGPICTURE bg.jpg][BGNDVIDEO gops3_far_gops_go.webm]
+																																																																						[EPISODE8]...[BGPICTURE bg.jpg][VIDEO gops3_far_gops_go.webm]
 																																																																							
 																																																																								[mark_bd59x893921163k1d832]... шушукаются между собой...[BGPICTURE bg.jpg][BGNDVIDEO gops3_far_gops_speaking.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																									Достану мобилу
@@ -89,7 +89,7 @@
 																																																																																								[mark_a650o3s6d9rb20crv8zf]...[BGPICTURE bg.jpg][VIDEO gops3_gop2_comes_back_with_knife.webm][BGNDVIDEO gops3_far_gops_speaking.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																									Подожду
 																																																																																										[EPISODE9]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_comes_to_hero.webm]
-																																																																																											...
+																																																																																											
 																																																																																												[mark_o22a87p3oy03r9p0x269]Слушай, я с ними поговорил. Сам я тебе помочь не могу.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																													И как быть?
 																																																																																														[mark_e05s609dt578w57f8eg5]Есть один вариант - позвонить Полкану. Это мой босс, начальник районной полиции, они его боятся.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
@@ -162,7 +162,7 @@
 																																																																																																																																										[mark_22nf89kxrct0edn58x90][GOTO mark_final6]
 																																																																																																																																			[mark_f0p7nao9asmwi0g13i36]Лягу спать.
 																																																																																																																																				[mark_s4d9hegdle3zoyr6qv0y][GOTO mark_final5]
-																																																																																																																																	Ладно, вот мобила
+																																																																																																																																	[give_mobile_for_home_money]Ладно, вот мобила
 																																																																																																																																		[mark_dl917djwiw40yis1q5b0]Отлично.[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_takes_mobile.webm]
 																																																																																																																																			
 																																																																																																																																				[mark_9ssuso517g74ss6v7857]Ты у себя дома, на кухне. Что дальше?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
@@ -197,7 +197,7 @@
 																																																																																																																																											
 																																																																																																																																												[mark_ir5gnds60jk9a8jpv1yc][GOTO mark_final6]
 																																																																																																																																					Нет, сначала мобила
-																																																																																																																																						[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gop3_floor_go_out.webm]
+																																																																																																																																						[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																							
 																																																																																																																																								[mark_5a9r0v13qcl3q69j5j68]Ну чо, сдулся твой защитничек? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																									Он вернется, я же ему заплатил
