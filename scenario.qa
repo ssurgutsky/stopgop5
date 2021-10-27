@@ -351,7 +351,7 @@
 																																																																																			Вернусь к гопам
 																																																																																				[mark_m20f321obl6k853h4i4v]Ну чо, где бабло?[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																					Ребят, такое дело, нет денег
-																																																																																						[mark_a8922t0s31a6rdd6io8t]Ты чо бессмертный? Без бабло сюда причапал...[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																						[mark_a8922t0s31a6rdd6io8t]Ты чо бессмертный? Без бабла сюда причапал...[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																							Я не виноват! Другой квартирант, студент, все истратил
 																																																																																								[mark_0arav4pg6bji62in8q88]Моя какая проблема?! Я те отвечаю - ща в те дыра будет![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																									...
@@ -363,11 +363,13 @@
 																																																																																															...
 																																																																																																[mark_74x8116z8lrf9r5ual5x]Нормас пошла, закусим![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																	...
-																																																																																																		[mark_xe442uj7f8q38w90nzb9]А-А-А!!! Измена! Колбаса с пургеном![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																																																																		[mark_xe442uj7f8q38w90nzb9]А-А-А!!! Измена! Колбаса с пургеном![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																			Я же говорил вам - не надо!
 																																																																																																				[mark_6k3e7tl33b86z2ax1w6a]В развалины! Срочно! Разгружаться![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_2][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																					Ах-ха-ха-ха!!!
-																																																																																																						[mark_7y3w1jifrvcm082l395o][GOTO mark_final1]
+																																																																																																						[mark_gm8odl7pek0046j6w72p]...[BGPICTURE bg.jpg][VIDEO gops2_gops_feels_bad.webm]
+																																																																																																							
+																																																																																																								[mark_7y3w1jifrvcm082l395o][GOTO mark_final1]
 																																																																																											[plz_eat_guys]Ребят, угощайтесь
 																																																																																												[mark_wh78f37kn42o04538166]Cмори - колбаса и водка.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																													...
@@ -676,7 +678,7 @@
 							[GOTO gop1_name_hryash]
 							[GOTO gop1_name_vasyan]
 							[GOTO gop1_name_chervley]
-		[mark_final1]Ты избавился от гопов с помощью отравленной колбасы! Несколько дней они не слазили с горшка, а ты за это время сменил имидж и больше той дорогой не ходил. Положительный финал (но можно лучше).
+		[mark_final1]Ты избавился от гопов с помощью отравленной колбасы! Несколько дней они не слазили с горшка, а ты за это время сменил имидж и больше той дорогой не ходил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final2]Ты отравился собственной отравленной колбасой. Отрицательный финал.
