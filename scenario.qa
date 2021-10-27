@@ -211,7 +211,9 @@
 																																																																																																																																													Так вы заодно с ним?
 																																																																																																																																														[mark_8w4614pylmip7f24n408]Хрящ, быстро за ним! Он нас кинул![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																															...
-																																																																																																																																																[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
+																																																																																																																																																[mark_u6vs3k2eu5lgh1mrb698][BGPICTURE bg.jpg][VIDEO gops2_gops_run_to_gop3.webm]
+																																																																																																																																																	
+																																																																																																																																																		[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
 																																																																																																																																											Я вам ничего не должен
 																																																																																																																																												[EPISODE10](Кирпич)Кранты тебе![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																													[fight2]Буду биться
@@ -558,8 +560,8 @@
 																																															Ты сходишь, а мне свою мобилу оставишь
 																																																[mark_s2ee18mf1061136wk511]Эээ... лады, держи, я погнал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_mobile.webm][AUDIO silent_2]
 																																																	
-																																																		[mark_gk441eebpwfvd66o5jp3]...[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][AUDIO silent_2]
-																																																			...
+																																																		[mark_gk441eebpwfvd66o5jp3]...[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
+																																																			
 																																																				[mark_e5363vgi79qv1pyabiw9][GOTO mark_final12]
 																																													Ладно, держи
 																																														[mark_96c9h4x1437p8ben8zzj][GOTO real_mobile,fake_mobile]
@@ -573,31 +575,33 @@
 																																																	Уйду
 																																																		[mark_u1790b94d15877de0281][GOTO mark_final3]
 																																													Да тебе такая не нужна
-																																														[mark_0057t87j888zd492g3au]Ну-ка покажи чо за мобила?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																														[mark_0057t87j888zd492g3au]Ну-ка, покеж, чо за мобила?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																															Вот, смотри
 																																																[mark_3v1vb7f40e695t35k5m4]Древний кнопочный телефон[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_old_mobile.webm][AUDIO silent_4]
 																																																	
-																																																		[mark_c5hx767k8d39ko8dl3yu]Братан, у тебя по реалу все так плохо? Купи себе нормальную![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm]
-																																																			...
+																																																		[mark_c5hx767k8d39ko8dl3yu]Братан, у тебя по реалу все так плохо? Держи штукарь, купи себе нормальную, епта.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_3]
+																																																			
 																																																				[mark_m0e0pb97o5ra6yp7szr2]+1000[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																					Спасибо, братан!
 																																																						[mark_i0cvjx052393jj5270p0][GOTO mark_final13]
 																																													[open_mobile]Достану мобилу
-																																														[mark_624m21nuqqb9l2q7q1e7](достаешь мобилу)[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																															Нажму иконку "ТК"
-																																																[mark_56o3268gjgc178m4no21](тыкаешь в мобиле на приложение "Тревожная кнопка")[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_2]
-																																																	
-																																																		[mark_7hj8640ll1a242s3i28d]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![BGPICTURE bg.jpg][VIDEO gops1_gop1_idle_hard.webm][AUDIO silent_3]
+																																														[mark_1iwe06727le8955k8c9q]...[BGPICTURE bg.jpg][VIDEO gops1_hero_takes_mobile.webm]
+																																															
+																																																[mark_624m21nuqqb9l2q7q1e7]...[BGPICTURE bg.jpg][BGNDVIDEO gops1_hero_holds_mobile.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																	Нажму иконку "ТК"
+																																																		[mark_56o3268gjgc178m4no21]...[BGPICTURE bg.jpg][VIDEO gops1_hero_opens_app.webm]
 																																																			
-																																																				[mark_tnn68n559e179amn4072][GOTO mark_final8]
-																																															Наберу 112
-																																																[mark_dvh0xj3281viv07916w2][GOTO mark_final9]
-																																															Позвоню маме
-																																																[mark_4e0m0pb9z73j5t005wp6]- Алло, мама, у меня деньги вымогают... Хнык-хнык-хнык...[BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																	...
-																																																		[mark_xozoc3696383uci133bj]Фу, мамсик попался...[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																			...
-																																																				[mark_fa32aw164p46cn2n7209][GOTO mark_final23]
+																																																				[mark_7hj8640ll1a242s3i28d]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![BGPICTURE bg.jpg][VIDEO gops1_gop1_idle_hard.webm][AUDIO silent_3]
+																																																					
+																																																						[mark_tnn68n559e179amn4072][GOTO mark_final8]
+																																																	Наберу 112
+																																																		[mark_dvh0xj3281viv07916w2][GOTO mark_final9]
+																																																	Позвоню маме
+																																																		[mark_4e0m0pb9z73j5t005wp6]- Алло, мама, у меня деньги вымогают...[BGPICTURE bg.jpg][VIDEO gops1_hero_calls_mom_by_mobile.webm][AUDIO silent_3]
+																																																			
+																																																				[mark_xozoc3696383uci133bj]Фу ты, мамсик попался...[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_2]
+																																																					
+																																																						[mark_fa32aw164p46cn2n7209][GOTO mark_final23]
 																																											[GOTO open_mobile]
 																																									[GOTO open_mobile]
 																																							[GOTO open_mobile]
@@ -684,10 +688,10 @@
 		[mark_final2]Ты отравился собственной отравленной колбасой. Отрицательный финал.
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final3]Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_gop1_hero_go_away.webm][AUDIO silent_1.5]
+		[mark_final3]Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm][AUDIO silent_1.5]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final4]Тебя раскрутили по полной. Отрицательный финал (наихудший).[BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]
+		[mark_final4]Тебя раскрутили по полной. Отрицательный финал (наихудший).[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final5]В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.
@@ -714,7 +718,7 @@
 		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).[BGPICTURE bg.jpg]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final13]Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_lost_interest.webm][AUDIO silent_1]
+		[mark_final13]Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final14]<reserved>
@@ -744,7 +748,7 @@
 		[mark_final22]Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final23]Тебя отпустили, потому что ты оказался "мамсиком" (маменькиным сынком). Отрицательный финал.[VIDEO gops1_gop1_lost_interest][AUDIO silent_2]
+		[mark_final23]Тебя отпустили, потому что ты оказался "мамсиком" (маменькиным сынком). Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final24]Тебя отпустили, потому что ты оказался нищебродом. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
