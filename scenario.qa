@@ -694,9 +694,11 @@
 		[mark_final4]Тебя раскрутили по полной. Отрицательный финал (наихудший).[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final5]В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
-			[GOTO donate]
-			[GOTO ddonate]
+		[mark_final5]...[IMAGE black.jpg][AUDIO silent_1]
+			
+				[mark_ibq5f1gdl26z0bw411ew]В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.[BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm]
+					[GOTO donate]
+					[GOTO ddonate]
 		[mark_final6]Кажется, тебя только что кинули. Отрицательный финал.
 			[GOTO donate]
 			[GOTO ddonate]
@@ -709,9 +711,13 @@
 		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final10]Кирпич стукнул тебе в хавальник. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm]
-			[GOTO donate]
-			[GOTO ddonate]
+		[mark_final10]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm]
+			
+				[mark_m7bxmxpjp4690v66r1qe]...[IMAGE black.jpg][AUDIO silent_1]
+					
+						[mark_7e8f4vw24131bbgmdn6g]Кирпич стукнул тебе в хавальник. Отрицательный финал.[BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm][BGNDIMAGE *]
+							[GOTO donate]
+							[GOTO ddonate]
 		[mark_final11]В итоге, тебе удалось свалить, и в будущем тебя никто так и не выловил. Повезло. Положительный финал (но можно и лучше).
 			[GOTO donate]
 			[GOTO ddonate]

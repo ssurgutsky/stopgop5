@@ -3855,16 +3855,28 @@
                 {
                   "node": [
                     {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "_mark": "",
+                              "_content": "[LABEL ][GOTO donate]"
+                            },
+                            {
+                              "_mark": "",
+                              "_content": "[LABEL ][GOTO ddonate]"
+                            }
+                          ],
+                          "_mark": "mark_ibq5f1gdl26z0bw411ew",
+                          "_content": "[LABEL В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.][BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm]"
+                        }
+                      ],
                       "_mark": "",
-                      "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
+                      "_content": "[LABEL ]"
                     }
                   ],
                   "_mark": "mark_final5",
-                  "_content": "[LABEL В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.][BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]"
+                  "_content": "[LABEL ...][IMAGE black.jpg][AUDIO silent_1]"
                 },
                 {
                   "node": [
@@ -3925,16 +3937,40 @@
                 {
                   "node": [
                     {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "node": [
+                                    {
+                                      "_mark": "",
+                                      "_content": "[LABEL ][GOTO donate]"
+                                    },
+                                    {
+                                      "_mark": "",
+                                      "_content": "[LABEL ][GOTO ddonate]"
+                                    }
+                                  ],
+                                  "_mark": "mark_7e8f4vw24131bbgmdn6g",
+                                  "_content": "[LABEL Кирпич стукнул тебе в хавальник. Отрицательный финал.][BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm][BGNDIMAGE *]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_m7bxmxpjp4690v66r1qe",
+                          "_content": "[LABEL ...][IMAGE black.jpg][AUDIO silent_1]"
+                        }
+                      ],
                       "_mark": "",
-                      "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
+                      "_content": "[LABEL ]"
                     }
                   ],
                   "_mark": "mark_final10",
-                  "_content": "[LABEL Кирпич стукнул тебе в хавальник. Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm]"
+                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm]"
                 },
                 {
                   "node": [
