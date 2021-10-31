@@ -281,14 +281,14 @@
 																																																																																																																																																						[fight2_gop2_hits_lhead]Попал четко под удар![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit2_p2_hhead.webm]
 																																																																																																																																																							
 																																																																																																																																																								[mark_wy9szzqyc85000oi0950][GOTO mark_final17]
-																																																																																																																																																	Уход вправо
-																																																																																																																																																		[fight2_gop2_hits_rhead]Попал четко под удар![BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit1_p2_hhead.webm]
-																																																																																																																																																			
-																																																																																																																																																				[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
 																																																																																																																																																	Уход влево
 																																																																																																																																																		[mark_4znj2lh334723ap9b71i]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
 																																																																																																																																																			
 																																																																																																																																																				[mark_x1yb4uu4i5kx076i35de][GOTO fight2_s2]
+																																																																																																																																																	Уход вправо
+																																																																																																																																																		[fight2_gop2_hits_rhead]Попал четко под удар![BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit1_p2_hhead.webm]
+																																																																																																																																																			
+																																																																																																																																																				[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
 																																																																																																																																			[GOTO ok_here_is_money]
 																																																																																																																																	Да, принес
 																																																																																																																																		[mark_6g1n6w6c113wi132i842][GOTO gop3_give_money_get_mobile]
