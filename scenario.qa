@@ -764,7 +764,15 @@
 																																																																																																																	
 																																																																																																																		[mark_32fki9m31557a7nr2yoo]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm]
 																																																																																																																			
-																																																																																																																				[mark_421wd9aiwrlz6lv740q2]<Enter text here>
+																																																																																																																				[fight2_s25]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
+																																																																																																																					Уклон вниз + апперкот
+																																																																																																																						[mark_85k189s560v2eey251ir]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_uppercote.webm]
+																																																																																																																							
+																																																																																																																								[mark_ek0kb88mbd13l3b789m8]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_loose.webm]
+																																																																																																																									
+																																																																																																																										[mark_j881u01ndg741m90fyyj]...[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm]
+																																																																																																																											
+																																																																																																																												[mark_qw06e494x004p09458fb][GOTO mark_final18]
 																																																																																																															Уход влево + удар левой
 																																																																																																																[mark_185776u71624v9w5w3i7][GOTO fight2_gop2_hits_lhead]
 																																																																																																											Уклон вниз
@@ -948,7 +956,7 @@
 				[mark_42v8sep21253gmcp5krc]Кирпич надрал тебе твою нежную задницу. Отрицательный финал.[BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm][BGNDIMAGE *]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final18]Ты надрал гопам их нежные задницы! Положительный финал (но можно лучше)[VIDEO GopBePunched][AUDIO silent_2]
+		[mark_final18]Ты надрал Кирпичу задницу! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm]
@@ -957,7 +965,7 @@
 		[mark_final20]Ты утратил свою не дешевую мобилу, взятую в кредит, потому что, когда вернулся, никого уже не было. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final21]Кирпич и Хрящ самоликвидировались. Положительный финал (но можно лучше)
+		[mark_final21]<reserved>
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final22]Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
