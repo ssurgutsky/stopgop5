@@ -216,7 +216,7 @@
 																																																																																																																																																		[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
 																																																																																																																																											Я вам ничего не должен
 																																																																																																																																												[EPISODE10]Кранты тебе![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																													Давай один на один!
+																																																																																																																																													[lets_fight2]Давай один на один!
 																																																																																																																																														[mark_1sa265e766b35002su3s][GOTO fight2]
 																																																																																																																																			[GOTO ok_here_is_money]
 																																																																																																																																	Да, принес
@@ -395,16 +395,16 @@
 																																																																																[mark_6auu4w21s729szjpn251][GOTO mark_final24]
 																																																																									А твою телку не Алена зовут?
 																																																																										[mark_l2u7gz2i1p4k9jmma999]Тычена Ващена
-																																																																			[GOTO fight2]
+																																																																			[GOTO lets_fight2]
 																																																																			[GOTO no_money_really]
 																																																					[GOTO ok_ok_will_give1000]
-																																															[GOTO fight2]
+																																															[GOTO lets_fight2]
 																																													[GOTO ok_ok_will_give1000]
-																																													[GOTO fight2]
-																																											[GOTO fight2]
+																																													[GOTO lets_fight2]
+																																											[GOTO lets_fight2]
 																																											[GOTO ok_ok_will_give1000]
 																																									[GOTO ok_ok_will_give1000]
-																																									[GOTO fight2]
+																																									[GOTO lets_fight2]
 																																									[GOTO i_didnt_ask_money_from_gop2]
 																																					[ok_take_1000]Ладно, вот штукарь.
 																																						[EPISODE4]-1000[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_1000.webm][AUDIO silent_2]
