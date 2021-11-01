@@ -661,12 +661,12 @@
 										[mark_628akmlqd684e62cw590]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit2_p2_up.webm]
 											
 												[fight2_s3]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
-													”клон вниз
-														[mark_29nfhpr06ng0gwilu0f5]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_up.webm]
+													”ход влево
+														[mark_z990l011pbcabjt9j8v3]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
 															
 																[fight2_s4]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
-																	”клон вниз
-																		[mark_r71080yd784bp52n8c2e]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit2_p2_up.webm]
+																	”ход вправо
+																		[mark_yc3qxa6j9y2261b37n48]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
 																			
 																				[fight2_s5]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
 																					”дар левой
@@ -871,16 +871,16 @@
 																						[mark_zxig4237lt02hxt77a7j]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm]
 																							
 																								[mark_d1uo84k30hv9afx2nkw5][GOTO fight2_s6]
-																	”ход вправо
-																		[mark_7jkfcw854smq7465p9ym]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																	”клон вниз
+																		[mark_hx7nc58ua290de5m5038]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm]
 																			
-																				[mark_9z6m25sjeac3s8hxlbdw][GOTO fight2_s5]
+																				[mark_50kpngj3gg23zh01t87g][GOTO mark_final17]
 																	”ход влево
 																		[mark_d6nplp763m68e0prxk96][GOTO fight2_gop2_hits_lhead]
-													”ход влево
-														[mark_z990l011pbcabjt9j8v3]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+													”клон вниз
+														[mark_z990l011pbcabjt9j8v3]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm]
 															
-																[mark_y1dy90o23vr67xipk561][GOTO fight2_s4]
+																[mark_y1dy90o23vr67xipk561][GOTO mark_final17]
 													”ход вправо
 														[mark_cs6ga895j64gae407129][GOTO fight2_gop2_hits_rhead]
 									”ход вправо

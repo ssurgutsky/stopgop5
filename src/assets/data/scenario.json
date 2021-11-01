@@ -4807,12 +4807,12 @@
                                                                                       "_content": "[LABEL ]"
                                                                                     }
                                                                                   ],
-                                                                                  "_mark": "mark_r71080yd784bp52n8c2e",
-                                                                                  "_content": "[LABEL ...][BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit2_p2_up.webm]"
+                                                                                  "_mark": "mark_yc3qxa6j9y2261b37n48",
+                                                                                  "_content": "[LABEL ...][BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]"
                                                                                 }
                                                                               ],
                                                                               "_mark": "",
-                                                                              "_content": "[LABEL Уклон вниз]"
+                                                                              "_content": "[LABEL Уход вправо]"
                                                                             },
                                                                             {
                                                                               "node": [
@@ -4821,20 +4821,20 @@
                                                                                     {
                                                                                       "node": [
                                                                                         {
-                                                                                          "_mark": "mark_9z6m25sjeac3s8hxlbdw",
-                                                                                          "_content": "[LABEL ][GOTO fight2_s5]"
+                                                                                          "_mark": "mark_50kpngj3gg23zh01t87g",
+                                                                                          "_content": "[LABEL ][GOTO mark_final17]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
                                                                                       "_content": "[LABEL ]"
                                                                                     }
                                                                                   ],
-                                                                                  "_mark": "mark_7jkfcw854smq7465p9ym",
-                                                                                  "_content": "[LABEL ...][BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]"
+                                                                                  "_mark": "mark_hx7nc58ua290de5m5038",
+                                                                                  "_content": "[LABEL ...][BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm]"
                                                                                 }
                                                                               ],
                                                                               "_mark": "",
-                                                                              "_content": "[LABEL Уход вправо]"
+                                                                              "_content": "[LABEL Уклон вниз]"
                                                                             },
                                                                             {
                                                                               "node": [
@@ -4855,12 +4855,12 @@
                                                                       "_content": "[LABEL ]"
                                                                     }
                                                                   ],
-                                                                  "_mark": "mark_29nfhpr06ng0gwilu0f5",
-                                                                  "_content": "[LABEL ...][BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_up.webm]"
+                                                                  "_mark": "mark_z990l011pbcabjt9j8v3",
+                                                                  "_content": "[LABEL ...][BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]"
                                                                 }
                                                               ],
                                                               "_mark": "",
-                                                              "_content": "[LABEL Уклон вниз]"
+                                                              "_content": "[LABEL Уход влево]"
                                                             },
                                                             {
                                                               "node": [
@@ -4870,7 +4870,7 @@
                                                                       "node": [
                                                                         {
                                                                           "_mark": "mark_y1dy90o23vr67xipk561",
-                                                                          "_content": "[LABEL ][GOTO fight2_s4]"
+                                                                          "_content": "[LABEL ][GOTO mark_final17]"
                                                                         }
                                                                       ],
                                                                       "_mark": "",
@@ -4878,11 +4878,11 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "mark_z990l011pbcabjt9j8v3",
-                                                                  "_content": "[LABEL ...][BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]"
+                                                                  "_content": "[LABEL ...][BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm]"
                                                                 }
                                                               ],
                                                               "_mark": "",
-                                                              "_content": "[LABEL Уход влево]"
+                                                              "_content": "[LABEL Уклон вниз]"
                                                             },
                                                             {
                                                               "node": [
