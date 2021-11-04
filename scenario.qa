@@ -148,17 +148,23 @@
 																																																																																																																																																			>>>
 																																																																																																																																																				[EPISODE13]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.[BGPICTURE bg.jpg][VIDEO gop4_intro.webm]
 																																																																																																																																																					
-																																																																																																																																																						[mark_8ve4abg7gix3kf57g602]Здравствуй. Меня зовут Чекрыж. Я даю тебе денег, а ты забираешь свое заявление из полиции.[BGPICTURE bg.jpg][VIDEO gop4_gun_speaking.webm][AUDIO silent_2][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
-																																																																																																																																																							Нет, я не согласен
+																																																																																																																																																						[mark_8ve4abg7gix3kf57g602]Меня зовут Чекрыж. Я даю тебе денег, а ты забираешь свое заявление из полиции.[BGPICTURE bg.jpg][VIDEO gop4_gun_speaking.webm][AUDIO silent_2][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
+																																																																																																																																																							Нет, я не возьму
 																																																																																																																																																								[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги![BGPICTURE bg.jpg][VIDEO gop4_gun_speaking.webm][AUDIO silent_2][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
 																																																																																																																																																									[ok_take_money_from_check]Ладно, я согласен
-																																																																																																																																																										[gop4_gives_money]...[BGPICTURE bg.jpg][VIDEO gop4_go_away.webm]
+																																																																																																																																																										[gop4_gives_money]...[BGPICTURE bg.jpg][VIDEO gop4_gives_money.webm]
 																																																																																																																																																											
-																																																																																																																																																												[mark_iy35st9q2g3s1y9zzyu6][GOTO mark_final30]
-																																																																																																																																																									Нет, я не возьму
+																																																																																																																																																												[mark_a83yk9c0z448u4f1n0yz]...[BGPICTURE bg.jpg][VIDEO gop4_goes_out.webm]
+																																																																																																																																																													
+																																																																																																																																																														[mark_iy35st9q2g3s1y9zzyu6][GOTO mark_final30]
+																																																																																																																																																									Нет, не возьму
 																																																																																																																																																										[mark_1m964ojth3g9o801za12]Я же тебя пристрелю, как щенка! И мне ничего за это не будет.[BGPICTURE bg.jpg][VIDEO gop4_gun_speaking.webm][AUDIO silent_2][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
-																																																																																																																																																											Мои очки сейчас пишут видео в "облако"
-																																																																																																																																																												[mark_mkgji67st6zn8tmcdpik][GOTO mark_final31]
+																																																																																																																																																											Будет, у меня очки с видеозаписью
+																																																																																																																																																												[mark_7w90advwg1guqlnst198]...[BGPICTURE bg.jpg][BGNDIMAGE glasses.png][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
+																																																																																																																																																													>>>
+																																																																																																																																																														[mark_w40lm44x193jk24kc411]...[BGPICTURE bg.jpg][IMAGE glasses.png][VIDEO gop4_goes_out.webm]
+																																																																																																																																																															
+																																																																																																																																																																[mark_mkgji67st6zn8tmcdpik][GOTO mark_final31]
 																																																																																																																																																							[GOTO ok_take_money_from_check]
 																																																																																																																																									[bring_money_to_gop3]Вынесу деньги.
 																																																																																																																																										[gop3_floor_takes_money]...[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_takes_money.webm]
@@ -929,10 +935,10 @@
 				[mark_ibq5f1gdl26z0bw411ew]В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.[BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final6]Кажется, тебя только что кинули. Отрицательный финал.
+		[mark_final6]Кажется, тебя только что кинули. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final7]Ты обманул разводил, соврав, что отдал деньги Червлею! Положительный финал (но можно лучше).
+		[mark_final7]Ты обманул разводил, соврав, что отдал деньги Червлею! Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm]
@@ -948,7 +954,7 @@
 						[mark_7e8f4vw24131bbgmdn6g]Кирпич стукнул тебе в хлебальник. Отрицательный финал.[BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm][BGNDIMAGE *]
 							[GOTO donate]
 							[GOTO ddonate]
-		[mark_final11]В итоге, тебе удалось свалить, и в будущем тебя никто так и не выловил. Повезло. Положительный финал (но можно и лучше).
+		[mark_final11]В итоге, тебе удалось свалить, и в будущем тебя никто так и не выловил. Повезло. Положительный финал (но можно и лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).[BGPICTURE bg.jpg]
@@ -997,10 +1003,10 @@
 		[mark_final25]"Да пошел ты!", - гоп отвалил от тебя. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final30]Полкан заплатил тебе крупную сумму денег, чтобы ты забрал заявление из полиции. Больше тебя никогда не трогали. Главный положительный финал (но не самый правильный)
+		[mark_final30]Чекрыж заплатил тебе крупную сумму денег, чтобы ты забрал заявление из полиции. Больше тебя никогда не трогали. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final31]Ты отказался от денег Чекрыжа и не забрал заявление. Бандитов посадили. А чуть позже и Чекрыжа тоже. Главный положительный финал!
+		[mark_final31]Ты отказался от денег Чекрыжа и не забрал заявление. Бандитов посадили. А чуть позже и Чекрыжа тоже. Главный положительный финал![BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 	[donate]Достать лопатник.
