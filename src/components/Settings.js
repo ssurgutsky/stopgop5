@@ -4,7 +4,7 @@ export default {
   // Increase this on every update to reload assets for new on startup
   GAME_VERSION: 2,
   // Release = true
-  CACHE_ENABLED: false,
+  CACHE_ENABLED: true,
 
   GAME_VERSION_VAR_NAME: 'game_version',
   GAME_UPGRADE_POINT: 'GAME_UPGRADEPOINT',
@@ -24,5 +24,5 @@ export default {
   ENABLE_BACK_BUTTON: false,
   ENABLE_DONATE_BUTTON: true,
 
-  ENABLE_SPEECH: true
+  ENABLE_SPEECH: false
 }
