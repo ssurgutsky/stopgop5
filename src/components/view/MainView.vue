@@ -102,8 +102,8 @@ export default {
       this.$refs.videoPlayer.stopVideo()
     },
 
-    playAudio (name, loop) {
-      this.$refs.audioPlayer.playAudio(name, loop)
+    playAudio (name, loop, text) {
+      this.$refs.audioPlayer.playAudio(name, loop, text)
     },
 
     stopAudio () {

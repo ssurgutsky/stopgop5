@@ -20,6 +20,7 @@
 
 <script>
 import CacheController from '@/components/controller/CacheController.js'
+import Settings from '@/components/Settings.js'
 import { setTimeout } from 'timers'
 
 export default {
@@ -32,6 +33,7 @@ export default {
       bgndMusicPlayer: null,
       sfxPlayer: null,
       currentAudioName: '',
+      currentUtterance: null,
       currentAmbientName: '',
       currentMusicName: '',
       silentTimerId: 0,
@@ -52,8 +54,20 @@ export default {
       this.sfxPlayer = this.$refs.sfxPlayer
     },
 
-    playAudio (name, loop) {
-      console.log(name)
+    playAudio (name, loop, text) {
+      // console.log(name, text)
+
+      if (Settings.ENABLE_SPEECH && text && text !== '...') {
+        var voices = speechSynthesis.getVoices()
+        // console.log('voices', voices)
+        this.currentUtterance = new SpeechSynthesisUtterance(text)
+        // console.log('utterance', utterance)
+        this.currentUtterance.voice = voices[0]
+        this.currentUtterance.rate = 2
+        this.currentUtterance.onend = this.onAudioEnded
+        speechSynthesis.speak(this.currentUtterance)
+        return
+      }
 
       this.clearSilentTimer()
 
@@ -99,6 +113,11 @@ export default {
 
     stopAudio () {
       this.audioPlayer.pause()
+
+      if (Settings.ENABLE_SPEECH) {
+        speechSynthesis.cancel()
+      }
+
       if (this.musicPlayer.src !== '') {
         this.musicPlayer.volume = 0.4
       }

@@ -24,6 +24,7 @@
 import CacheController from '@/components/controller/CacheController.js'
 import MainView from '@/components/view/MainView.vue'
 import GameModel from '@/components/model/GameModel.vue'
+import Settings from '@/components/Settings.js'
 
 export default {
   components: {
@@ -206,16 +207,14 @@ export default {
     processAudioEnded (name) {
       console.log('audio ended:', name)
       this.gameModel.setNextAudio()
-      if (!this.playAudioSequence()) {
-        this.processVideoAndAudioEnding()
-      }
+      this.processVideoAndAudioEnding()
     },
 
     playVideoAndAudio () {
       let hasVideoEmpty = this.gameModel.hasVideoEmpty()
       let hasAudioEmpty = this.gameModel.hasAudioEmpty()
 
-      if (hasVideoEmpty && hasAudioEmpty) {
+      if (hasVideoEmpty && hasAudioEmpty && !this.checkIsSpeechEnabled()) {
         this.processVideoAndAudioEnding()
         return
       }
@@ -223,7 +222,7 @@ export default {
       if (!hasVideoEmpty) {
         this.playVideoSequence()
       }
-      if (!hasAudioEmpty) {
+      if (!hasAudioEmpty || this.checkIsSpeechEnabled()) {
         this.playAudioSequence()
       }
     },
@@ -253,11 +252,27 @@ export default {
         this.gameModel.setCurrentAudioIndex(0)
       }
 
+      if (this.checkIsSpeechEnabled()) {
+        this.mainView.playAudio(this.gameModel.getCurrentAudioName(), false, this.gameModel.getCurrentQuestionLabel())
+        return true
+      }
+
       if (this.gameModel.hasCurrentAudio()) {
         this.mainView.playAudio(this.gameModel.getCurrentAudioName(), false)
         return true
       }
+
       return false
+    },
+
+    checkIsSpeechEnabled () {
+      let result =
+        Settings.ENABLE_SPEECH &&
+        this.mode === this.MODE_QUESTION &&
+        this.gameModel.getCurrentQuestionLabel() &&
+        this.gameModel.getCurrentQuestionLabel() !== '...'
+
+      return result
     },
 
     processVideoAndAudioEnding () {

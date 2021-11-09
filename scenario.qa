@@ -1,6 +1,6 @@
-[START]Симулятор гопника, часть 5. Подстава.\nv1.{this.game_version}[ANSWERSORDER ON][BGNDIMAGE Intro.jpg][AMBIENT ambient]
-	[mark_jq3z9230b0d555d900as]НАЧАТЬ ИГРУ / START THE GAME
-		[GAME_SAVEPOINT]...[BGPICTURE bg.jpg][VIDEO gop1_intro.webm]
+[START]Симулятор гопника, часть 5. Подстава.\n(версия 1.{this.game_version})[ANSWERSORDER ON][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][BGNDIMAGE *]
+	[mark_jq3z9230b0d555d900as]НАЧАТЬ ИГРУ
+		[mark_78xmw99h8zd7cvh723d2]...[BGPICTURE bg.jpg][VIDEO gop1_intro.webm][AMBIENT ambient]
 			
 				[GAME_SAVEPOINT]Здарова, братан! Не узнал что ли?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 					Здарова
@@ -38,7 +38,7 @@
 																																					Пойду отсюда
 																																						[mark_562tsqg8s95n4v112d90]Куда ты почапал? Стой тут, жди Кирпича![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																							[you_wait_gop2]Подожду Кирпича.
-																																								[mark_5kb68f7jz5sc53k012c3]...[BGPICTURE bg.jpg][VIDEO gop2_intro.webm]
+																																								[gop2_intro]...[BGPICTURE bg.jpg][VIDEO gop2_intro.webm]
 																																									
 																																										[mark_82y74f91q9hk347m9kj0]Эээ, ты! Я тя помню! Бабло мне вернул быстро.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																											Я тебя даже не знаю
@@ -48,7 +48,7 @@
 																																															Я не говорил такого
 																																																[mark_d668k5r493u721343bqk]Ты чо, чертила! Я те щас очки пропишу с размаху![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																	Только попробуй, сядешь надолго!
-																																																		[mark_pefw5j351a75z6glg5g2]Дудух на!!![BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm,gops2_gop2_punches_hero_to_face_back.webm]
+																																																		[mark_pefw5j351a75z6glg5g2]Дудух на!!![BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm,gops2_gop2_punches_hero_to_face_back.webm][SOUNDFX boom.mp3]
 																																																			
 																																																				[mark_0phzs8lz75i27zg7w06g]...[IMAGE black.jpg&gops3_far_hero_records_mobile.png&sausage_vodka.png][AUDIO silent_1]
 																																																					
@@ -223,7 +223,7 @@
 																																																																																																																																																	Так вы заодно с ним?
 																																																																																																																																																		[mark_8w4614pylmip7f24n408]Хрящ, быстро за ним! Он нас кинул![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																																			>>>
-																																																																																																																																																				[mark_u6vs3k2eu5lgh1mrb698][BGPICTURE bg.jpg][VIDEO gops2_gops_run_to_gop3.webm]
+																																																																																																																																																				[mark_u6vs3k2eu5lgh1mrb698]...[BGPICTURE bg.jpg][VIDEO gops2_gops_run_to_gop3.webm]
 																																																																																																																																																					
 																																																																																																																																																						[mark_uvzvxt1oem82467i5q2l][GOTO mark_final7]
 																																																																																																																																															Я вам ничего не должен
@@ -331,7 +331,7 @@
 																																																																																	>>>
 																																																																																		[EPISODE6]Лады, беги. Если через полчаса не вернешься, я твою тушку лично проткну, понял?[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																			Понял
-																																																																																				[mark_3l531p42uj5745206j4p]Ты у себя дома, на кухне. Что будешь дальше?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
+																																																																																				[mark_3l531p42uj5745206j4p]Ты у себя дома, на кухне. Что будешь делать?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
 																																																																																					Возьму колбасу и водку
 																																																																																						[mark_6881c5flyoah7si0fk60]Теперь что?[BGPICTURE bg_kitchen.jpg][IMAGE sausage_vodka.png][BGNDIMAGE *]
 																																																																																							Вколю в колбасу шприц пургена
@@ -339,7 +339,7 @@
 																																																																																									[come_back_to_gops]Вернусь к гопам
 																																																																																										[mark_m20f321obl6k853h4i4v]Ну чо, где бабло?[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																											Ребят, такое дело, нет денег
-																																																																																												[mark_a8922t0s31a6rdd6io8t]Ты чо бессмертный? Без бабла сюда причапал...[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																												[mark_a8922t0s31a6rdd6io8t]Ты чо, бессмертный? Без бабла сюда причапал...[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																													Я не виноват! Другой квартирант, студент, все истратил
 																																																																																														[mark_0arav4pg6bji62in8q88]Моя какая проблема?! Я те отвечаю - ща в те дыра будет![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																															Достану пакет
@@ -526,7 +526,7 @@
 																																																																[mark_0mutcki7py0194n7a7ov][GOTO mark_final9]
 																																																													[GOTO fuck_you]
 																																																													[GOTO fight1]
-																																																											[ok_take_200]Ладно, вот держи.
+																																																											[ok_take_200]Ладно, вот держи
 																																																												[mark_yj92cfu67h4846w301o4]-200[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_200.webm][AUDIO silent_2.5][BGNDVIDEO gops1_gop1_idle_soft.webm]
 																																																													>>>
 																																																														[mark_v8246e24t7o188e5s760][GOTO mark_final4]
@@ -617,9 +617,9 @@
 																				[mark_b73sui137f3ys50xbsbx][GOTO gop1_ok_lets_call_kirpich]
 																			[GOTO ok_take_1000]
 															[that_wasnt_me]Это был не я.
-																[mark_r33n7790904jywz485qb][GOTO shisha1,shisha2,shisha3]
+																[mark_r33n7790904jywz485qb][GOTO shisha1,shisha2,shisha3,shisha4]
 																	
-																		[shisha1]Ты когда весь чубук выпарил, а расплатиться не смог, так и сказал охране: "Это был не я. Кальян сам себя скурил."![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																		[shisha1]Ты когда весь чубук выпарил, а расплатиться не смог, так и сказал охране: "Это был не я. Кальян сам себя скурил".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			[shisha_cant_be_so]Не могло такого быть
 																				[mark_j52235l4ohf9wv4331rg]Ну как не могло? Там с нами еще Кирпич был.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					[GOTO who_is_kirpich]
@@ -632,10 +632,13 @@
 																						[mark_ln220q8bfh3wvk3yo075]Братиш, то есть ты признаешь, что там был, просто не помнишь?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																							[GOTO who_is_kirpich]
 																							[GOTO i_have_to_go]
-																		[shisha2]Ты когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: "Это был не я. Это пил мой брат-близнец."![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																		[shisha2]Ты когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: "Это был не я. Это пил мой брат-близнец".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			[GOTO shisha_cant_be_so]
 																			[GOTO shisha_i_dont_smoke]
-																		[shisha3]Ты когда напился и официантку за булку схватил, так охранникам и сказал: "Это был не я. Булка сама себя схватила моей рукой."![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																		[shisha3]Ты когда напился и официантку за булку схватил, так охранникам и сказал: "Это был не я. Булка сама себя схватила моей рукой".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																			[GOTO shisha_cant_be_so]
+																			[GOTO shisha_i_dont_smoke]
+																		[shisha4]Ты когда напился и толчок в сортире сломал, так охране сказал: "Это был не я. На него соседний унитаз напал".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																			[GOTO shisha_cant_be_so]
 																			[GOTO shisha_i_dont_smoke]
 													[GOTO that_wasnt_me]
@@ -679,67 +682,67 @@
 			>>>
 				[fight2_s1]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 					Уклон вниз
-						[mark_3ymq3bu7i99cg6xg9k0x]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_up.webm]
+						[mark_3ymq3bu7i99cg6xg9k0x]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_up.webm][SOUNDFX swoosh.mp3]
 							
 								[fight2_s2]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 									Уклон вниз
-										[mark_628akmlqd684e62cw590]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit2_p2_up.webm]
+										[mark_628akmlqd684e62cw590]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit2_p2_up.webm][SOUNDFX swoosh.mp3]
 											
 												[fight2_s3]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 													Уход влево
-														[mark_z990l011pbcabjt9j8v3]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+														[mark_z990l011pbcabjt9j8v3]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm][SOUNDFX swoosh.mp3]
 															
 																[fight2_s4]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																	Уход вправо
-																		[mark_yc3qxa6j9y2261b37n48]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																		[mark_yc3qxa6j9y2261b37n48]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																			
 																				[fight2_s5]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
 																					Удар левой
-																						[mark_njqf328li6lrd89o86a0]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm]
+																						[mark_njqf328li6lrd89o86a0]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm][SOUNDFX boom.mp3]
 																							
 																								[fight2_s6]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 																									Уход влево + удар левой
-																										[mark_kguo1693t38m42js30dv]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+																										[mark_kguo1693t38m42js30dv]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm][SOUNDFX swoosh.mp3]
 																											
-																												[mark_shmev18jb0jy39436640]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm]
+																												[mark_shmev18jb0jy39436640]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm][SOUNDFX boom.mp3]
 																													
 																														[fight2_s7]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																															Уход вправо + удар правой
-																																[mark_2f0545s810iu4462zssh]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																																[mark_2f0545s810iu4462zssh]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																																	
-																																		[mark_g6yjf9z679s8ox7ni3rg]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm]
+																																		[mark_g6yjf9z679s8ox7ni3rg]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm][SOUNDFX boom.mp3]
 																																			
 																																				[fight2_s8]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																					Удар левой
-																																						[mark_387e4755bar96um30rcq]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm]
+																																						[mark_387e4755bar96um30rcq]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm][SOUNDFX boom.mp3]
 																																							
 																																								[fight2_s9]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																									Уход влево
-																																										[mark_w21w7465d97fs05r24qx]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+																																										[mark_w21w7465d97fs05r24qx]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm][SOUNDFX swoosh.mp3]
 																																											
 																																												[mark_t5240u2p8y07ol6879cd]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																													Уход вправо
-																																														[mark_0gz80e6u4s2693pr6c55]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																																														[mark_0gz80e6u4s2693pr6c55]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																																															
 																																																[fight2_s10]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																	Удар левой
-																																																		[mark_534i3ig7xq49q6muy14u]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm]
+																																																		[mark_534i3ig7xq49q6muy14u]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm][SOUNDFX boom.mp3]
 																																																			
 																																																				[fight2_s11]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																					Уход вправо
-																																																						[mark_a5bg5bx8k24db7420io0]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																																																						[mark_a5bg5bx8k24db7420io0]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																																																							
 																																																								[fight2_s12]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																									Уход вправо
-																																																										[mark_d01fng0899o0595zfc2c]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																																																										[mark_d01fng0899o0595zfc2c]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																																																											
 																																																												[fight2_s13]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																													Удар левой
-																																																														[mark_00g5db3dbp7jd8j0q300]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm]
+																																																														[mark_00g5db3dbp7jd8j0q300]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock.webm][SOUNDFX boom.mp3]
 																																																															
 																																																																[fight2_s14]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																																	Уклон вниз + апперкот
-																																																																		[mark_4jh4k12xpv0n07g4wg5t]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_uppercote.webm]
+																																																																		[mark_4jh4k12xpv0n07g4wg5t]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_uppercote.webm][SOUNDFX boom.mp3]
 																																																																			
 																																																																				[mark_9ymn7jkoo73p7u6vsnfu]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_loose.webm]
 																																																																					
@@ -747,53 +750,53 @@
 																																																																							
 																																																																								[mark_71f45c34i7h2n64h3ckc]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_fail_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																																									Удар правой
-																																																																										[mark_499q07262u717jej6ii4]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm]
+																																																																										[mark_499q07262u717jej6ii4]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm][SOUNDFX boom.mp3]
 																																																																											
 																																																																												[fight2_s15]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_fail_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																																													Удар правой
-																																																																														[mark_57470u4267f3g8d2f5x0]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm]
+																																																																														[mark_57470u4267f3g8d2f5x0]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm][SOUNDFX boom.mp3]
 																																																																															
 																																																																																[fight2_s16]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_fail_idle.webm][AUDIO silent_3]
 																																																																																	
 																																																																																		[fight2_s17]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																																																			Уход влево + удар левой
-																																																																																				[mark_99fj10217e0jw59pj5et]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+																																																																																				[mark_99fj10217e0jw59pj5et]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm][SOUNDFX swoosh.mp3]
 																																																																																					
-																																																																																						[mark_5tx6bs5s67ad239f1lvz]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock_hard.webm]
+																																																																																						[mark_5tx6bs5s67ad239f1lvz]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock_hard.webm][SOUNDFX boom.mp3]
 																																																																																							
 																																																																																								[fight2_s18]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																																																									Уход вправо + удар справа
-																																																																																										[mark_r37417qt7zgcvk4s9467]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																																																																																										[mark_r37417qt7zgcvk4s9467]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																																																																																											
-																																																																																												[mark_h7bncy73105u99zimul5]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm]
+																																																																																												[mark_h7bncy73105u99zimul5]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm][SOUNDFX boom.mp3]
 																																																																																													
 																																																																																														[fight2_s19]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_fail2_idle.webm][AUDIO silent_3]
 																																																																																															
 																																																																																																[fight2_s20]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_fail2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																																																																	Удар правой
-																																																																																																		[mark_4yowmxph55rhs22pq9dc]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rfail.webm]
+																																																																																																		[mark_4yowmxph55rhs22pq9dc]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rfail.webm][SOUNDFX boom.mp3]
 																																																																																																			
 																																																																																																				[fight2_s21]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_fail2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																																																																					Удар правой
-																																																																																																						[mark_71781jo6d4whc4d24dm5]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rfail.webm]
+																																																																																																						[mark_71781jo6d4whc4d24dm5]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rfail.webm][SOUNDFX boom.mp3]
 																																																																																																							
 																																																																																																								[fight2_s22]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_fail2_idle.webm][ANSWERTIME 5][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																																																																									Удар правой
-																																																																																																										[mark_i9412yu1m7k9fsj552ek]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rfail.webm]
+																																																																																																										[mark_i9412yu1m7k9fsj552ek]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rfail.webm][SOUNDFX boom.mp3]
 																																																																																																											
 																																																																																																												[fight2_s23]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																																																																													Уход влево
-																																																																																																														[mark_58903y78430rnz27y4n0]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+																																																																																																														[mark_58903y78430rnz27y4n0]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm][SOUNDFX swoosh.mp3]
 																																																																																																															
 																																																																																																																[fight2_s24]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																																																																																	Уход вправо + удар справа
-																																																																																																																		[mark_413qj1337d597y3pepug]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																																																																																																																		[mark_413qj1337d597y3pepug]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																																																																																																																			
-																																																																																																																				[mark_32fki9m31557a7nr2yoo]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm]
+																																																																																																																				[mark_32fki9m31557a7nr2yoo]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock_hard.webm][SOUNDFX boom.mp3]
 																																																																																																																					
 																																																																																																																						[fight2_s25]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
 																																																																																																																							Уклон вниз + апперкот
-																																																																																																																								[mark_85k189s560v2eey251ir]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_uppercote.webm]
+																																																																																																																								[mark_85k189s560v2eey251ir]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_uppercote.webm][SOUNDFX boom.mp3]
 																																																																																																																									
 																																																																																																																										[mark_ek0kb88mbd13l3b789m8]...[BGPICTURE bg_down.jpg][VIDEO fight2_gop2_loose.webm]
 																																																																																																																											
@@ -803,49 +806,49 @@
 																																																																																																																	Уход влево + удар левой
 																																																																																																																		[mark_185776u71624v9w5w3i7][GOTO fight2_gop2_hits_lhead]
 																																																																																																													Уклон вниз
-																																																																																																														[mark_msjnu231zh8e8v2382d2]Четко в пятак![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm]
+																																																																																																														[mark_msjnu231zh8e8v2382d2]Четко в пятак![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm][SOUNDFX boom.mp3]
 																																																																																																															
 																																																																																																																[mark_29riro5zv736v1bt3iv1][GOTO mark_final17]
 																																																																																																													Уход вправо + удар справа
 																																																																																																														[mark_z6ewlw7t84mjxuqc0n3k][GOTO fight2_gop2_hits_rhead]
 																																																																																																									Удар левой
-																																																																																																										[mark_l83yfq95172jtkpeqh3r]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lfail.webm]
+																																																																																																										[mark_l83yfq95172jtkpeqh3r]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lfail.webm][SOUNDFX boom.mp3]
 																																																																																																											
 																																																																																																												[mark_6z19m5u7eu4y53k8h422][GOTO fight2_s23]
 																																																																																																					Удар левой
-																																																																																																						[mark_ub6518iw42c1s7523p0u]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lfail.webm]
+																																																																																																						[mark_ub6518iw42c1s7523p0u]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lfail.webm][SOUNDFX boom.mp3]
 																																																																																																							
 																																																																																																								[mark_815ud94q55ffc94980m2][GOTO fight2_s22]
 																																																																																																	Удар левой
-																																																																																																		[mark_dc4hc69b6eb353ly7vm5]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lfail.webm]
+																																																																																																		[mark_dc4hc69b6eb353ly7vm5]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lfail.webm][SOUNDFX boom.mp3]
 																																																																																																			
 																																																																																																				[mark_4l67b7k811s8ck8vm95m][GOTO fight2_s21]
 																																																																																									Защита блоком
-																																																																																										[mark_301m049j52a68hu1rh6q]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_hit2_p2_lblock.webm]
+																																																																																										[mark_301m049j52a68hu1rh6q]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_hit2_p2_lblock.webm][SOUNDFX boom.mp3]
 																																																																																											
 																																																																																												[mark_csu87qhgjt48byd0t0z5][GOTO fight2_s19]
 																																																																																									Уход влево
 																																																																																										[mark_kbm552ti3f92y70rt27w][GOTO fight2_gop2_hits_lhead]
 																																																																																			Защита блоком
-																																																																																				[mark_55376402lo5hq85m6f8m]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_hit1_p2_lblock.webm]
+																																																																																				[mark_55376402lo5hq85m6f8m]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_hit1_p2_lblock.webm][SOUNDFX boom.mp3]
 																																																																																					
 																																																																																						[mark_37pj6wv8f7j44c6f959y][GOTO fight2_s18]
 																																																																																			Уход вправо
 																																																																																				[mark_l5lfik3pp31enk5l99f4][GOTO fight2_gop2_hits_rhead]
 																																																																													Удар левой
-																																																																														[mark_pb170moe4t0l4lq6ui48]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock_hard.webm]
+																																																																														[mark_pb170moe4t0l4lq6ui48]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock_hard.webm][SOUNDFX boom.mp3]
 																																																																															
 																																																																																[mark_p97l1505q4j306100536][GOTO fight2_s16]
 																																																																									Удар левой
-																																																																										[mark_uk444urt25n02o48lt8a]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock_hard.webm]
+																																																																										[mark_uk444urt25n02o48lt8a]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_lblock_hard.webm][SOUNDFX boom.mp3]
 																																																																											
 																																																																												[mark_jnzz1z150i1z65j5155a][GOTO fight2_s15]
 																																																																	Уход влево
-																																																																		[mark_4xuy5yz6861mcbxuv7b8]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+																																																																		[mark_4xuy5yz6861mcbxuv7b8]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm][SOUNDFX swoosh.mp3]
 																																																																			
 																																																																				[mark_j5544wuh7e3z1kqe99t3]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit2_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_lhead]
 																																																																					Уход вправо
-																																																																						[mark_m029s2zi3i3m63262a9o]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+																																																																						[mark_m029s2zi3i3m63262a9o]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 																																																																							
 																																																																								[mark_2zs8534b3jw05er21tn5][GOTO fight2_s14]
 																																																																					Защита блоком
@@ -857,7 +860,7 @@
 																																																																	Уход вправо
 																																																																		[mark_vjfm0c8f442948n5szq4][GOTO fight2_gop2_hits_rhead]
 																																																													Удар правой
-																																																														[mark_aa41s5to997jzxirl39d]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm]
+																																																														[mark_aa41s5to997jzxirl39d]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm][SOUNDFX boom.mp3]
 																																																															
 																																																																[mark_6xhl4gj377lvl411v52j][GOTO fight2_s14]
 																																																									Защита блоком
@@ -869,23 +872,23 @@
 																																																					Уход влево
 																																																						[mark_4vsfc32wa6204p3jiz3m][GOTO fight2_gop2_hits_lhead]
 																																																	Удар правой
-																																																		[mark_00p1p3sc9ci8uk4223at]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm]
+																																																		[mark_00p1p3sc9ci8uk4223at]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm][SOUNDFX boom.mp3]
 																																																			
 																																																				[mark_v53l9z08857b71p93441][GOTO fight2_s11]
 																																													Уход влево
 																																														[mark_n0ke768ba726sxp2437c][GOTO fight2_gop2_hits_lhead]
 																																													Защита блоком
-																																														[fight2_gop2_hit2_bblock]Пробил твой блок![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit2_p2_bblock.webm]
+																																														[fight2_gop2_hit2_bblock]Пробил твой блок![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit2_p2_bblock.webm][SOUNDFX boom.mp3]
 																																															
 																																																[mark_06h9on8c5vp4n1vslp4f][GOTO mark_final17]
 																																									Уход вправо
 																																										[mark_6y534wq3g5011hi05w3x][GOTO fight2_gop2_hits_rhead]
 																																									Защита блоком
-																																										[fight2_gop2_hit1_bblock]Пробил твой блок![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_bblock.webm]
+																																										[fight2_gop2_hit1_bblock]Пробил твой блок![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_bblock.webm][SOUNDFX boom.mp3]
 																																											
 																																												[mark_1664mbsw3tb77dac5441][GOTO mark_final17]
 																																					Удар правой
-																																						[mark_x03r1is3me8r3l9n4au8]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm]
+																																						[mark_x03r1is3me8r3l9n4au8]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm][SOUNDFX boom.mp3]
 																																							
 																																								[mark_vad3wg0pyodr755k0553][GOTO fight2_s9]
 																															Уход влево
@@ -893,35 +896,33 @@
 																									Уход вправо
 																										[mark_45r4hsfe494o4sc7rrc0][GOTO fight2_gop2_hits_rhead]
 																					Удар правой
-																						[mark_zxig4237lt02hxt77a7j]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm]
+																						[mark_zxig4237lt02hxt77a7j]...[BGPICTURE bg.jpg][VIDEO fight2_gop2_rblock.webm][SOUNDFX boom.mp3]
 																							
 																								[mark_d1uo84k30hv9afx2nkw5][GOTO fight2_s6]
 																	Уклон вниз
-																		[mark_hx7nc58ua290de5m5038]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm]
+																		[fight2_low_kick]Четко в пятак![BGPICTURE bg_down.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm][SOUNDFX boom.mp3]
 																			
 																				[mark_50kpngj3gg23zh01t87g][GOTO mark_final17]
 																	Уход влево
 																		[mark_d6nplp763m68e0prxk96][GOTO fight2_gop2_hits_lhead]
 													Уклон вниз
-														[mark_z990l011pbcabjt9j8v3]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_kick.webm]
-															
-																[mark_y1dy90o23vr67xipk561][GOTO mark_final17]
+														[mark_y1dy90o23vr67xipk561][GOTO fight2_low_kick]
 													Уход вправо
 														[mark_cs6ga895j64gae407129][GOTO fight2_gop2_hits_rhead]
 									Уход вправо
-										[mark_e6wl2nlm5065w8zg9685]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm]
+										[mark_e6wl2nlm5065w8zg9685]...[BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit2_p2_rhit.webm][SOUNDFX swoosh.mp3]
 											
 												[mark_dnactncwb7qxcqq57p8f][GOTO fight2_s3]
 									Уход влево
-										[fight2_gop2_hits_lhead]Попал четко под удар![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit2_p2_hhead.webm]
+										[fight2_gop2_hits_lhead]Попал четко под удар![BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit2_p2_hhead.webm][SOUNDFX boom.mp3]
 											
 												[mark_wy9szzqyc85000oi0950][GOTO mark_final17]
 					Уход влево
-						[mark_4znj2lh334723ap9b71i]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm]
+						[mark_4znj2lh334723ap9b71i]...[BGPICTURE bg_left.jpg][VIDEO fight2_gop2_hit1_p2_lhit.webm][SOUNDFX swoosh.mp3]
 							
 								[mark_x1yb4uu4i5kx076i35de][GOTO fight2_s2]
 					Уход вправо
-						[fight2_gop2_hits_rhead]Попал четко под удар![BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit1_p2_hhead.webm]
+						[fight2_gop2_hits_rhead]Попал четко под удар![BGPICTURE bg_right.jpg][VIDEO fight2_gop2_hit1_p2_hhead.webm][SOUNDFX boom.mp3]
 							
 								[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
 		[mark_final1]Ты избавился от гопов с помощью пургеновой колбасы! Несколько дней они не слазили с горшка, а ты за это время сменил имидж и больше той дорогой не ходил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
@@ -950,10 +951,10 @@
 		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm]
+		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm][SOUNDFX boom.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final10]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm]
+		[mark_final10]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][SOUNDFX boom.mp3]
 			
 				[mark_m7bxmxpjp4690v66r1qe]...[IMAGE black.jpg][AUDIO silent_1]
 					

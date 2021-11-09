@@ -22,5 +22,7 @@ export default {
   ENABLE_SKIP_BUTTON: true,
   ENABLE_EPISODES_BUTTON: false,
   ENABLE_BACK_BUTTON: false,
-  ENABLE_DONATE_BUTTON: true
+  ENABLE_DONATE_BUTTON: true,
+
+  ENABLE_SPEECH: true
 }
