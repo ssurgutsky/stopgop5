@@ -213,13 +213,19 @@
 																																																																																																																																													
 																																																																																																																																														[mark_56db0310h14xn6z6ddv4]Чекрыж звонит, надо ответить. Жди здесь.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone]
 																																																																																																																																															>>>
-																																																																																																																																																[mark_ir5gnds60jk9a8jpv1yc][GOTO gop3_goes_out_with_your_mobile]
+																																																																																																																																																[mark_ir5gnds60jk9a8jpv1yc][gop3_goes_out_with_your_mobile]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
+																																																																																																																																																	
+																																																																																																																																																		[mark_tu4121j60z5sys9sng4l]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
+																																																																																																																																																			
+																																																																																																																																																				[mark_1via1v4ijpmr848665ur]Походу дела он тебя кинул.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																					>>>
+																																																																																																																																																						[mark_7u920yt6lbb3ta98bz8t][GOTO mark_final16]
 																																																																																																																																											Нет, сначала мобила
 																																																																																																																																												[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																													
 																																																																																																																																														[mark_7u0o1n6m7a92977d9oil]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
 																																																																																																																																															
-																																																																																																																																																[mark_5a9r0v13qcl3q69j5j68]Ну чо, сдулся твой защитничек? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																[mark_0fga0r46r6th228fb5n4]Ну чо, сдулся твой защитничек? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																																	Он вернется, я же ему заплатил
 																																																																																																																																																		[mark_5h555f9bcp4o9309985v]Чо??? Ты отдал бабло Червлею?![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																																			Так вы заодно с ним?
@@ -345,19 +351,19 @@
 																																																																																															Я не виноват! Другой квартирант, студент, все истратил
 																																																																																																[mark_0arav4pg6bji62in8q88]Моя какая проблема?! Я те отвечаю - ща в те дыра будет![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																	Достану пакет
-																																																																																																		[mark_824x92onje9wb1abvn85]Кирпич, зацени - у него пакет. Чо у тебя в пакете?[BGPICTURE bg.jpg][IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																		[mark_824x92onje9wb1abvn85]Кирпич, зацени - у него пакет. Чо в пакете?[BGPICTURE bg.jpg][IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																			Ребята, это не вам
 																																																																																																				[mark_6iyz6my23hvzz8w0sns1]Смори - колбаса и водка![BGPICTURE bg.jpg][IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																					Не трогайте хотя бы водку
 																																																																																																						[mark_zn5107hjieyk1u7yjj96]Тя спросить забыли! Выпьем![BGPICTURE bg.jpg][IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED gops_drink_vodka]
 																																																																																																							>>>
-																																																																																																								[gops_drink_vodka]Нормас пошла![BGPICTURE bg.jpg][VIDEO gops2_gops_drinking.webm]
+																																																																																																								[gops_drink_vodka]...[BGPICTURE bg.jpg][VIDEO gops2_gops_drinking.webm]
 																																																																																																									
-																																																																																																										[mark_74x8116z8lrf9r5ual5x]Теерь закусим![BGPICTURE bg.jpg][BGNDVIDEO gops2_gops_eating1.webm||gops2_gops_eating2.webm][ANSWERTIME 10][TIMEEXPIRED mark_final10]
+																																																																																																										[mark_74x8116z8lrf9r5ual5x]Нормас пошла, теерь закусим![BGPICTURE bg.jpg][BGNDVIDEO gops2_gops_eating1.webm||gops2_gops_eating2.webm][ANSWERTIME 10][TIMEEXPIRED mark_final10]
 																																																																																																											>>>
 																																																																																																												[mark_xe442uj7f8q38w90nzb9]Чот у мя живот забурлил...[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][BGNDAUDIO fart.mp3][ANSWERTIME 10][TIMEEXPIRED gops_fart]
 																																																																																																													Я же говорил вам - не надо!
-																																																																																																														[gops_fart]А-А-А!!! Колбаса со специей! Срочно разгружаться![BGPICTURE bg.jpg][VIDEO gops2_gops_feels_bad.webm][SOUNDFX fart.mp3]
+																																																																																																														[gops_fart]А-А-А!!! Колбаса с пургеном! Срочно разгружаться![BGPICTURE bg.jpg][VIDEO gops2_gops_feels_bad.webm][SOUNDFX fart.mp3]
 																																																																																																															
 																																																																																																																[mark_7y3w1jifrvcm082l395o][GOTO mark_final1]
 																																																																																																			[plz_eat_guys]Ребята, угощайтесь
@@ -367,13 +373,15 @@
 																																																																																																							Да без проблем
 																																																																																																								[mark_jtb344shhbmemc112h06]...[BGPICTURE bg.jpg][VIDEO gops2_hero_eats_sausage.webm][BGNDIMAGE black.jpg][ANSWERTIME 1][TIMEEXPIRED fart_prepare]
 																																																																																																									>>>
-																																																																																																										[fart_prepare]Здравие желаю, ребята, что здесь происходит?[BGPICTURE bg.jpg][VIDEO gop3_intro.webm][AUDIO silent_2][BGNDVIDEO gops3_gops_idle.webm][ANSWERTIME 5][TIMEEXPIRED hero_sausage_fart]
+																																																																																																										[fart_prepare]Здравие желаю, ребята, что здесь происходит?[BGPICTURE bg.jpg][VIDEO gop3_intro.webm][AUDIO silent_2][BGNDVIDEO gops3_gops_idle.webm][ANSWERTIME 20][TIMEEXPIRED hero_sausage_fart1]
 																																																																																																											>>>
-																																																																																																												[hero_sausage_fart](звук пердежа)[BGPICTURE bg.jpg][BGNDVIDEO gops3_gops_idle.webm][BGNDAUDIO fart.mp3][ANSWERTIME 5][TIMEEXPIRED fart_black]
+																																																																																																												[hero_sausage_fart1]Чо, не вишь - колбасу дегустируем.[BGPICTURE bg.jpg][VIDEO gops3_gop2_gop3_speaking.webm][AUDIO silent_2][BGNDVIDEO gops3_gops_idle.webm][ANSWERTIME 20][TIMEEXPIRED hero_sausage_fart2]
 																																																																																																													>>>
-																																																																																																														[fart_black]...[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm][SOUNDFX fart.mp3]
+																																																																																																														[hero_sausage_fart2]... после колбасы с пургеном у тебя резко заболел живот...[BGPICTURE bg.jpg][VIDEO gops3_gops_idle.webm][AUDIO silent_3][SOUNDFX fart.mp3]
 																																																																																																															
-																																																																																																																[mark_kk74320ov04endt58267][GOTO mark_final2]
+																																																																																																																[fart_black]...[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm][SOUNDFX fart.mp3]
+																																																																																																																	
+																																																																																																																		[mark_kk74320ov04endt58267][GOTO mark_final2]
 																																																																																																							Да нее, я не голоден
 																																																																																																								[mark_q0yqq9260025bpw7rig1]Точняк отравленная![BGPICTURE bg.jpg][IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																									>>>
@@ -407,27 +415,61 @@
 																																																																																							>>>
 																																																																																								[mark_8875911q58gq8g1ojp47][GOTO mark_final20]
 																																																																													[GOTO no_money_really]
-																																																																											Вот, держи, только говно с рукава вытри
-																																																																												[mark_z32iy83tfsz6fw69r036]Где говно? Хрящ, проверь! А то мне с телкой седня встречаться.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																											[gop2_clean_shit]Вот, держи, только говно с рукава вытри
+																																																																												[EPISODE14]Где говно? Хрящ, ну-ка глянь?[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																													>>>
-																																																																														[mark_0lrzn3s0k943my3ygt89]Да он гонит! Нет ничего.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																															Ребят, у меня только штука
-																																																																																[mark_d93415970y93518o89ai]Давай сюда![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																	Вот, держи
-																																																																																		[mark_y682154ci926k8t79695]...[BGPICTURE bg.jpg][VIDEO gops2_gop1_takes_1000.webm]
+																																																																														[mark_x0z91gpk90vi268jefvn]Да он гонит! Нет ничего.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																															>>>
+																																																																																[mark_ut85sh0r1qwz671230r5]Точно нет? А то мне с телкой седня встречаться.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking.webm][AUDIO silent_2][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																	Ребят, у меня только штука
+																																																																																		[mark_d93415970y93518o89ai]Давай сюда![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																			Вот, держи
+																																																																																				[mark_y682154ci926k8t79695]...[BGPICTURE bg.jpg][VIDEO gops2_gop1_takes_1000.webm]
+																																																																																					
+																																																																																						[mark_s4vu5pj66fzuxb6dkrmu]Найди се нормальную работу, чтоб в следующий раз тя реально протрясти можно было![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																							Постараюсь
+																																																																																								[mark_6auu4w21s729szjpn251][GOTO mark_final24]
+																																																																																	Которая Алёна, с района Стадиона?
+																																																																																		[mark_51l9897171l105lpqr0c]Точняк. А ты ее откель знаешь?[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																			Поварихой в столовой работает
+																																																																																				[girl_seems_another]Не, походу, это другая.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																					Хвасталась, что с криминальным бароном встречается
+																																																																																						[mark_mrhw9ym1p352595oc6z9]Кирпич, это ты штоль криминальный барон?[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																							>>>
+																																																																																								[mark_37n7kxw3h505y0g8f3ld]Лады, иди, куда шел, и молчи про это![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																									Молчать, что ты себя бароном называешь?
+																																																																																										[mark_p9cjw67csio1v70oci8w]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][SOUNDFX boom.mp3]
+																																																																																											
+																																																																																												[mark_i66l09yfe0x005sj07b1][GOTO mark_final22]
+																																																																																									Ладно, бывайте
+																																																																																										[mark_7r7mf4hpzhhb5sgae24r][GOTO mark_final14]
+																																																																																					Хвасталась, что с вами двумя сразу встречается
+																																																																																						[mark_08015r46j91262x63sq1]Хрящ, он щас сказал, что ты с моей телкой тоже мутишь, получается?[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																							>>>
+																																																																																								[mark_j7l8rn2pqv3kl4u5a216]Кирпич, стопэ! Она сама меня своей фирменной селедкой под шубой угощала![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																									>>>
+																																																																																										[mark_1bz94a0gdjf5thd0m48g]Убью гада!!![BGPICTURE bg.jpg][VIDEO gops2_gops_run_to_gop3.webm]
+																																																																																											
+																																																																																												[mark_hgjo11kc7rw7czj8j70u][GOTO mark_final15]
+																																																																																			Знакомая знакомой, на Рыбзаводе работает
+																																																																																				[mark_jh12vlk5r5701mx1xa6z][GOTO girl_seems_another]
+																																																																																	Телка Тычона, с этого района?
+																																																																																		[mark_99onc0xj81vk88ilcgb1]Сам ты тычона с района![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_soft.webm][AUDIO silent_1]
 																																																																																			
-																																																																																				[mark_s4vu5pj66fzuxb6dkrmu]Найди се нормальную работу, чтоб в следующий раз тя реально протрясти можно было![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																					Постараюсь
-																																																																																						[mark_6auu4w21s729szjpn251][GOTO mark_final24]
-																																																																															А твою телку не Алена зовут?
-																																																																																[mark_l2u7gz2i1p4k9jmma999]Тычена Ващена
+																																																																																				[mark_970b26c0rkrp2fkro100][GOTO mark_final10]
+																																																																																	Она, случаем, не Ващена, сестра Карэна?
+																																																																																		[mark_5r40q800777378qvg24c]Ващена - сестра Гургена.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1]
+																																																																																			
+																																																																																				[mark_32s94l1ozg13983rd7aa][GOTO mark_final10]
 																																																																									[GOTO lets_fight2]
 																																																																									[GOTO no_money_really]
 																																																											[GOTO ok_ok_will_give1000]
 																																																											[GOTO lets_fight2]
 																																																			[GOTO lets_fight2]
+																																																			[GOTO gop2_clean_shit]
 																																																	[GOTO ok_ok_will_give1000]
 																																																	[GOTO lets_fight2]
+																																																	[GOTO gop2_clean_shit]
 																																															[GOTO lets_fight2]
 																																															[GOTO ok_ok_will_give1000]
 																																													[GOTO ok_ok_will_give1000]
@@ -971,13 +1013,13 @@
 		[mark_final13]Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final14]<reserved>
+		[mark_final14]Ты сумел найти уязвимое место Кирпича. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final15]<reserved>
+		[mark_final15]Ты сумел поссорить гопов! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final16]<reserved>
+		[mark_final16]Ушла твоя недешевая мобила и деньги. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final17]...[IMAGE black.jpg][AUDIO silent_1]
@@ -999,13 +1041,13 @@
 		[mark_final21]<reserved>
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final22]Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final22]Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.[BGPICTURE hospital.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final23]Тебя отпустили, потому что ты оказался "мамсиком" (маменькиным сынком). Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final24]Тебя отпустили, потому что ты оказался нищебродом. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final24]Тебя отпустили, потому что ты оказался нищебродом. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final25]"Да пошел ты!", - гоп отвалил от тебя. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you]
