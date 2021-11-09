@@ -57,7 +57,9 @@ export default {
     playAudio (name, loop, text) {
       // console.log(name, text)
 
-      if (Settings.ENABLE_SPEECH && text && text !== '...') {
+      let hasRealAudio = name && !name.toUpperCase().includes('SILENT_')
+
+      if (Settings.ENABLE_SPEECH && text && text !== '...' && !hasRealAudio) {
         var voices = speechSynthesis.getVoices()
         // console.log('voices', voices)
         this.currentUtterance = new SpeechSynthesisUtterance(text)

@@ -5688,7 +5688,7 @@
             }
           ],
           "_mark": "START",
-          "_content": "[LABEL Симулятор гопника, часть 5. Подстава.\n(версия 1.{this.game_version})][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][BGNDIMAGE *][ANSWERSORDER ON]"
+          "_content": "[LABEL Симулятор гопника, часть 5. Подстава.\n(версия 1.{this.game_version})][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][AUDIO boom.mp3][BGNDIMAGE *][ANSWERSORDER ON]"
         }
       ]
     }
