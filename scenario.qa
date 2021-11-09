@@ -305,7 +305,7 @@
 																																																																																	Включу секретное приложение
 																																																																																		[mark_637v15m7syx54i3019dg]...[BGPICTURE bg.jpg][VIDEO gops3_far_hero_opens_app.webm]
 																																																																																			
-																																																																																				[mark_b8x0x81s825kx6c11w5v]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![BGPICTURE bg.jpg][VIDEO gops3_far_gops_speaking.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																				[mark_b8x0x81s825kx6c11w5v]ОРУЖИЕ НА ПОЛ! РУКИ ЗА ГОЛОВУ! ВСЕМ ЛЕЖАТЬ МОРДОЙ В ПОЛ![BGPICTURE bg.jpg][VIDEO gops3_far_gops_speaking.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10][SOUNDFX omon.mp3]
 																																																																																					
 																																																																																						[mark_4qt8g09sq164iv26780h][GOTO mark_final19]
 																																																																															Постою, подожду
@@ -384,7 +384,6 @@
 																																																																																															[GOTO plz_eat_guys]
 																																																																																									Выпью и закушу для храбрости
 																																																																																										[mark_8dcn5za8772mu2f0o6q8][GOTO mark_final5]
-																																																																																									[GOTO come_back_to_gops]
 																																																																																							Закроюсь и лягу спать
 																																																																																								[mark_06m6192i04k5ga55a156][GOTO mark_final5]
 																																																																																							Позвоню в полицию
@@ -586,7 +585,7 @@
 																																																					Нажму иконку "ТК"
 																																																						[mark_56o3268gjgc178m4no21]...[BGPICTURE bg.jpg][VIDEO gops1_hero_opens_app.webm]
 																																																							
-																																																								[mark_7hj8640ll1a242s3i28d]НИКОМУ НЕ ДВИГАТЬСЯ! РАБОТАЕТ ОМОН![BGPICTURE bg.jpg][VIDEO gops1_gop1_idle_hard.webm][AUDIO silent_3]
+																																																								[mark_7hj8640ll1a242s3i28d]ОРУЖИЕ НА ПОЛ! РУКИ ЗА ГОЛОВУ! ВСЕМ ЛЕЖАТЬ МОРДОЙ В ПОЛ![BGPICTURE bg.jpg][BGPICTURE bg.jpg][VIDEO gops1_gop1_idle_hard.webm][SOUNDFX omon.mp3]
 																																																									
 																																																										[mark_tnn68n559e179amn4072][GOTO mark_final8]
 																																																					Наберу 112
