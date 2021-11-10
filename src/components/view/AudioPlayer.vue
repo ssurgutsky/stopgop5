@@ -61,10 +61,10 @@ export default {
         var voices = speechSynthesis.getVoices()
         // console.log('voices', voices)
         this.currentUtterance = new SpeechSynthesisUtterance(text)
-        // console.log('utterance', utterance)
         this.currentUtterance.voice = voices[0]
         this.currentUtterance.rate = 2
         this.currentUtterance.onend = this.onAudioEnded
+        // console.log('utterance', this.currentUtterance)
         speechSynthesis.speak(this.currentUtterance)
         return
       }
@@ -114,7 +114,7 @@ export default {
     stopAudio () {
       this.audioPlayer.pause()
 
-      console.log('!!!!!!speechSynthesis', window.speechSynthesis, Settings.ENABLE_SPEECH)
+      // console.log('!!!!!!speechSynthesis', window.speechSynthesis, Settings.ENABLE_SPEECH)
 
       if (Settings.ENABLE_SPEECH) {
         speechSynthesis.cancel()
