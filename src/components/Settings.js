@@ -24,5 +24,5 @@ export default {
   ENABLE_BACK_BUTTON: false,
   ENABLE_DONATE_BUTTON: true,
 
-  ENABLE_SPEECH: true
+  ENABLE_SPEECH: window.speechSynthesis !== undefined
 }

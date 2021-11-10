@@ -114,6 +114,8 @@ export default {
     stopAudio () {
       this.audioPlayer.pause()
 
+      console.log('!!!!!!speechSynthesis', window.speechSynthesis, Settings.ENABLE_SPEECH)
+
       if (Settings.ENABLE_SPEECH) {
         speechSynthesis.cancel()
       }
