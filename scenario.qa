@@ -116,7 +116,7 @@
 																																																																																																																			Почему именно с моего?
 																																																																																																																				[mark_sbeaa3moqcy0id7q6r01]Чтобы с тобой связаться могли, как приедут, ты их соориентируешь, куда подойти. Потому что я сейчас уйду.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
 																																																																																																																					[ok_call_polkan]Ладно, я согласен, зови Чекрыжа
-																																																																																																																						[mark_ygu3750y467znbsx5s58]Только ему заплатить надо сразу, иначе он на тебя очень сильно обидится. У тебя есть деньги или карта?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
+																																																																																																																						[mark_ygu3750y467znbsx5s58]Только ему заплатить надо сразу. У тебя есть деньги или карта?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
 																																																																																																																							С собой нет, только дома
 																																																																																																																								[chervley_ok_go_home_take_money]Ладно, сбегай домой за деньгами, а я их разговором займу. Но в залог оставь мобилу.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
 																																																																																																																									Я не могу оставить мобилу
@@ -222,12 +222,15 @@
 																																																																																																																																											Нет, сначала мобила
 																																																																																																																																												[gop3_gone1]Разбирайся сам.[BGPICTURE bg.jpg][VIDEO gops3_gop3_hero_go_out.webm]
 																																																																																																																																													
-																																																																																																																																														[mark_7u0o1n6m7a92977d9oil]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
+																																																																																																																																														[mark_m07bt91i5b7u8sc38rbu]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																															
-																																																																																																																																																[mark_0fga0r46r6th228fb5n4]Ну чо, слился твой защитник? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																																	[GOTO lets_fight2]
-																																																																																																																																																	[GOTO i_dont_own_you]
-																																																																																																																																																	[GOTO gop2_clean_shit]
+																																																																																																																																																[mark_7u0o1n6m7a92977d9oil]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
+																																																																																																																																																	
+																																																																																																																																																		[mark_0fga0r46r6th228fb5n4]Ну чо, слился твой защитник? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																			[GOTO lets_fight2]
+																																																																																																																																																			[GOTO i_dont_own_you]
+																																																																																																																																																			[GOTO gop2_clean_shit]
+																																																																																																																																																			[GOTO gops2_i_have_1000_only]
 																																																																																																																																												[gop3_gone2]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																													
 																																																																																																																																														[mark_apmxg4b587n81n28o383]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
@@ -239,6 +242,7 @@
 																																																																																																																																																				[mark_55l7x48r5wmpe989lc1g][GOTO fight2]
 																																																																																																																																																	[GOTO lets_fight2]
 																																																																																																																																																	[GOTO gop2_clean_shit]
+																																																																																																																																																	[GOTO gops2_i_have_1000_only]
 																																																																																																																																												[gop3_gone3]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																													
 																																																																																																																																														[mark_81p01ew114a4pwp8ei4o]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
@@ -246,20 +250,25 @@
 																																																																																																																																																[mark_t03p6i98x7v1p3pwpm3a]Походу дела он тебя кинул.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																																	>>>
 																																																																																																																																																		[mark_g7d81330i60pnf0xbbu4][GOTO mark_final10]
-																																																																																																																																												[gop3_gone4]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
+																																																																																																																																												[gop3_gone4]Выкручивайся сам.[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																													
 																																																																																																																																														[mark_33w5xjx0386242277lvr]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
 																																																																																																																																															
 																																																																																																																																																[mark_71not4ea40x9rd80v73o]Ну чо, слился твой защитник? Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																																	Он вернется, я же ему заплатил
-																																																																																																																																																		[mark_y0r2n94d7h1y5441q58m]Чо??? Ты отдал бабло Червлею?![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																																			Так вы заодно с ним?
-																																																																																																																																																				[mark_f045k5468o3257x6g7lj]Хрящ, быстро за ним! Он нас кинул![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																		[mark_y0r2n94d7h1y5441q58m]Чот я не видел, чтоб ты отдавал ему бабло.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																			Отдал ему все, что было
+																																																																																																																																																				[mark_f045k5468o3257x6g7lj]Хрящ, быстро за ним![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gops2_gops_run_to_gop3]
 																																																																																																																																																					>>>
-																																																																																																																																																						[mark_91ze8839a9v07oe8r1u9]...[BGPICTURE bg.jpg][VIDEO gops2_gops_run_to_gop3.webm]
+																																																																																																																																																						[gops2_gops_run_to_gop3]...[BGPICTURE bg.jpg][VIDEO gops2_gops_run_to_gop3.webm]
 																																																																																																																																																							
 																																																																																																																																																								[mark_c29g4h071dl23127466x][GOTO mark_final7]
+																																																																																																																																																			Отдал ему предоплату 100
+																																																																																																																																																				[gop2_hero_gop3_dont_work_so]Ты гонишь! Червлей так не работает.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																					>>>
+																																																																																																																																																						[mark_25759rje6s32xpuxaux4][GOTO mark_final10]
 																																																																																																																																																	[GOTO i_dont_own_you]
+																																																																																																																																																	[GOTO gops2_i_have_1000_only]
 																																																																																																																																									[GOTO ok_here_is_money_for_gop3]
 																																																																																																																																							Да, принес
 																																																																																																																																								[mark_6g1n6w6c113wi132i842][GOTO gop3_give_money_get_mobile]
@@ -285,7 +294,10 @@
 																																																																																																																								[mark_o31a5s1oi4xh4z9trtps]Жди здесь, я отойду, позвоню, чтобы они не слышали.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
 																																																																																																																									>>>
 																																																																																																																										[mark_vf6151khi6s13llo54nw][GOTO gop3_gone3]
+																																																																																																																					[i_dont_give_gop3_mobile]Нет, не дам
+																																																																																																																						[mark_qy50t53qm678qq1kokzi][GOTO gop3_gone1]
 																																																																																																																			[GOTO take_mobile_for_help]
+																																																																																																																			[GOTO i_dont_give_gop3_mobile]
 																																																																																																																	[GOTO take_mobile_for_help]
 																																																																																																															[i_m_really_have_no_money]У меня, если честно, нет денег
 																																																																																																																[mark_ci17ko5ls6rv3a541ls4]Что, даже штуки нет?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
@@ -439,7 +451,7 @@
 																																																																														[mark_x0z91gpk90vi268jefvn]Да он гонит! Нет ничего.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																															>>>
 																																																																																[mark_ut85sh0r1qwz671230r5]Точно нет? А то мне с телкой седня встречаться.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking.webm][AUDIO silent_2][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																	Ребят, у меня только штука
+																																																																																	[gops2_i_have_1000_only]Ребят, у меня только штука
 																																																																																		[mark_d93415970y93518o89ai]Давай сюда![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_3][BGNDVIDEO gops2_gop2_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																			Вот, держи
 																																																																																				[mark_y682154ci926k8t79695]...[BGPICTURE bg.jpg][VIDEO gops2_gop1_takes_1000.webm]
