@@ -209,7 +209,7 @@
 																																																																																																																																				[chervley_takes_money_for_polkan]...[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_money_gop3.webm]
 																																																																																																																																					
 																																																																																																																																						[mark_56db0310h14xn6z6ddv4]Чекрыж звонит, надо ответить. Жди здесь.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
-																																																																																																																																							>>>
+																																																																																																																																							Хорошо
 																																																																																																																																								[mark_4qbggn31dyl82327040r][GOTO gop3_gone3]
 																																																																																																																																			Нет, сначала мобила
 																																																																																																																																				[mark_d344umn925x5zw1o2oa5][GOTO gop3_gone3]
@@ -1056,7 +1056,7 @@
 		[mark_final6]Тебя кинул твой "помощник". Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final7]Ты обманул гопов, соврав, что отдал деньги Червлею! Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final7]Ты обманул гопов, соврав, что отдал деньги другому! Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm]
