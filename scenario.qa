@@ -227,15 +227,17 @@
 																																																																																																																																														[mark_55l7x48r5wmpe989lc1g][GOTO fight2]
 																																																																																																																																											[GOTO gop2_clean_shit]
 																																																																																																																																											[GOTO gops2_i_have_1000_only]
-																																																																																																																																				[gop3_gone3]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
-																																																																																																																																					
-																																																																																																																																						[mark_81p01ew114a4pwp8ei4o]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
-																																																																																																																																							
-																																																																																																																																								[mark_t03p6i98x7v1p3pwpm3a]Походу дела, он тебя кинул и свалил.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																									>>>
-																																																																																																																																										[mark_c0wv6814ld3nj9n257qj]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][SOUNDFX boom.mp3]
-																																																																																																																																											
-																																																																																																																																												[mark_g7d81330i60pnf0xbbu4][GOTO mark_final16]
+																																																																																																																																				[gop3_gone3]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm][BGNDVIDEO gops3_gops2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																					Подожду
+																																																																																																																																						[mark_843j6yw5b1ciiim8155p]...[BGPICTURE bg.jpg][BGNDVIDEO gops3_gops2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																							Что-то долго...
+																																																																																																																																								[mark_81p01ew114a4pwp8ei4o]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
+																																																																																																																																									
+																																																																																																																																										[mark_t03p6i98x7v1p3pwpm3a]Походу дела, он тебя кинул и свалил.[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																											>>>
+																																																																																																																																												[mark_c0wv6814ld3nj9n257qj]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][SOUNDFX boom.mp3]
+																																																																																																																																													
+																																																																																																																																														[mark_g7d81330i60pnf0xbbu4][GOTO mark_final16]
 																																																																																																																																				[gop3_gone4]Выкручивайся сам.[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away_phone_talking.webm]
 																																																																																																																																					
 																																																																																																																																						[mark_33w5xjx0386242277lvr]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm]
@@ -286,9 +288,9 @@
 																																																																																																																						[mark_qf9v750jy10twz291174][GOTO gop3_phone_talk1,gop3_phone_talk2]
 																																																																																																																							
 																																																																																																																								[gop3_phone_talk1]Потому что я с твоей мобилы разговор начну и уйду, а ты продолжишь.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
-																																																																																																																									[can_send_msg]Можно сообщение скинуть, чтобы перезвонили
+																																																																																																																									[can_send_msg]Может, сообщение скинуть, чтоб мне перезвонили?
 																																																																																																																										[mark_qw4wh20091ht18w0f65g]У меня служебная трубка, только на звонки.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
-																																																																																																																											[can_tell_phone_num_by_voice]Могу свой номер сказать, чтобы перезвонили
+																																																																																																																											[can_tell_phone_num_by_voice]Могу свой номер продиктовать, чтоб мне перезвонили
 																																																																																																																												[gop3_no_one_save_num]Никто не горит желанием твой номер запоминать или записывать.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
 																																																																																																																													У меня простой номер
 																																																																																																																														[gop3_you_still_need_help]Тебе все еще нужна помощь?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
@@ -296,7 +298,7 @@
 																																																																																																																																[mark_8afa7z9ehtyf5u435v1c]...[BGPICTURE bg.jpg][VIDEO gops3_hero_gives_gop3_mobile.webm]
 																																																																																																																																	
 																																																																																																																																		[mark_o31a5s1oi4xh4z9trtps]Жди здесь, я отойду, позвоню, чтобы они не слышали.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
-																																																																																																																																			>>>
+																																																																																																																																			Хорошо
 																																																																																																																																				[mark_vf6151khi6s13llo54nw][GOTO gop3_gone3]
 																																																																																																																															[i_dont_give_gop3_mobile]Нет, не дам мобилу
 																																																																																																																																[mark_qy50t53qm678qq1kokzi][GOTO gop3_gone1]
@@ -320,8 +322,8 @@
 																																																																																																																					[GOTO take_mobile_for_help]
 																																																																																																																					[GOTO i_dont_give_gop3_mobile]
 																																																																																																																	[GOTO take_mobile_for_help]
-																																																																																																																[gop3_asks_mobile_to_help2]У тебя мобила с собой?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
-																																																																																																																	Для чего?
+																																																																																																																[gop3_asks_mobile_to_help2]Слушай, у тебя мобила с собой?[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
+																																																																																																																	А для чего?
 																																																																																																																		[mark_fha4g78ezj1g57z5q0v0][GOTO gop3_help_offer]
 																																																																																																																	[GOTO i_dont_give_gop3_mobile]
 																																																																																																													[i_m_really_have_no_money]У меня, если честно, нет денег
