@@ -102,8 +102,10 @@ export default {
 
     restartGame () {
       console.log('Restart')
-      this.mainView.clearTimer()
+      this.mainView.stopVideo()
+      this.mainView.stopAudio()
       this.gameModel.restartGame()
+      this.mainView.clearTimer()
       this.showCurrentQuestion()
     },
 

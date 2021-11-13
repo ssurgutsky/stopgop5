@@ -3318,7 +3318,7 @@
                                                                                                                                                                                                                                                                               "node": [
                                                                                                                                                                                                                                                                                 {
                                                                                                                                                                                                                                                                                   "_mark": "mark_0mutcki7py0194n7a7ov",
-                                                                                                                                                                                                                                                                                  "_content": "[LABEL ][GOTO mark_final9]"
+                                                                                                                                                                                                                                                                                  "_content": "[LABEL ][GOTO mark_final21]"
                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                                               "_mark": "fuck_you",
@@ -3563,40 +3563,12 @@
                                                                                                                                                                                                                             {
                                                                                                                                                                                                                               "node": [
                                                                                                                                                                                                                                 {
-                                                                                                                                                                                                                                  "node": [
-                                                                                                                                                                                                                                    {
-                                                                                                                                                                                                                                      "node": [
-                                                                                                                                                                                                                                        {
-                                                                                                                                                                                                                                          "_mark": "mark_nx48fiv60vph5vd326pv",
-                                                                                                                                                                                                                                          "_content": "[LABEL ][GOTO mark_final20]"
-                                                                                                                                                                                                                                        }
-                                                                                                                                                                                                                                      ],
-                                                                                                                                                                                                                                      "_mark": "",
-                                                                                                                                                                                                                                      "_content": "[LABEL ]"
-                                                                                                                                                                                                                                    }
-                                                                                                                                                                                                                                  ],
-                                                                                                                                                                                                                                  "_mark": "mark_bmn9j3o36m25min71t1z",
-                                                                                                                                                                                                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm]"
-                                                                                                                                                                                                                                }
-                                                                                                                                                                                                                              ],
-                                                                                                                                                                                                                              "_mark": "",
-                                                                                                                                                                                                                              "_content": "[LABEL Пойду]"
-                                                                                                                                                                                                                            }
-                                                                                                                                                                                                                          ],
-                                                                                                                                                                                                                          "_mark": "real_mobile",
-                                                                                                                                                                                                                          "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_mobile.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
-                                                                                                                                                                                                                        },
-                                                                                                                                                                                                                        {
-                                                                                                                                                                                                                          "node": [
-                                                                                                                                                                                                                            {
-                                                                                                                                                                                                                              "node": [
-                                                                                                                                                                                                                                {
                                                                                                                                                                                                                                   "_mark": "mark_u1790b94d15877de0281",
                                                                                                                                                                                                                                   "_content": "[LABEL ][GOTO mark_final3]"
                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                               "_mark": "",
-                                                                                                                                                                                                                              "_content": "[LABEL Уйду]"
+                                                                                                                                                                                                                              "_content": "[LABEL Уйду отсюда]"
                                                                                                                                                                                                                             }
                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                           "_mark": "fake_mobile",
@@ -4078,7 +4050,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "shisha2",
-                                                                                          "_content": "[LABEL Ты когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: \"Это был не я. Это пил мой брат-близнец\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: \"Это был не я. Это был мой брат-близнец\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         },
                                                                                         {
                                                                                           "node": [
@@ -4092,7 +4064,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "shisha3",
-                                                                                          "_content": "[LABEL Ты когда напился и официантку за булку схватил, так охранникам и сказал: \"Это был не я. Булка сама себя схватила моей рукой\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты когда напился и официантку за булку схватил, так охранникам и сказал: \"Это был не я. Её булка на меня первая напала\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         },
                                                                                         {
                                                                                           "node": [
@@ -4106,7 +4078,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "shisha4",
-                                                                                          "_content": "[LABEL Ты когда напился и толчок в сортире сломал, так охране сказал: \"Это был не я. На него соседний унитаз напал\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты когда напился и толчок в сортире сломал, так охране сказал: \"Это был не я. На него соседний писуар напал\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
@@ -5785,16 +5757,28 @@
                 {
                   "node": [
                     {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "_mark": "",
+                              "_content": "[LABEL ][GOTO donate]"
+                            },
+                            {
+                              "_mark": "",
+                              "_content": "[LABEL ][GOTO ddonate]"
+                            }
+                          ],
+                          "_mark": "mark_at5uuvh5r2wb2e059z1p",
+                          "_content": "[LABEL Ты отравился собственной пургеновой колбасой и три дня провел на белом друге в комнате для раздумий. Отрицательный финал.][BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]"
+                        }
+                      ],
                       "_mark": "",
-                      "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
+                      "_content": "[LABEL ]"
                     }
                   ],
                   "_mark": "mark_final2",
-                  "_content": "[LABEL Ты отравился собственной пургеновой колбасой и три дня провел на белом друге в комнате для раздумий. Отрицательный финал.][BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]"
+                  "_content": "[LABEL ...][IMAGE black.jpg][AUDIO silent_1]"
                 },
                 {
                   "node": [
@@ -5808,7 +5792,7 @@
                     }
                   ],
                   "_mark": "mark_final3",
-                  "_content": "[LABEL Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).][BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm][AUDIO silent_1.5]"
+                  "_content": "[LABEL Ты оставил гопу дешманский муляж мобилы и свалил. Положительный финал (но можно лучше).][BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm]"
                 },
                 {
                   "node": [
@@ -6111,30 +6095,136 @@
                 {
                   "node": [
                     {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "node": [
+                                    {
+                                      "node": [
+                                        {
+                                          "node": [
+                                            {
+                                              "node": [
+                                                {
+                                                  "node": [
+                                                    {
+                                                      "node": [
+                                                        {
+                                                          "_mark": "mark_770961v2u3ernyy438qd",
+                                                          "_content": "[LABEL ][GOTO mark_final10]"
+                                                        }
+                                                      ],
+                                                      "_mark": "",
+                                                      "_content": "[LABEL ]"
+                                                    }
+                                                  ],
+                                                  "_mark": "f21tof10",
+                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gop2_intro.webm]"
+                                                }
+                                              ],
+                                              "_mark": "",
+                                              "_content": "[LABEL ]"
+                                            }
+                                          ],
+                                          "_mark": "mark_k2n7536jfbwest32d52k",
+                                          "_content": "[LABEL ][GOTO mark_final25,f21tof10,mark_final9]"
+                                        }
+                                      ],
+                                      "_mark": "",
+                                      "_content": "[LABEL ]"
+                                    }
+                                  ],
+                                  "_mark": "bebra_bespredel",
+                                  "_content": "[LABEL Эээ! Чо за беспредел?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_s2818v2av827akb218a8",
+                          "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO fight1_gop1_hit1_p1_2.webm][SOUNDFX boom.mp3]"
+                        }
+                      ],
                       "_mark": "",
-                      "_content": "[LABEL ][GOTO donate]"
+                      "_content": "[LABEL Защита блоком]"
                     },
                     {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "_mark": "mark_rf9z13f0p1397b7264ra",
+                                  "_content": "[LABEL ][GOTO bebra_bespredel]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_ko33t580ktju7mc9s1yj",
+                          "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][SOUNDFX swoosh.mp3]"
+                        }
+                      ],
                       "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
+                      "_content": "[LABEL Удар правой]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "_mark": "mark_091sd30usik42ca4l4h2",
+                                  "_content": "[LABEL ][GOTO bebra_bespredel]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_xgiqjwi7t2563i3pwz62",
+                          "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge2.webm][SOUNDFX swoosh.mp3]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL Удар левой]"
                     }
                   ],
                   "_mark": "mark_final21",
-                  "_content": "[LABEL <reserved>]"
+                  "_content": "[LABEL ...][BGPICTURE bg.jpg][BGNDVIDEO fight1_gop1_hit1_p1.webm][TIMEEXPIRED mark_final9][ANSWERTIME 2]"
                 },
                 {
                   "node": [
                     {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "_mark": "",
+                              "_content": "[LABEL ][GOTO donate]"
+                            },
+                            {
+                              "_mark": "",
+                              "_content": "[LABEL ][GOTO ddonate]"
+                            }
+                          ],
+                          "_mark": "mark_sjc5793u676q64atp2ul",
+                          "_content": "[LABEL Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.][BGPICTURE hospital.jpg][VIDEO none][AUDIO silent_1]"
+                        }
+                      ],
                       "_mark": "",
-                      "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
+                      "_content": "[LABEL ]"
                     }
                   ],
                   "_mark": "mark_final22",
-                  "_content": "[LABEL Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.][BGPICTURE hospital.jpg][VIDEO none][AUDIO silent_1]"
+                  "_content": "[LABEL ...][IMAGE black.jpg][AUDIO silent_1]"
                 },
                 {
                   "node": [

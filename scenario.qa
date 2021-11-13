@@ -283,7 +283,7 @@
 																																																																																																																	[mobile_for_what]Зачем?
 																																																																																																																		[gop3_help_offer][GOTO gop3_help_offer1,gop3_help_offer2]
 																																																																																																																			
-																																																																																																																				[gop3_help_offer1]Подмогу тебе вызову.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
+																																																																																																																				[gop3_help_offer1]Не догадываешься? Подмогу тебе вызвать.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
 																																																																																																																					[why_not_your_mobile_gop3]А со своей почему не можешь?
 																																																																																																																						[mark_qf9v750jy10twz291174][GOTO gop3_phone_talk1,gop3_phone_talk2]
 																																																																																																																							
@@ -317,7 +317,7 @@
 																																																																																																																									[GOTO i_dont_give_gop3_mobile]
 																																																																																																																					[GOTO take_mobile_for_help]
 																																																																																																																					[GOTO i_dont_give_gop3_mobile]
-																																																																																																																				[gop3_help_offer2]Хочу помощь тебе вызвать.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
+																																																																																																																				[gop3_help_offer2]Чтобы помощь тебе вызвать.[BGPICTURE bg.jpg][VIDEO gops3_gop3_speaking.webm][AUDIO silent_1][BGNDVIDEO gops3_gop3_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
 																																																																																																																					[GOTO why_not_your_mobile_gop3]
 																																																																																																																					[GOTO take_mobile_for_help]
 																																																																																																																					[GOTO i_dont_give_gop3_mobile]
@@ -633,7 +633,7 @@
 																																																																								[mark_96g8wrup34w50uv90387][GOTO fight1_gop1_say1]
 																																																																					[GOTO fight1_hero_blocks_gop1]
 																																																																	[fuck_you]Нюхай бебру
-																																																																		[mark_0mutcki7py0194n7a7ov][GOTO mark_final9]
+																																																																		[mark_0mutcki7py0194n7a7ov][GOTO mark_final21]
 																																																															[GOTO fuck_you]
 																																																															[GOTO fight1]
 																																																													[ok_take_200]Ладно, вот держи
@@ -669,13 +669,8 @@
 																																																	Ладно, держи
 																																																		[mark_96c9h4x1437p8ben8zzj][GOTO real_mobile,fake_mobile]
 																																																			
-																																																				[real_mobile]...[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_mobile.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																					Пойду
-																																																						[mark_bmn9j3o36m25min71t1z]...[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm]
-																																																							
-																																																								[mark_nx48fiv60vph5vd326pv][GOTO mark_final20]
 																																																				[fake_mobile]...[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_mobile.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-																																																					Уйду
+																																																					Уйду отсюда
 																																																						[mark_u1790b94d15877de0281][GOTO mark_final3]
 																																																	Да тебе такая не нужна
 																																																		[mark_0057t87j888zd492g3au]Ну-ка, покеж, чо за мобила?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
@@ -743,13 +738,13 @@
 																								[mark_ln220q8bfh3wvk3yo075]Братиш, то есть ты признаешь, что там был, просто не помнишь?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																									[GOTO who_is_kirpich]
 																									[GOTO i_have_to_go]
-																				[shisha2]Ты когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: "Это был не я. Это пил мой брат-близнец".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																				[shisha2]Ты когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: "Это был не я. Это был мой брат-близнец".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					[GOTO shisha_cant_be_so]
 																					[GOTO shisha_i_dont_smoke]
-																				[shisha3]Ты когда напился и официантку за булку схватил, так охранникам и сказал: "Это был не я. Булка сама себя схватила моей рукой".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																				[shisha3]Ты когда напился и официантку за булку схватил, так охранникам и сказал: "Это был не я. Её булка на меня первая напала".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					[GOTO shisha_cant_be_so]
 																					[GOTO shisha_i_dont_smoke]
-																				[shisha4]Ты когда напился и толчок в сортире сломал, так охране сказал: "Это был не я. На него соседний унитаз напал".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																				[shisha4]Ты когда напился и толчок в сортире сломал, так охране сказал: "Это был не я. На него соседний писуар напал".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					[GOTO shisha_cant_be_so]
 																					[GOTO shisha_i_dont_smoke]
 															[GOTO that_wasnt_me]
@@ -1039,10 +1034,12 @@
 		[mark_final1]Ты избавился от гопов с помощью пургеновой колбасы! Несколько дней они не слазили с горшка, а ты за это время сменил имидж и больше той дорогой не ходил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final2]Ты отравился собственной пургеновой колбасой и три дня провел на белом друге в комнате для раздумий. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
-			[GOTO donate]
-			[GOTO ddonate]
-		[mark_final3]Тебе повезло, что ты носил с собой дешманский муляж мобилы. Его ты и оставил, а сам свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm][AUDIO silent_1.5]
+		[mark_final2]...[IMAGE black.jpg][AUDIO silent_1]
+			
+				[mark_at5uuvh5r2wb2e059z1p]Ты отравился собственной пургеновой колбасой и три дня провел на белом друге в комнате для раздумий. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
+					[GOTO donate]
+					[GOTO ddonate]
+		[mark_final3]Ты оставил гопу дешманский муляж мобилы и свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final4]Тебя раскрутили по полной. Отрицательный финал (наихудший).[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
@@ -1106,12 +1103,30 @@
 				[mark_52pa6q8rn23150m6mqmk]Ты утратил свою не дешевую мобилу, взятую в кредит, потому что, когда вернулся, никого уже не было. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final21]<reserved>
-			[GOTO donate]
-			[GOTO ddonate]
-		[mark_final22]Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.[BGPICTURE hospital.jpg][VIDEO none][AUDIO silent_1]
-			[GOTO donate]
-			[GOTO ddonate]
+		[mark_final21]...[BGPICTURE bg.jpg][BGNDVIDEO fight1_gop1_hit1_p1.webm][ANSWERTIME 2][TIMEEXPIRED mark_final9]
+			Защита блоком
+				[mark_s2818v2av827akb218a8]...[BGPICTURE bg.jpg][VIDEO fight1_gop1_hit1_p1_2.webm][SOUNDFX boom.mp3]
+					
+						[bebra_bespredel]Эээ! Чо за беспредел?![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1]
+							
+								[mark_k2n7536jfbwest32d52k][GOTO mark_final25,f21tof10,mark_final9]
+									
+										[f21tof10]...[BGPICTURE bg.jpg][VIDEO gop2_intro.webm]
+											
+												[mark_770961v2u3ernyy438qd][GOTO mark_final10]
+			Удар правой
+				[mark_ko33t580ktju7mc9s1yj]...[BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][SOUNDFX swoosh.mp3]
+					
+						[mark_rf9z13f0p1397b7264ra][GOTO bebra_bespredel]
+			Удар левой
+				[mark_xgiqjwi7t2563i3pwz62]...[BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge2.webm][SOUNDFX swoosh.mp3]
+					
+						[mark_091sd30usik42ca4l4h2][GOTO bebra_bespredel]
+		[mark_final22]...[IMAGE black.jpg][AUDIO silent_1]
+			
+				[mark_sjc5793u676q64atp2ul]Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.[BGPICTURE hospital.jpg][VIDEO none][AUDIO silent_1]
+					[GOTO donate]
+					[GOTO ddonate]
 		[mark_final23]Тебя отпустили, потому что ты оказался "мамсиком" (маменькиным сынком). Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]
 			[GOTO donate]
 			[GOTO ddonate]
