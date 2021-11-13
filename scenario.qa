@@ -673,13 +673,13 @@
 																																																					Уйду отсюда
 																																																						[mark_u1790b94d15877de0281][GOTO mark_final3]
 																																																	Да тебе такая не нужна
-																																																		[mark_0057t87j888zd492g3au]Ну-ка, покеж, чо за мобила?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																																																		[gop1_asks_old_mobile]Ну-ка, покеж, чо за мобила?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																			Вот, смотри
-																																																				[mark_3v1vb7f40e695t35k5m4]Древний кнопочный телефон[BGPICTURE bg.jpg][VIDEO gops1_hero_gives_gop1_old_mobile.webm][AUDIO silent_4]
-																																																					
-																																																						[mark_c5hx767k8d39ko8dl3yu]Братан, у тебя по реалу все так плохо? Держи штукарь, купи себе нормальную, епта.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_3]
+																																																				[mark_3v1vb7f40e695t35k5m4]Древний дисковый телефон[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_idle_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop1_gives_1000]
+																																																					>>>
+																																																						[gop1_gives_1000]Братан, у тебя по реалу все так плохо? Держи штукарь, купи себе нормальную, епта.[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_speaking.webm][AUDIO silent_3]
 																																																							
-																																																								[mark_m0e0pb97o5ra6yp7szr2]+1000[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final13]
+																																																								[mark_m0e0pb97o5ra6yp7szr2]+1000[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final13]
 																																																									Спасибо, братан!
 																																																										[mark_i0cvjx052393jj5270p0][GOTO mark_final13]
 																																																	[open_mobile]Достану мобилу
@@ -701,7 +701,10 @@
 																																																									
 																																																										[mark_fa32aw164p46cn2n7209][GOTO mark_final23]
 																																															[GOTO open_mobile]
+																																															[bet1000_old_mobile]Спорим на 1000, что не сможешь
+																																																[mark_8ev69092v0w52g04uikl][GOTO gop1_asks_old_mobile]
 																																													[GOTO open_mobile]
+																																													[GOTO bet1000_old_mobile]
 																																											[GOTO open_mobile]
 																																									[im_out_of_time]Мне некогда
 																																										[mark_ogoei609eg6a67mak514][GOTO gop1_we_didnt_finish_talking]
