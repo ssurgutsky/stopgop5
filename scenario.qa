@@ -1,6 +1,6 @@
-[START]...[ANSWERSORDER ON][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][BGNDIMAGE *][AUDIO silent_1]
+[mark_g10n48y0vk811iw36p58]...[ANSWERSORDER ON][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][BGNDIMAGE *][AUDIO silent_1]
 	[mark_jq3z9230b0d555d900as]НАЧАТЬ ИГРУ
-		[mark_3p1y24kv4ty0htqca6ri]Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})[ANSWERSORDER ON][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][BGNDIMAGE *]
+		[START]Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})[ANSWERSORDER ON][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][BGNDIMAGE *]
 			ПОГНАЛИ!
 				[mark_78xmw99h8zd7cvh723d2]...[BGPICTURE bg.jpg][VIDEO gop1_intro.webm][AMBIENT ambient]
 					
@@ -701,7 +701,7 @@
 																																																									
 																																																										[mark_fa32aw164p46cn2n7209][GOTO mark_final23]
 																																															[GOTO open_mobile]
-																																															[bet1000_old_mobile]Спорим на 1000, что не сможешь
+																																															[bet1000_old_mobile]Не получится, спорю на 1000
 																																																[mark_8ev69092v0w52g04uikl][GOTO gop1_asks_old_mobile]
 																																													[GOTO open_mobile]
 																																													[GOTO bet1000_old_mobile]
@@ -1157,3 +1157,7 @@
 		[mark_t319971dwu2865mjn7qo][NAVIGATEURL https://qiwi.com/n/SERJIOS]
 			
 				[mark_8r456ve83222mbv60b0m][GOTO START]
+	Вступить в группу VK
+		[mark_ovd2l48g9d8gp2s5gj0l][NAVIGATEURL https://vk.com/club23748098]
+			
+				[mark_66dq4301190pj3xd8fj6][GOTO START]

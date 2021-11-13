@@ -3766,7 +3766,7 @@
                                                                                                                                                                                                         }
                                                                                                                                                                                                       ],
                                                                                                                                                                                                       "_mark": "bet1000_old_mobile",
-                                                                                                                                                                                                      "_content": "[LABEL Спорим на 1000, что не сможешь]"
+                                                                                                                                                                                                      "_content": "[LABEL Не получится, спорю на 1000]"
                                                                                                                                                                                                     }
                                                                                                                                                                                                   ],
                                                                                                                                                                                                   "_mark": "mark_mptq2k084l1fd65lz41u",
@@ -4349,7 +4349,7 @@
                       "_content": "[LABEL ПОГНАЛИ!]"
                     }
                   ],
-                  "_mark": "mark_3p1y24kv4ty0htqca6ri",
+                  "_mark": "START",
                   "_content": "[LABEL Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][BGNDIMAGE *][ANSWERSORDER ON]"
                 },
                 {
@@ -6381,9 +6381,31 @@
               ],
               "_mark": "ddonate",
               "_content": "[LABEL Закивасить Сержиосу.]"
+            },
+            {
+              "node": [
+                {
+                  "node": [
+                    {
+                      "node": [
+                        {
+                          "_mark": "mark_66dq4301190pj3xd8fj6",
+                          "_content": "[LABEL ][GOTO START]"
+                        }
+                      ],
+                      "_mark": "",
+                      "_content": "[LABEL ]"
+                    }
+                  ],
+                  "_mark": "mark_ovd2l48g9d8gp2s5gj0l",
+                  "_content": "[LABEL ][NAVIGATEURL https://vk.com/club23748098]"
+                }
+              ],
+              "_mark": "",
+              "_content": "[LABEL Вступить в группу VK]"
             }
           ],
-          "_mark": "START",
+          "_mark": "mark_g10n48y0vk811iw36p58",
           "_content": "[LABEL ...][BGPICTURE bg.jpg][IMAGE Intro.jpg&poster.png][AUDIO silent_1][BGNDIMAGE *][ANSWERSORDER ON]"
         }
       ]
