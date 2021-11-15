@@ -6,7 +6,7 @@
 					
 						[GAME_SAVEPOINT]Здарова, братан! Не узнал что ли?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 							Здарова
-								[mark_8ra12i504lwq2t5xv6pf]Помнишь, меня?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+								[gop1_remember_me]Помнишь, меня?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 									Нет, не помню
 										[we_clubbed_together]Да ты чо, внатуре, мы с тобой недавно в клубешнике бухали![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											[hero_you_wrong_i_dont_drink]Ты ошибаешься, я не пью
@@ -774,25 +774,34 @@
 										[mark_773c02iq32gmoe1n64s3]Нее, Червлей чуток позже подтянется.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 											[GOTO gop1_name_hryash]
 											[GOTO gop1_name_vasyan]
-									[gop1_name_vasyan]Васян?
-										[mark_r2o8845h92371j97wafq]Сам ты Васян![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
+									[gop1_name_vasyan]Митяй?
+										[mark_r2o8845h92371j97wafq]Сам ты Митяй![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
 											
 												[mark_sv54ce7is24h03h0fg7c][GOTO mark_final9]
-							Нет. А ты кто?
+							Здарова, нет не узнал
 								[mark_00lf7hrf944jl3ndd9ny]Не узнал? - Богатым седня буду! Примета такая есть, реально, отвечаю.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 									Все равно, не узнаю
 										[mark_5ezv3r4f8669lm442122][GOTO we_clubbed_together]
-									Ты из доставки пиццы?
-										[mark_0k96cn48a2db58uu3a0o]Сам ты из доставки пицьки![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
+									Ты из доставки еды?
+										[mark_0k96cn48a2db58uu3a0o]Сам ты из доставки елды![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]
 											
 												[mark_p2791ewxz33ktim5wf7s][GOTO mark_final9]
-							Здарова, нет не узнал
-								[mark_w9tu18dxm8d74cl0g531]Если не узнал, значит я седня богатым буду! Примета такая есть, отвечаю.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
-									А ты кто?
-										[mark_dbx5i442zai4wn8u65xx][GOTO we_clubbed_together]
-									[GOTO gop1_name_hryash]
-									[GOTO gop1_name_vasyan]
-									[GOTO gop1_name_chervley]
+							Нет, не узнал
+								[mark_w9tu18dxm8d74cl0g531]А тя чо, здороваться не учили?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+									А ты кто такой?
+										[mark_fm48s46c9ymm5j9wr31n]Слух, ты мне дерзишь чтоли?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+											[GOTO fuck_you]
+											[GOTO fight1]
+											А если так, то что?
+												[mark_i700jr06jayvd70e8pzl][GOTO gop1_go_out_from_here]
+									Ну, здарова
+										[mark_9e7y7j9xwhw64z9x4829][GOTO gop1_remember_me]
+									Давай, до свидания
+										[gop1_go_out_from_here]А ну свалил отсюда живо![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 5][TIMEEXPIRED mark_final9]
+											Дай дорогу
+												[mark_1g8h7cyxnk991na6j0wj][GOTO gop1_we_didnt_finish_talking]
+											Сам вали отсюда
+												[mark_0l2nwi1p6xm083f5rojc][GOTO mark_final25]
 		[fight2]Хрящ, отчапай в сторонку.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 			>>>
 				[fight2_s1]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
