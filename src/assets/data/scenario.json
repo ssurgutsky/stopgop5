@@ -3056,7 +3056,7 @@
                                                                                                                                                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                                                                                                                                                                   "_mark": "mark_sj2q0r90wh632b5bark7",
-                                                                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Кирпич, помоги!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1]"
+                                                                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Кирпич, помоги!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_brick_help.mp3]"
                                                                                                                                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                                                                                                                                                               "_mark": "",
@@ -3116,7 +3116,7 @@
                                                                                                                                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                                                                                                                                                   "_mark": "fight1_gop1_say3",
-                                                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Слышь, харэ сказал!!!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
+                                                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Слышь, харэ сказал!!!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_thats_enough.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
                                                                                                                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                                                                                                                                               "_mark": "",
@@ -3154,7 +3154,7 @@
                                                                                                                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                                                                                                                                   "_mark": "mark_i06hpdw5u68754gl7f9b",
-                                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Ну, все, отвянь!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
+                                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Ну, все, отвянь!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_go_away2.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
                                                                                                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                                                                                                                               "_mark": "",
@@ -3184,7 +3184,7 @@
                                                                                                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                                                                                                                   "_mark": "fight1_gop1_say2",
-                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Вали отсюда!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
+                                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Вали отсюда!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_go_away.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
                                                                                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                                                                                                               "_mark": "",
@@ -3226,7 +3226,7 @@
                                                                                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                                                                                                   "_mark": "mark_t732dlc1075msv84xxkb",
-                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Эээ! Чо за беспредел?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
+                                                                                                                                                                                                                                                                                                                                  "_content": "[LABEL Эээ! Чо за беспредел?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_what_chaos.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
                                                                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                                                                                               "_mark": "",
@@ -3294,7 +3294,7 @@
                                                                                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                                                                                                           "_mark": "fight1_gop1_say1",
-                                                                                                                                                                                                                                                                                                          "_content": "[LABEL Ну все, тебе кранты!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1]"
+                                                                                                                                                                                                                                                                                                          "_content": "[LABEL Ну все, тебе кранты!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_you_die.mp3]"
                                                                                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                                                                                                       "_mark": "",
@@ -3336,7 +3336,7 @@
                                                                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                                                                                           "_mark": "mark_s1mw1txf575x193xd335",
-                                                                                                                                                                                                                                                                                          "_content": "[LABEL Эээ! Ты чо творишь?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
+                                                                                                                                                                                                                                                                                          "_content": "[LABEL Эээ! Ты чо творишь?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_what_you_doing.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
                                                                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                                                                                       "_mark": "",
@@ -3362,7 +3362,7 @@
                                                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                                                                           "_mark": "mark_08az805u78r80agt7b58",
-                                                                                                                                                                                                                                                                          "_content": "[LABEL Стой тут, я сказал!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                                                                          "_content": "[LABEL Стой тут, я сказал!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_stay_here2.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                                                                       "_mark": "",
@@ -3378,7 +3378,7 @@
                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                                   "_mark": "EPISODE5,gop1_we_didnt_finish_talking",
-                                                                                                                                                                                                                                                                  "_content": "[LABEL Эээ! Стой тут! Мы еще не добазарили!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                                                                  "_content": "[LABEL Эээ! Стой тут! Мы еще не добазарили!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_stay_here.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                               "_mark": "i_have_to_go",
@@ -3412,7 +3412,7 @@
                                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                                                           "_mark": "mark_wiil3ba9l94b2b428557",
-                                                                                                                                                                                                                                                          "_content": "[LABEL Ты чо, мне не веришь? Хочешь сказать я звездобол?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                                                          "_content": "[LABEL Ты чо, мне не веришь? Хочешь сказать я звездобол?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_am_i_lier.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                                                       "_mark": "stop_lying",
@@ -3424,7 +3424,7 @@
                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                   "_mark": "mark_156d96me7l349g4278qz",
-                                                                                                                                                                                                                                                  "_content": "[LABEL Так ты нам блатные сиги купил - с кнопкой. Ваще ты нам вейп за штукарь хотел купить, но мы тебя отговорили.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                                                  "_content": "[LABEL Так ты нам блатные сиги купил - с кнопкой. Ваще ты нам вейп за штукарь хотел купить, но мы тебя отговорили.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_vape.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                               "_mark": "",
@@ -3436,7 +3436,7 @@
                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                                           "_mark": "mark_n82l43lt8z01620n83b6",
-                                                                                                                                                                                                                                          "_content": "[LABEL Так ты нам с Кирпичом их подарил. Мы отказывались, а ты сказал: \"Берите, пацаны, запишите на мой счет!\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20]"
+                                                                                                                                                                                                                                          "_content": "[LABEL Так ты нам с Кирпичом их подарил. Мы отказывались, а ты сказал: \"Берите, пацаны, запишите на мой счет!\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_you_own_cigi.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20]"
                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                                       "_mark": "",
@@ -3452,7 +3452,7 @@
                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                   "_mark": "mark_esoqm6nsauu7slcae50y",
-                                                                                                                                                                                                                                  "_content": "[LABEL Погодь! Еще вспомнил - ты по пути занял двухсотку на сиги.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                                  "_content": "[LABEL Погодь! Еще вспомнил - ты по пути занял двухсотку на сиги.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_you_own_200.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                               "_mark": "",
@@ -3472,7 +3472,7 @@
                                                                                                                                                                                                                     }
                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                   "_mark": "mark_68915docu9n0co4mzo9o",
-                                                                                                                                                                                                                  "_content": "[LABEL Да, вроде, нет.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                  "_content": "[LABEL Да, вроде, нет.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_nope.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                 }
                                                                                                                                                                                                               ],
                                                                                                                                                                                                               "_mark": "do_i_own_you_else",
@@ -3484,7 +3484,7 @@
                                                                                                                                                                                                             }
                                                                                                                                                                                                           ],
                                                                                                                                                                                                           "_mark": "mark_47199268xi568wy4phk6",
-                                                                                                                                                                                                          "_content": "[LABEL Конеш не помнишь! Братиш, ты ж в отключке был. А мог бы и спасибо сказать.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                          "_content": "[LABEL Конеш не помнишь! Братиш, ты ж в отключке был.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_you_own_me_taxi3.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                         }
                                                                                                                                                                                                       ],
                                                                                                                                                                                                       "_mark": "",
@@ -3500,7 +3500,7 @@
                                                                                                                                                                                                     }
                                                                                                                                                                                                   ],
                                                                                                                                                                                                   "_mark": "mark_4ss1e0t6e6k8785q10l2",
-                                                                                                                                                                                                  "_content": "[LABEL Мы тебя после клубешника на таксишке до дома довезли. С тебя сотка.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                  "_content": "[LABEL Мы тя после клубешника на таксишке до дома довезли. С тебя сотка.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_you_own_me_taxi2.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                 }
                                                                                                                                                                                               ],
                                                                                                                                                                                               "_mark": "",
@@ -3512,7 +3512,7 @@
                                                                                                                                                                                             }
                                                                                                                                                                                           ],
                                                                                                                                                                                           "_mark": "mark_bwf1i0d5n8284il51dw0",
-                                                                                                                                                                                          "_content": "[LABEL Слух, ты мне еще за тачку должен.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                          "_content": "[LABEL Слух, ты мне еще за тачку должен.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_you_own_me_taxi.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                         }
                                                                                                                                                                                       ],
                                                                                                                                                                                       "_mark": "",
@@ -3566,7 +3566,7 @@
                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                   "_mark": "mark_gk441eebpwfvd66o5jp3",
-                                                                                                                                                                                                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]"
+                                                                                                                                                                                                                                  "_content": "[LABEL Эээ... лады, держи, я погнал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_ok_i_go.mp3]"
                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                               "_mark": "",
@@ -3574,7 +3574,7 @@
                                                                                                                                                                                                                             }
                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                           "_mark": "mark_s2ee18mf1061136wk511",
-                                                                                                                                                                                                                          "_content": "[LABEL Эээ... лады, держи, я погнал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_mobile.webm][AUDIO silent_2]"
+                                                                                                                                                                                                                          "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_mobile.webm]"
                                                                                                                                                                                                                         }
                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                       "_mark": "",
@@ -3582,7 +3582,7 @@
                                                                                                                                                                                                                     }
                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                   "_mark": "mark_6l4879o950bjjz2ij1i9",
-                                                                                                                                                                                                                  "_content": "[LABEL Как по-другому?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                  "_content": "[LABEL Как по-другому?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_how_another.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                 }
                                                                                                                                                                                                               ],
                                                                                                                                                                                                               "_mark": "",
@@ -3658,7 +3658,7 @@
                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                   "_mark": "gop1_gives_1000",
-                                                                                                                                                                                                                                  "_content": "[LABEL Братан, у тебя по реалу все так плохо? Держи штукарь, купи себе нормальную, епта.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][IMAGE phone_old.png|200;340][AUDIO silent_3][BGNDIMAGE *]"
+                                                                                                                                                                                                                                  "_content": "[LABEL Братан, у тебя по реалу все так плохо? Держи штукарь, купи себе нормальную, епта.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][IMAGE phone_old.png|200;340][AUDIO gop1_buy_good_mobile.mp3][BGNDIMAGE *]"
                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                               "_mark": "",
@@ -3674,7 +3674,7 @@
                                                                                                                                                                                                                     }
                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                   "_mark": "gop1_asks_old_mobile",
-                                                                                                                                                                                                                  "_content": "[LABEL Ну-ка, покеж, чо за мобила?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                                  "_content": "[LABEL Ну-ка, покеж, чо за мобила?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_show_old_mobile.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                                 }
                                                                                                                                                                                                               ],
                                                                                                                                                                                                               "_mark": "",
@@ -3752,7 +3752,7 @@
                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                                           "_mark": "mark_xozoc3696383uci133bj",
-                                                                                                                                                                                                                                          "_content": "[LABEL Фу ты, мамсик попался...][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_2]"
+                                                                                                                                                                                                                                          "_content": "[LABEL Фу ты, мамсик попался...][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_mamsik.mp3]"
                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                                       "_mark": "",
@@ -3784,7 +3784,7 @@
                                                                                                                                                                                                             }
                                                                                                                                                                                                           ],
                                                                                                                                                                                                           "_mark": "mark_krayolv9f9t0sj93tc2r",
-                                                                                                                                                                                                          "_content": "[LABEL Лады, сходи, тока мобилу в залог оставь.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                          "_content": "[LABEL Лады, сходи, тока мобилу в залог оставь.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_go_leave_mobile.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                         }
                                                                                                                                                                                                       ],
                                                                                                                                                                                                       "_mark": "",
@@ -3806,7 +3806,7 @@
                                                                                                                                                                                                     }
                                                                                                                                                                                                   ],
                                                                                                                                                                                                   "_mark": "mark_mptq2k084l1fd65lz41u",
-                                                                                                                                                                                                  "_content": "[LABEL Я тебе со своей мобилы инет раздам.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                                  "_content": "[LABEL Я те со своей мобилы инет раздам.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_share_inet.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                                 }
                                                                                                                                                                                               ],
                                                                                                                                                                                               "_mark": "",
@@ -3822,7 +3822,7 @@
                                                                                                                                                                                             }
                                                                                                                                                                                           ],
                                                                                                                                                                                           "_mark": "mark_4uymxj79h9g7572l6d28",
-                                                                                                                                                                                          "_content": "[LABEL И чо? Давай сюда мобилу, я привяжу.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                          "_content": "[LABEL И чо? Давай сюда мобилу, я привяжу.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_give_mobile_i_do.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                         }
                                                                                                                                                                                       ],
                                                                                                                                                                                       "_mark": "",
@@ -3834,7 +3834,7 @@
                                                                                                                                                                                     }
                                                                                                                                                                                   ],
                                                                                                                                                                                   "_mark": "EPISODE3",
-                                                                                                                                                                                  "_content": "[LABEL Так переведи на мою карту по номеру мобилы.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                                  "_content": "[LABEL Так переведи на мою карту по номеру мобилы.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_transfer_to_me.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                                 }
                                                                                                                                                                               ],
                                                                                                                                                                               "_mark": "ok_take_1000_from_card",
@@ -3852,7 +3852,7 @@
                                                                                                                                                                             }
                                                                                                                                                                           ],
                                                                                                                                                                           "_mark": "mark_562tsqg8s95n4v112d90",
-                                                                                                                                                                          "_content": "[LABEL Куда ты почапал? Стой тут, жди Кирпича!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                          "_content": "[LABEL Куда ты почапал? Стой тут, жди Кирпича!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_wait_brick2.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                         }
                                                                                                                                                                       ],
                                                                                                                                                                       "_mark": "",
@@ -3868,7 +3868,7 @@
                                                                                                                                                                     }
                                                                                                                                                                   ],
                                                                                                                                                                   "_mark": "mark_192bbc64p6dpbz6wvh7y",
-                                                                                                                                                                  "_content": "[LABEL Все, стой, бойся, щас Кирпич нагрянет.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                                                  "_content": "[LABEL Все, стой, бойся, щас Кирпич нагрянет.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_wait_brick.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                                                 }
                                                                                                                                                               ],
                                                                                                                                                               "_mark": "",
@@ -3884,7 +3884,7 @@
                                                                                                                                                     }
                                                                                                                                                   ],
                                                                                                                                                   "_mark": "mark_833btwc9rdz7k04dxmj9",
-                                                                                                                                                  "_content": "[LABEL - Алло, Кирпич, дарова! Ди срочняк сюда! Я нашел того чела.][BGPICTURE bg.jpg][VIDEO gops1_gop1_talks_by_phone.webm]"
+                                                                                                                                                  "_content": "[LABEL - Алло, Кирпич, дарова! Ди срочняк сюда! Я нашел того чела.][BGPICTURE bg.jpg][VIDEO gops1_gop1_talks_by_phone.webm][AUDIO gop1_phones_brick.mp3]"
                                                                                                                                                 }
                                                                                                                                               ],
                                                                                                                                               "_mark": "",
@@ -3912,7 +3912,7 @@
                                                                                                                                     }
                                                                                                                                   ],
                                                                                                                                   "_mark": "mark_v48i79eit9cyplrw92ax",
-                                                                                                                                  "_content": "[LABEL Позвать его или штукарь по-хорошему вернешь?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                                  "_content": "[LABEL Позвать его или штукарь по-хорошему вернешь?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_call_brick_or_1000.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                                 }
                                                                                                                               ],
                                                                                                                               "_mark": "",
@@ -3928,7 +3928,7 @@
                                                                                                                             }
                                                                                                                           ],
                                                                                                                           "_mark": "mark_b4ijzr9au23r98u42fx1",
-                                                                                                                          "_content": "[LABEL Он по-твоему звездобол?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                          "_content": "[LABEL Он по-твоему звездобол?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_is_brick_lier2.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                         }
                                                                                                                       ],
                                                                                                                       "_mark": "",
@@ -3944,7 +3944,7 @@
                                                                                                                     }
                                                                                                                   ],
                                                                                                                   "_mark": "mark_32x4ej434z44wz39ezwc",
-                                                                                                                  "_content": "[LABEL Опачки! То есть ты считаешь, что Кирпич может назвездеть?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                                  "_content": "[LABEL Опачки! То есть ты считаешь, что Кирпич может назвездеть?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_is_brick_lier.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                                 }
                                                                                                               ],
                                                                                                               "_mark": "",
@@ -3964,7 +3964,7 @@
                                                                                                             }
                                                                                                           ],
                                                                                                           "_mark": "gop1_ok_lets_call_kirpich",
-                                                                                                          "_content": "[LABEL Давай Кирпича позовем, спросим? Если он подтвердит, ты мне тоже штукарь должен будешь.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                          "_content": "[LABEL Давай Кирпича позовем, спросим? Если он подтвердит, ты мне тоже штукарь должен будешь.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_lets_call_brick.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                         }
                                                                                                       ],
                                                                                                       "_mark": "",
@@ -3980,7 +3980,7 @@
                                                                                                     }
                                                                                                   ],
                                                                                                   "_mark": "mark_29ewi18dv2742cwyk306",
-                                                                                                  "_content": "[LABEL Братиш, не по-пацански это. Долги отдавать надо.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_content": "[LABEL Братиш, не по-пацански это. Долги отдавать надо.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_return_1000.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "",
@@ -4002,7 +4002,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "you_took_1000_from_gop2",
-                                                                                          "_content": "[LABEL Ты у него еще по-пьяне штукарь занял и не отдаешь.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты у него еще по-пьяне штукарь занял и не отдаешь.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_you_own_brick_1000.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
@@ -4010,7 +4010,7 @@
                                                                                     }
                                                                                   ],
                                                                                   "_mark": "EPISODE1,gop1_about_gop2",
-                                                                                  "_content": "[LABEL Здоровый такой бык, боксер, кореш мой.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1]"
+                                                                                  "_content": "[LABEL Здоровый такой бык, боксер, кореш мой.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_brick_is_boxer.mp3]"
                                                                                 }
                                                                               ],
                                                                               "_mark": "who_is_kirpich",
@@ -4038,7 +4038,7 @@
                                                                                                     }
                                                                                                   ],
                                                                                                   "_mark": "mark_j52235l4ohf9wv4331rg",
-                                                                                                  "_content": "[LABEL Ну как не могло? Там с нами еще Кирпич был.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_content": "[LABEL Ну как не могло? Там с нами еще Кирпич был.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_you_wrong_brick_was_there.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "shisha_cant_be_so",
@@ -4070,7 +4070,7 @@
                                                                                                             }
                                                                                                           ],
                                                                                                           "_mark": "mark_ln220q8bfh3wvk3yo075",
-                                                                                                          "_content": "[LABEL Братиш, то есть ты признаешь, что там был, просто не помнишь?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                          "_content": "[LABEL Братиш, то есть ты признаешь, что там был, просто не помнишь?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_you_were_there_not_remember.mp3][BGNDVIDEO gops1_gop1_idle.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                         }
                                                                                                       ],
                                                                                                       "_mark": "i_dont_remember",
@@ -4078,7 +4078,7 @@
                                                                                                     }
                                                                                                   ],
                                                                                                   "_mark": "mark_f6pf5866ahv81um5t3k3",
-                                                                                                  "_content": "[LABEL А Кирпич там еще был, помнишь?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                                  "_content": "[LABEL А Кирпич там еще был, помнишь?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_remember_brick_there.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                                 }
                                                                                               ],
                                                                                               "_mark": "shisha_i_dont_smoke",
@@ -4086,7 +4086,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "shisha1",
-                                                                                          "_content": "[LABEL Ты когда весь чубук выпарил, а расплатиться не смог, так и сказал охране: \"Это был не я. Кальян сам себя скурил\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты, когда весь чубук выпарил, а расплатиться не смог, так и сказал охране: \"Это был не я. Кальян сам себя скурил\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_shisha1.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         },
                                                                                         {
                                                                                           "node": [
@@ -4100,7 +4100,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "shisha2",
-                                                                                          "_content": "[LABEL Ты когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: \"Это был не я. Это был мой брат-близнец\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты, когда весь бутыль залпом хлопнул, а расплатиться не смог, так и сказал охране: \"Это был не я. Это был мой брат-близнец\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_shisha2.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         },
                                                                                         {
                                                                                           "node": [
@@ -4114,7 +4114,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "shisha3",
-                                                                                          "_content": "[LABEL Ты когда напился и официантку за булку схватил, так охранникам и сказал: \"Это был не я. Её булка на меня первая напала\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты, когда напился и официантку за булку схватил, так охранникам и сказал: \"Это был не я. Булка первая напала\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_shisha3.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         },
                                                                                         {
                                                                                           "node": [
@@ -4128,7 +4128,7 @@
                                                                                             }
                                                                                           ],
                                                                                           "_mark": "shisha4",
-                                                                                          "_content": "[LABEL Ты когда напился и толчок в сортире сломал, так охране сказал: \"Это был не я. На него соседний писуар напал\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                                          "_content": "[LABEL Ты, когда напился и толчок в сортире сломал, так охране сказал: \"Это был не я. На него соседний писуар напал\".][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_shisha4.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                                         }
                                                                                       ],
                                                                                       "_mark": "",
@@ -4144,7 +4144,7 @@
                                                                             }
                                                                           ],
                                                                           "_mark": "gop1_i_known_you",
-                                                                          "_content": "[LABEL Не, я тя сразу узнал! Там еще Кирпич был с нами, подтвердит.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                          "_content": "[LABEL Не, я тя сразу узнал! Там еще Кирпич был с нами, подтвердит.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_brick_approve.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                         }
                                                                       ],
                                                                       "_mark": "you_missed_me_with_smbdy",
@@ -4156,7 +4156,7 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_tells_drunken_story1",
-                                                                  "_content": "[LABEL Да не гони! Я помню, ты выпил пол-бара и нажрался в дрова!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Да не гони! Я помню, ты выпил пол-бара и нажрался в дрова!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_you_drunk_bar.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 },
                                                                 {
                                                                   "node": [
@@ -4170,7 +4170,7 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_tells_drunken_story2",
-                                                                  "_content": "[LABEL Да ладно! Таких забивных синяков еще поискать надо!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Да ладно! Таких забивных синяков еще поискать надо!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_you_crazy_drinker.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 },
                                                                 {
                                                                   "node": [
@@ -4184,7 +4184,7 @@
                                                                     }
                                                                   ],
                                                                   "_mark": "gop1_tells_drunken_story3",
-                                                                  "_content": "[LABEL Ты на спор хлопнул пять шотов, чтоб хряпнуть еще семь призовых.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                                  "_content": "[LABEL Ты на спор хлопнул пять шотов, чтоб хряпнуть еще семь призовых.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_you_drunk_5_to_add_7.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                                 }
                                                               ],
                                                               "_mark": "",
@@ -4208,7 +4208,7 @@
                                                     }
                                                   ],
                                                   "_mark": "we_clubbed_together",
-                                                  "_content": "[LABEL Да ты чо, внатуре, мы с тобой недавно в клубешнике бухали!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                  "_content": "[LABEL Да ты чо, внатуре, мы с тобой недавно в клубешнике бухали!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_drink_in_club.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
                                               "_mark": "",
@@ -4234,7 +4234,7 @@
                                                     }
                                                   ],
                                                   "_mark": "mark_3uu3073rd03979909520",
-                                                  "_content": "[LABEL Точняк! Мы с тобой недавно в клубешнике бухали. Там еще Кирпич был.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                  "_content": "[LABEL Точняк! Мы с тобой недавно в клубешнике бухали. Там еще Кирпич был.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_drink_in_club2.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
                                               "_mark": "gop1_name_hryash",
@@ -4254,7 +4254,7 @@
                                                     }
                                                   ],
                                                   "_mark": "mark_773c02iq32gmoe1n64s3",
-                                                  "_content": "[LABEL Нее, Червлей чуток позже подтянется.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                  "_content": "[LABEL Не, Червлей чуток позже подтянется.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_about_chervley.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
                                               "_mark": "gop1_name_chervley",
@@ -4276,7 +4276,7 @@
                                                     }
                                                   ],
                                                   "_mark": "mark_r2o8845h92371j97wafq",
-                                                  "_content": "[LABEL Сам ты Митяй!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]"
+                                                  "_content": "[LABEL Сам ты Митяй!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_mitey.mp3]"
                                                 }
                                               ],
                                               "_mark": "gop1_name_vasyan",
@@ -4284,7 +4284,7 @@
                                             }
                                           ],
                                           "_mark": "gop1_remember_me",
-                                          "_content": "[LABEL Помнишь, меня?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                          "_content": "[LABEL Помнишь, меня?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_remember_me.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                         }
                                       ],
                                       "_mark": "",
@@ -4320,7 +4320,7 @@
                                                     }
                                                   ],
                                                   "_mark": "mark_0k96cn48a2db58uu3a0o",
-                                                  "_content": "[LABEL Сам ты из доставки елды!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_2]"
+                                                  "_content": "[LABEL Сам ты из доставки елды!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_elda.mp3]"
                                                 }
                                               ],
                                               "_mark": "",
@@ -4328,7 +4328,7 @@
                                             }
                                           ],
                                           "_mark": "mark_00lf7hrf944jl3ndd9ny",
-                                          "_content": "[LABEL Не узнал? - Богатым седня буду! Примета такая есть, реально, отвечаю.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                          "_content": "[LABEL Не узнал? - Богатым седня буду! Примета такая есть, реально, отвечаю.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_be_rich.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                         }
                                       ],
                                       "_mark": "",
@@ -4362,7 +4362,7 @@
                                                     }
                                                   ],
                                                   "_mark": "mark_fm48s46c9ymm5j9wr31n",
-                                                  "_content": "[LABEL Слух, ты мне дерзишь чтоли?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                                  "_content": "[LABEL Слух, ты мне дерзишь чтоли?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_you_hardspeeking.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                                 }
                                               ],
                                               "_mark": "",
@@ -4390,7 +4390,7 @@
                                                         }
                                                       ],
                                                       "_mark": "",
-                                                      "_content": "[LABEL Дай дорогу]"
+                                                      "_content": "[LABEL Я сам уйду]"
                                                     },
                                                     {
                                                       "node": [
@@ -4404,7 +4404,7 @@
                                                     }
                                                   ],
                                                   "_mark": "gop1_go_out_from_here",
-                                                  "_content": "[LABEL А ну свалил отсюда живо!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
+                                                  "_content": "[LABEL А ну свалил отсюда живо!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_you_go_out.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][TIMEEXPIRED mark_final9][ANSWERTIME 5]"
                                                 }
                                               ],
                                               "_mark": "",
@@ -4412,7 +4412,7 @@
                                             }
                                           ],
                                           "_mark": "mark_w9tu18dxm8d74cl0g531",
-                                          "_content": "[LABEL А тя чо, здороваться не учили?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                          "_content": "[LABEL А тя чо, здороваться не учили?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_say_hello.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                         }
                                       ],
                                       "_mark": "",
@@ -4420,7 +4420,7 @@
                                     }
                                   ],
                                   "_mark": "GAME_SAVEPOINT",
-                                  "_content": "[LABEL Здарова, братан! Не узнал что ли?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO silent_2][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                  "_content": "[LABEL Здарова, братан! Не узнал что ли?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_intro.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                 }
                               ],
                               "_mark": "",
@@ -5906,7 +5906,7 @@
                     }
                   ],
                   "_mark": "mark_final4",
-                  "_content": "[LABEL Тебя раскрутили по полной. Отрицательный финал (наихудший).][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]"
+                  "_content": "[LABEL Тебя раскрутили по полной. Отрицательный финал (наихудший).][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_well_be.mp3]"
                 },
                 {
                   "node": [
@@ -6068,7 +6068,7 @@
                     }
                   ],
                   "_mark": "mark_final13",
-                  "_content": "[LABEL Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]"
+                  "_content": "[LABEL Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_well_be.mp3]"
                 },
                 {
                   "node": [
@@ -6082,7 +6082,7 @@
                     }
                   ],
                   "_mark": "mark_final14",
-                  "_content": "[LABEL Ты сумел найти уязвимое место Кирпича. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]"
+                  "_content": "[LABEL Ты сумел найти уязвимое место Кирпича. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_well_be.mp3]"
                 },
                 {
                   "node": [
@@ -6238,7 +6238,7 @@
                                     }
                                   ],
                                   "_mark": "bebra_bespredel",
-                                  "_content": "[LABEL Эээ! Чо за беспредел?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO silent_1]"
+                                  "_content": "[LABEL Эээ! Чо за беспредел?!][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_what_chaos.mp3]"
                                 }
                               ],
                               "_mark": "",
@@ -6338,7 +6338,7 @@
                     }
                   ],
                   "_mark": "mark_final23",
-                  "_content": "[LABEL Тебя отпустили, потому что ты оказался \"мамсиком\" (маменькиным сынком). Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]"
+                  "_content": "[LABEL Тебя отпустили, потому что ты оказался \"мамсиком\" (маменькиным сынком). Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you.mp3]"
                 },
                 {
                   "node": [
@@ -6352,7 +6352,7 @@
                     }
                   ],
                   "_mark": "mark_final24",
-                  "_content": "[LABEL Тебя отпустили, потому что ты оказался нищебродом. Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm]"
+                  "_content": "[LABEL Тебя отпустили, потому что ты оказался нищебродом. Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_well_be.mp3]"
                 },
                 {
                   "node": [
@@ -6366,7 +6366,7 @@
                     }
                   ],
                   "_mark": "mark_final25",
-                  "_content": "[LABEL \"Да пошел ты!\", - гоп отвалил от тебя. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you]"
+                  "_content": "[LABEL \"Да пошел ты!\", - гоп отвалил от тебя. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you.mp3]"
                 },
                 {
                   "node": [

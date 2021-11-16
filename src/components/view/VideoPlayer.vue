@@ -1,8 +1,8 @@
 <template>
   <div>
-    <video playsinline :style="styleObject1" autoplay :loop="loop" ref="videoPlayer1" @canplay="onCanPlay" @ended="onEnd">
+    <video playsinline="true" :style="styleObject1" autoplay :loop="loop" ref="videoPlayer1" @canplay="onCanPlay" @ended="onEnd">
     </video>
-    <video playsinline :style="styleObject2" autoplay :loop="loop" ref="videoPlayer2" @canplay="onCanPlay" @ended="onEnd">
+    <video playsinline="true" :style="styleObject2" autoplay :loop="loop" ref="videoPlayer2" @canplay="onCanPlay" @ended="onEnd">
     </video>
   </div>
 </template>

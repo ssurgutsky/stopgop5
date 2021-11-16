@@ -2,7 +2,7 @@
 
 export default {
   // Increase this on every update to reload assets for new on startup
-  GAME_VERSION: 9,
+  GAME_VERSION: 11,
   // Release = true
   CACHE_ENABLED: true,
 
@@ -24,5 +24,5 @@ export default {
   ENABLE_BACK_BUTTON: false,
   ENABLE_DONATE_BUTTON: true,
 
-  ENABLE_SPEECH: window.speechSynthesis !== undefined
+  ENABLE_SPEECH: false // window.speechSynthesis !== undefined
 }
