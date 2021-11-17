@@ -418,6 +418,7 @@ export default {
       if (this.gameModel.loadGameData()) {
         this.mainView.stopVideo()
         this.mainView.stopAudio()
+        this.mainView.stopMusic()
         this.mainView.clearTimer()
         this.showCurrentQuestion()
       } else {

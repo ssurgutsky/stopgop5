@@ -134,8 +134,16 @@ export default {
       this.$refs.audioPlayer.playMusic(name)
     },
 
+    stopMusic () {
+      this.$refs.audioPlayer.stopMusic()
+    },
+
     playBgndMusic (name, loop) {
       this.$refs.audioPlayer.playBgndMusic(name)
+    },
+
+    stopBgndMusic () {
+      this.$refs.audioPlayer.stopBgndMusic()
     },
 
     playSFX (name, loop) {

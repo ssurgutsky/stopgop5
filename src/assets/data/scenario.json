@@ -3650,7 +3650,7 @@
                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                           ],
                                                                                                                                                                                                                                           "_mark": "mark_m0e0pb97o5ra6yp7szr2",
-                                                                                                                                                                                                                                          "_content": "[LABEL +1000][BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final13][ANSWERTIME 20]"
+                                                                                                                                                                                                                                          "_content": "[LABEL Купи себе нормальную, епта.][BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][BGNDVIDEO gops1_gop1_idle_soft.webm][SOUNDFX gop1_buy_good_mobile2.mp3][TIMEEXPIRED mark_final13][ANSWERTIME 20]"
                                                                                                                                                                                                                                         }
                                                                                                                                                                                                                                       ],
                                                                                                                                                                                                                                       "_mark": "",
@@ -3658,7 +3658,7 @@
                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                   "_mark": "gop1_gives_1000",
-                                                                                                                                                                                                                                  "_content": "[LABEL Братан, у тебя по реалу все так плохо? Держи штукарь, купи себе нормальную, епта.][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][IMAGE phone_old.png|200;340][AUDIO gop1_buy_good_mobile.mp3][BGNDIMAGE *]"
+                                                                                                                                                                                                                                  "_content": "[LABEL Братан, у тебя по реалу все так плохо?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][IMAGE phone_old.png|200;340][AUDIO gop1_buy_good_mobile.mp3][BGNDIMAGE *]"
                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                               "_mark": "",
@@ -4420,7 +4420,7 @@
                                     }
                                   ],
                                   "_mark": "GAME_SAVEPOINT",
-                                  "_content": "[LABEL Здарова, братан! Не узнал что ли?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_intro.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
+                                  "_content": "[LABEL Здарова, братан! Не узнал что ли?][BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_intro.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][MUSIC none][AMBIENT ambient][TIMEEXPIRED mark_final9][ANSWERTIME 20]"
                                 }
                               ],
                               "_mark": "",
@@ -4428,7 +4428,7 @@
                             }
                           ],
                           "_mark": "mark_78xmw99h8zd7cvh723d2",
-                          "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gop1_intro.webm][MUSIC none][AMBIENT ambient]"
+                          "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gop1_intro.webm][MUSIC none]"
                         }
                       ],
                       "_mark": "",

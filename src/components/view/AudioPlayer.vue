@@ -186,6 +186,10 @@ export default {
       this.$emit('musicEnded', this.currentMusicName)
     },
 
+    stopMusic () {
+      this.musicPlayer.pause()
+    },
+
     playBgndMusic (name) {
       console.log('playBgndMusic', name)
 
@@ -210,6 +214,10 @@ export default {
     onBgndMusicEnded () {
       //      console.log('musicEnded', this.currentMusicName)
       this.$emit('bgndMusicEnded', this.currentBgndMusicName)
+    },
+
+    stopBgndMusic () {
+      this.bgndMusicPlayer.pause()
     },
 
     playSFX (name) {

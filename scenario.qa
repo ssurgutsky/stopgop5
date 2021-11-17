@@ -4,7 +4,7 @@
 			ПОГНАЛИ!
 				[mark_78xmw99h8zd7cvh723d2]...[BGPICTURE bg.jpg][VIDEO gop1_intro.webm][AMBIENT ambient][MUSIC none]
 					
-						[GAME_SAVEPOINT]Здарова, братан! Не узнал что ли?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_intro.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+						[GAME_SAVEPOINT]Здарова, братан! Не узнал что ли?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_intro.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9][AMBIENT ambient][MUSIC none]
 							Здарова
 								[gop1_remember_me]Помнишь, меня?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_remember_me.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 									Нет, не помню
@@ -683,9 +683,9 @@
 																																																			Вот, смотри
 																																																				[mark_3v1vb7f40e695t35k5m4]Древний дисковый телефон[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_idle_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop1_gives_1000]
 																																																					>>>
-																																																						[gop1_gives_1000]Братан, у тебя по реалу все так плохо? Держи штукарь, купи себе нормальную, епта.[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_buy_good_mobile.mp3]
+																																																						[gop1_gives_1000]Братан, у тебя по реалу все так плохо?[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_buy_good_mobile.mp3]
 																																																							
-																																																								[mark_m0e0pb97o5ra6yp7szr2]+1000[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][AUDIO silent_3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final13]
+																																																								[mark_m0e0pb97o5ra6yp7szr2]Купи себе нормальную, епта.[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][SOUNDFX gop1_buy_good_mobile2.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final13]
 																																																									Спасибо, братан!
 																																																										[mark_i0cvjx052393jj5270p0][GOTO mark_final13]
 																																																	[open_mobile]Достану мобилу
