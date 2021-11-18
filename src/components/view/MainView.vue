@@ -247,7 +247,7 @@ export default {
       top: 0;
       left: 0;
       width: 100%;
-      height: 40vh;
+      height: 50vh;
       margin: 0;
       padding: 0;
       z-index: -5;
@@ -258,7 +258,7 @@ export default {
       top: 0;
       left: 0;
       width: 100%;
-      height: 40vh;
+      height: 50vh;
       margin: 0;
       padding: 0;
       z-index: -4;
@@ -269,7 +269,7 @@ export default {
       top: 0;
       left: 0;
       width: 100%;
-      height: 40vh;
+      height: 50vh;
       margin: 0;
       padding: 0;
       z-index: -3;
@@ -280,7 +280,7 @@ export default {
       top: 0;
       left: 0;
       width: 100%;
-      height: 40vh;
+      height: 50vh;
       margin: 0;
       padding: 0;
       z-index: -2;
@@ -288,7 +288,7 @@ export default {
 
     .questions-container {
       position: fixed;
-      top: 41vh;
+      top: 51vh;
       left: 0;
       width: 100%;
       height: 19vh;
@@ -296,7 +296,7 @@ export default {
 
     .timer-container {
       position: fixed;
-      top: 60vh;
+      top: 70vh;
       left: 0;
       width: 100%;
       height: 1vh;
@@ -304,7 +304,7 @@ export default {
 
     .answers-container {
       position: fixed;
-      top: 62vh;
+      top: 72vh;
       left: 0;
       width: 100%;
       height: 20vh;
@@ -312,7 +312,7 @@ export default {
 
     .controls-container {
       position: fixed;
-      top: 84vh;
+      top: 94vh;
       left: 0;
       width: 100%;
       height: 4vh;
@@ -369,12 +369,12 @@ export default {
       top: 5vh;
       left: 51vw;
       width: 48vw;
-      height: 30vh;
+      height: 40vh;
     }
 
     .timer-container {
       position: fixed;
-      top: 38vh;
+      top: 48vh;
       left: 50vw;
       width: 48vw;
       height: 1vh;
@@ -382,7 +382,7 @@ export default {
 
     .answers-container {
       position: fixed;
-      top: 42vh;
+      top: 52vh;
       left: 51vw;
       width: 48vw;
       height: 35vh;
@@ -390,7 +390,7 @@ export default {
 
     .controls-container {
       position: fixed;
-      top: 80vh;
+      top: 90vh;
       left: 51vw;
       width: 48vw;
       height: 4vh;
