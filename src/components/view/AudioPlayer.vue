@@ -77,6 +77,7 @@ export default {
 
       if (name.toUpperCase().includes('SILENT_')) {
         let seconds = name.toUpperCase().replace('SILENT_', '')
+        // console.log('SET silentTimerId', this.silentTimerId, seconds)
         this.silentTimerId = setTimeout(this.onAudioEnded, seconds * 1000)
         return
       }
@@ -116,6 +117,7 @@ export default {
 
     stopAudio () {
       this.audioPlayer.pause()
+      this.clearSilentTimer()
 
       // console.log('!!!!!!speechSynthesis', window.speechSynthesis, Settings.ENABLE_SPEECH)
 
@@ -132,12 +134,13 @@ export default {
     },
 
     clearSilentTimer () {
-      clearTimeout(this.silentTimerId)
+      // console.log('CLEAR silentTimerId', this.silentTimerId, this.silentTimerId._id)
+      clearTimeout(this.silentTimerId._id)
       this.silentTimerId = 0
     },
 
     onAudioEnded () {
-      //      console.log('audioEnded', this.currentAudioName)
+      // console.log('audioEnded', this.currentAudioName)
       this.$emit('audioEnded', this.currentAudioName)
     },
 

@@ -355,6 +355,7 @@ export default {
     },
 
     setNextAudio () {
+      // console.log('SET NEXT AUDIO')
       this.currentAudioIndex++
     },
 

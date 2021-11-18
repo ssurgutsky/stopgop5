@@ -103,8 +103,8 @@ export default {
 
     restartGame () {
       console.log('Restart')
-      this.mainView.stopVideo()
-      this.mainView.stopAudio()
+      this.stopVideo()
+      this.stopAudio()
       this.gameModel.restartGame()
       this.mainView.clearTimer()
       this.showCurrentQuestion()
@@ -305,8 +305,8 @@ export default {
         ) {
           console.log('case1')
 
-          this.mainView.stopVideo()
-          this.mainView.stopAudio()
+          this.stopVideo()
+          this.stopAudio()
 
           this.showCurrentAnswers()
           if (!this.gameModel.isFinal) {
@@ -334,8 +334,8 @@ export default {
           (!hasVideoPlaying && !hasAudioPlaying)
         ) {
           console.log('case3')
-          this.mainView.stopVideo()
-          this.mainView.stopAudio()
+          this.stopVideo()
+          this.stopAudio()
           this.gameModel.setNextQuestion()
           this.showCurrentQuestion()
         }
@@ -415,10 +415,20 @@ export default {
     processTimeExpired () {
       console.log('Time expired!')
       this.gameModel.processTimeExpired()
-      this.mainView.stopVideo()
-      this.mainView.stopAudio()
+      this.stopVideo()
+      this.stopAudio()
       this.mainView.clearTimer()
       this.showCurrentQuestion()
+    },
+
+    stopVideo () {
+      this.mainView.stopVideo()
+      this.gameModel.setCurrentVideoIndex(0)
+    },
+
+    stopAudio () {
+      this.mainView.stopAudio()
+      this.gameModel.setCurrentAudioIndex(0)
     },
 
     saveGame () {
@@ -429,8 +439,8 @@ export default {
 
     loadGame () {
       if (this.gameModel.loadGameData()) {
-        this.mainView.stopVideo()
-        this.mainView.stopAudio()
+        this.stopVideo()
+        this.stopAudio()
         this.mainView.stopMusic()
         this.mainView.clearTimer()
         this.showCurrentQuestion()
@@ -442,32 +452,32 @@ export default {
     /* CHEATS */
     cheatSkip () {
       if (this.mode === this.MODE_QUESTION) {
-        this.mainView.stopVideo()
-        this.mainView.stopAudio()
+        this.stopVideo()
+        this.stopAudio()
         this.showCurrentAnswers()
         if (!this.gameModel.isFinal) {
           this.showAfterQuestion()
         }
       }
       if (this.mode === this.MODE_ANSWER) {
-        this.mainView.stopVideo()
-        this.mainView.stopAudio()
+        this.stopVideo()
+        this.stopAudio()
         this.gameModel.setNextQuestion()
         this.showCurrentQuestion()
       }
     },
 
     cheatBack () {
-      this.mainView.stopVideo()
-      this.mainView.stopAudio()
+      this.stopVideo()
+      this.stopAudio()
       this.mainView.clearTimer()
       this.gameModel.setPrevQuestion()
       this.showCurrentQuestion()
     },
 
     cheatEpisode () {
-      this.mainView.stopVideo()
-      this.mainView.stopAudio()
+      this.stopVideo()
+      this.stopAudio()
       this.mainView.clearTimer()
       this.gameModel.setEpisode()
       this.showCurrentQuestion()
