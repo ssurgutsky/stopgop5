@@ -6,6 +6,7 @@
     <ImagePlayer class="image-container" ref="imagePlayer"/>
     <AudioPlayer class="audio-container" ref="audioPlayer"
       @audioEnded="processAudioEnded"
+      @sfxEnded="processSFXEnded"
       @musicEnded="processMusicEnded"
       @bgndMusicEnded="processBgndMusicEnded"
     />
@@ -167,6 +168,11 @@ export default {
     processAudioEnded (name) {
       // console.log('audioEnded', name)
       this.$emit('audioEnded', name)
+    },
+
+    processSFXEnded (name) {
+      // console.log('sfxEnded', name)
+      this.$emit('sfxEnded', name)
     },
 
     processMusicEnded (name) {

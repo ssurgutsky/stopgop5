@@ -12,7 +12,7 @@
     <audio autoplay ref="bgndMusicPlayer" @ended="onBgndMusicEnded">
       <source type="audio/mp3" />
     </audio>
-    <audio autoplay ref="sfxPlayer">
+    <audio autoplay ref="sfxPlayer" @ended="onSFXEnded">
       <source type="audio/mp3" />
     </audio>
   </div>
@@ -33,9 +33,11 @@ export default {
       bgndMusicPlayer: null,
       sfxPlayer: null,
       currentAudioName: '',
+      currentSFXName: '',
       currentUtterance: null,
       currentAmbientName: '',
       currentMusicName: '',
+      currentBgndMusicName: '',
       silentTimerId: 0,
       loop: false
     }
@@ -86,10 +88,11 @@ export default {
       }
       this.audioPlayer.loop = loop
       this.audioPlayer.src = this.getAudioSrc(name)
-      this.audioPlayer.pause()
-      setTimeout(() => {
-        this.audioPlayer.play()
-      }, 10)
+      this.audioPlayer.load()
+      // this.audioPlayer.pause()
+      // setTimeout(() => {
+      //   this.audioPlayer.play()
+      // }, 10)
     },
 
     getAudioSrc (name) {
@@ -154,10 +157,11 @@ export default {
 
       this.ambientPlayer.loop = true
       this.ambientPlayer.src = this.getAudioSrc(name)
-      this.ambientPlayer.pause()
-      setTimeout(() => {
-        this.ambientPlayer.play()
-      }, 10)
+      this.ambientPlayer.load()
+      // this.ambientPlayer.pause()
+      // setTimeout(() => {
+      //   this.ambientPlayer.play()
+      // }, 10)
     },
 
     playMusic (name) {
@@ -175,10 +179,11 @@ export default {
       }
 
       this.musicPlayer.src = this.getAudioSrc(name)
-      this.musicPlayer.pause()
-      setTimeout(() => {
-        this.musicPlayer.play()
-      }, 10)
+      this.musicPlayer.load()
+      // this.musicPlayer.pause()
+      // setTimeout(() => {
+      //   this.musicPlayer.play()
+      // }, 10)
     },
 
     onMusicEnded () {
@@ -205,10 +210,11 @@ export default {
       }
 
       this.bgndMusicPlayer.src = this.getAudioSrc(name)
-      this.bgndMusicPlayer.pause()
-      setTimeout(() => {
-        this.bgndMusicPlayer.play()
-      }, 10)
+      this.bgndMusicPlayer.load()
+      // this.bgndMusicPlayer.pause()
+      // setTimeout(() => {
+      //   this.bgndMusicPlayer.play()
+      // }, 10)
     },
 
     onBgndMusicEnded () {
@@ -222,11 +228,20 @@ export default {
 
     playSFX (name) {
       console.log('SFX', name)
+
+      this.currentSFXName = name
+
       this.sfxPlayer.src = this.getAudioSrc(name)
-      this.sfxPlayer.pause()
-      setTimeout(() => {
-        this.sfxPlayer.play()
-      }, 10)
+      this.sfxPlayer.load()
+      // this.sfxPlayer.pause()
+      // setTimeout(() => {
+      //   this.sfxPlayer.play()
+      // }, 10)
+    },
+
+    onSFXEnded () {
+      //      console.log('sfxEnded', this.currentSFXName)
+      this.$emit('sfxEnded', this.currentSFXName)
     },
 
     stopSFX () {

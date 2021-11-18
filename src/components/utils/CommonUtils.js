@@ -74,12 +74,16 @@ export default {
     return this.getTagValueAudioSequence(content, 'AUDIO')
   },
 
+  getTagValueSOUNDFX (content) {
+    return this.getTagValueAudioSequence(content, 'SOUNDFX')
+  },
+
   getTagValueBGNDVIDEO (content) {
     return this.getTagValueVideoSequence(content, 'BGNDVIDEO')
   },
 
   getTagValueBGNDAUDIO (content) {
-    return this.getTagValueVideoSequence(content, 'BGNDAUDIO')
+    return this.getTagValueAudioSequence(content, 'BGNDAUDIO')
   },
 
   getTagValueBGPICTURE (content) {
@@ -96,10 +100,6 @@ export default {
 
   getTagValueAMBIENT (content) {
     return this.getTagValue(content, 'AMBIENT').replace('.mp3', '')
-  },
-
-  getTagValueSOUNDFX (content) {
-    return this.getTagValue(content, 'SOUNDFX').replace('.mp3', '')
   },
 
   getTagValueMUSIC (content) {

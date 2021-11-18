@@ -4,6 +4,7 @@
       @answerClick="processAnswer"
       @videoEnded="processVideoEnded"
       @audioEnded="processAudioEnded"
+      @sfxEnded="processSFXEnded"
       @musicEnded="processMusicEnded"
       @restartGame="restartGame"
       @saveGame="saveGame"
@@ -209,7 +210,15 @@ export default {
     processAudioEnded (name) {
       console.log('audio ended:', name)
       this.gameModel.setNextAudio()
-      this.processVideoAndAudioEnding()
+      if (!this.playAudioSequence()) {
+        this.processVideoAndAudioEnding()
+      }
+    },
+
+    processSFXEnded (name) {
+      console.log('sfx ended:', name)
+      this.gameModel.setNextSFX()
+      this.playSoundFx()
     },
 
     playVideoAndAudio () {
@@ -250,6 +259,7 @@ export default {
     },
 
     playAudioSequence () {
+      // console.log('PLAY AUDIO SEQ, mode=', this.mode)
       if (!this.gameModel.hasCurrentAudio() && this.mode === this.MODE_AFTER_QUESTION) {
         this.gameModel.setCurrentAudioIndex(0)
       }
@@ -364,7 +374,7 @@ export default {
     },
 
     playSoundFx () {
-      let name = this.gameModel.currentSoundFxName
+      let name = this.gameModel.getCurrentSFXName()
       if (name && name !== '') {
         this.mainView.playSFX(name)
       }
@@ -405,6 +415,9 @@ export default {
     processTimeExpired () {
       console.log('Time expired!')
       this.gameModel.processTimeExpired()
+      this.mainView.stopVideo()
+      this.mainView.stopAudio()
+      this.mainView.clearTimer()
       this.showCurrentQuestion()
     },
 
