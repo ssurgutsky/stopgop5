@@ -246,7 +246,7 @@
 																																																																																																																																							
 																																																																																																																																								[mark_33w5xjx0386242277lvr]...[BGPICTURE bg.jpg][VIDEO gops2_gops_come_to_hero.webm][SOUNDFX gops_steps.mp3]
 																																																																																																																																									
-																																																																																																																																										[mark_71not4ea40x9rd80v73o]Ну чо, слился твой защитник?[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO gop1_gop3_treator2.mp3][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																										[mark_71not4ea40x9rd80v73o]Ну чо, слился твой защитник?[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO gop1_gop3_treator3.mp3][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																											Он вернется, я же ему заплатил
 																																																																																																																																												[mark_y0r2n94d7h1y5441q58m]Чот я не видел, чтоб ты отдавал ему бабло.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO gop2_i_didnt_see_money.mp3][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																													Отдал ему все, что было
@@ -394,7 +394,7 @@
 																																																																					Братан, уходи! Они тут деньги трясут!
 																																																																						[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away.webm]
 																																																																							
-																																																																								[mark_4oz8fmvp65dl327h5735]Все, слился защитничек. Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO gop1_gop3_treator3.mp3][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																								[mark_4oz8fmvp65dl327h5735]Все, слился защитничек. Гони бабло![BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO gop1_gop3_treator4.mp3][BGNDVIDEO gops2_gop2_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																									[ok_ok_will_give1000]Ладно, отдам
 																																																																										[mark_2u0l69w5v6h0mh98y01b]Гони сюда мое бабло![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO gop2_give_my_money.mp3][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																											У меня с собой нет
@@ -683,11 +683,11 @@
 																																																	Да тебе такая не нужна
 																																																		[gop1_asks_old_mobile]Ну-ка, покеж, чо за мобила?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_show_old_mobile.mp3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																			Вот, смотри
-																																																				[mark_3v1vb7f40e695t35k5m4]Древний дисковый телефон[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_idle_hard.webm][AUDIO silent_1][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop1_gives_1000]
+																																																				[mark_3v1vb7f40e695t35k5m4]Древняя дисковая...[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_old_phone.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED gop1_gives_1000]
 																																																					>>>
 																																																						[gop1_gives_1000]Братан, у тебя по реалу все так плохо?[BGPICTURE bg.jpg][IMAGE phone_old.png|200;340][BGNDIMAGE *][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_buy_good_mobile.mp3]
 																																																							
-																																																								[mark_m0e0pb97o5ra6yp7szr2]Купи себе нормальную, епта.[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][SOUNDFX gop1_buy_good_mobile2.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final13]
+																																																								[mark_m0e0pb97o5ra6yp7szr2]Купи себе нормальную, ёпка.[BGPICTURE bg.jpg][VIDEO gops1_gop1_gives_hero_1000.webm][SOUNDFX gop1_buy_good_mobile2.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final13]
 																																																									Спасибо, братан!
 																																																										[mark_i0cvjx052393jj5270p0][GOTO mark_final13]
 																																																	[open_mobile]Достану мобилу
@@ -755,7 +755,7 @@
 																				[shisha3]Ты, когда напился и официантку за булку схватил, так охранникам и сказал: "Это был не я. Булка первая напала".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_shisha3.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					[GOTO shisha_cant_be_so]
 																					[GOTO shisha_i_dont_smoke]
-																				[shisha4]Ты, когда напился и толчок в сортире сломал, так охране сказал: "Это был не я. На него соседний писуар напал".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_shisha4.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																				[shisha4]Ты, когда напился - толчок в сортире сломал, так охране сказал: "Это был не я. На него соседский писуар напал".[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_soft.webm][AUDIO gop1_shisha4.mp3][BGNDVIDEO gops1_gop1_idle_soft.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																					[GOTO shisha_cant_be_so]
 																					[GOTO shisha_i_dont_smoke]
 															[GOTO that_wasnt_me]
