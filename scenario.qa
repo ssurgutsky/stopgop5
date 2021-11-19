@@ -24,9 +24,9 @@
 																							Я никому ничего не должен.
 																								[gop1_ok_lets_call_kirpich]Давай Кирпича позовем, спросим? Если он подтвердит, ты мне тоже штукарь должен будешь.[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_lets_call_brick.mp3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																									Так он в твою пользу скажет.
-																										[mark_32x4ej434z44wz39ezwc]Опачки! То есть ты считаешь, что Кирпич может назвездеть?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_is_brick_lier.mp3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																										[mark_32x4ej434z44wz39ezwc]Опачки! То есть ты считаешь, что Кирпич балаболит?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_is_brick_lier.mp3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																											Я такого не говорил
-																												[mark_b4ijzr9au23r98u42fx1]Он по-твоему звездобол?![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_is_brick_lier2.mp3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
+																												[mark_b4ijzr9au23r98u42fx1]Он по-твоему балабол?![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_is_brick_lier2.mp3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																													Вовсе нет
 																														[mark_v48i79eit9cyplrw92ax]Позвать его или штукарь по-хорошему вернешь?[BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking.webm][AUDIO gop1_call_brick_or_1000.mp3][BGNDVIDEO gops1_gop1_idle.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																															Давай, зови
@@ -799,7 +799,7 @@
 									Ну, здарова
 										[mark_9e7y7j9xwhw64z9x4829][GOTO gop1_remember_me]
 									Давай, до свидания
-										[gop1_go_out_from_here]А ну свалил отсюда живо![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_you_go_out.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 5][TIMEEXPIRED mark_final9]
+										[gop1_go_out_from_here]Вали отсюда![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_go_away.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 5][TIMEEXPIRED mark_final9]
 											Я сам уйду
 												[mark_1g8h7cyxnk991na6j0wj][GOTO gop1_we_didnt_finish_talking]
 											Сам вали отсюда
