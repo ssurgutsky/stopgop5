@@ -144,27 +144,28 @@
 																																																																																																																																															>>>
 																																																																																																																																																[police2]Через некоторое время, полиция вычислила подозреваемых и предъявила им обвинение.[BGPICTURE police_car.jpg][IMAGE gops.png][BGNDIMAGE *]
 																																																																																																																																																	>>>
-																																																																																																																																																		[EPISODE13]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.[BGPICTURE bg.jpg&prado.png|250;240][VIDEO none][AUDIO silent_2]
+																																																																																																																																																		[EPISODE13]Сразу после обвинения, когда ты шел по улице, к тебе подъехал черный крузак.[BGPICTURE bg_titles.jpg&prado.png|240;220][VIDEO none][AUDIO gop4_brakes]
 																																																																																																																																																			>>>
-																																																																																																																																																				[mark_g3i927g88htgvq386j6b]...[BGPICTURE bg.jpg&prado.png|250;240][VIDEO gop4_intro.webm]
+																																																																																																																																																				[mark_g3i927g88htgvq386j6b]...[BGPICTURE bg_titles.jpg&prado.png|240;220][VIDEO gop4_intro.webm]
 																																																																																																																																																					
-																																																																																																																																																						[mark_8ve4abg7gix3kf57g602]Меня зовут Чекрыж. Я даю тебе денег, а ты забираешь свое заявление.[BGPICTURE bg.jpg&prado.png|250;240][VIDEO gop4_gun_speaking.webm][AUDIO gop4_intro.mp3][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
+																																																																																																																																																						[mark_8ve4abg7gix3kf57g602]Меня зовут Чекрыж. Я даю тебе денег, а ты забираешь свое заявление.[BGPICTURE bg_titles.jpg&prado.png|240;220][VIDEO gop4_gun_speaking.webm][AUDIO gop4_intro.mp3][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
 																																																																																																																																																							Нет, я не возьму
-																																																																																																																																																								[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги![BGPICTURE bg.jpg&prado.png|250;240][VIDEO gop4_gun_speaking.webm][AUDIO gop4_take_money.mp3][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
+																																																																																																																																																								[mark_7v5vj322mi5fi7409s43]Я сказал бери деньги![BGPICTURE bg_titles.jpg&prado.png|240;220][VIDEO gop4_gun_speaking.webm][AUDIO gop4_take_money.mp3][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
 																																																																																																																																																									[ok_take_money_from_check]Ладно, я согласен
-																																																																																																																																																										[gop4_gives_money]...[BGPICTURE bg.jpg&prado.png|250;240][VIDEO gop4_gives_money.webm]
+																																																																																																																																																										[gop4_gives_money]...[BGPICTURE bg_titles.jpg&prado.png|240;220][VIDEO gop4_gives_money.webm]
 																																																																																																																																																											
-																																																																																																																																																												[mark_a83yk9c0z448u4f1n0yz]...[BGPICTURE bg.jpg&prado.png|250;240][VIDEO gop4_goes_out.webm]
+																																																																																																																																																												[mark_a83yk9c0z448u4f1n0yz]...[BGPICTURE bg_titles.jpg&prado.png|240;220][VIDEO gop4_goes_out.webm]
 																																																																																																																																																													
 																																																																																																																																																														[mark_iy35st9q2g3s1y9zzyu6][GOTO mark_final30]
 																																																																																																																																																									Нет, не возьму
-																																																																																																																																																										[mark_1m964ojth3g9o801za12]Я же тебя пристрелю, как щенка! И мне ничего не будет.[BGPICTURE bg.jpg&prado.png|250;240][VIDEO gop4_gun_speaking.webm][AUDIO gop4_kill_you.mp3][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
+																																																																																																																																																										[mark_1m964ojth3g9o801za12]Я же тебя пристрелю, как щенка! И мне ничего не будет.[BGPICTURE bg_titles.jpg&prado.png|240;220][VIDEO gop4_gun_speaking.webm][AUDIO gop4_kill_you.mp3][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
 																																																																																																																																																											Будет, у меня очки с видеозаписью
-																																																																																																																																																												[mark_7w90advwg1guqlnst198]...[BGPICTURE bg.jpg&prado.png|250;240][BGNDIMAGE glasses.png][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
+																																																																																																																																																												[mark_7w90advwg1guqlnst198]...[BGPICTURE bg_titles.jpg&prado.png|240;220][BGNDIMAGE glasses.png][BGNDVIDEO gop4_gun_idle.webm][ANSWERTIME 20][TIMEEXPIRED gop4_gives_money]
 																																																																																																																																																													>>>
-																																																																																																																																																														[mark_w40lm44x193jk24kc411]...[BGPICTURE bg.jpg&prado.png|250;240][IMAGE glasses.png][VIDEO gop4_goes_out.webm]
+																																																																																																																																																														[mark_w40lm44x193jk24kc411]...[BGPICTURE bg_titles.jpg&prado.png|240;220][IMAGE glasses.png][VIDEO gop4_goes_out.webm]
 																																																																																																																																																															
 																																																																																																																																																																[mark_mkgji67st6zn8tmcdpik][GOTO mark_final31]
+																																																																																																																																																											[GOTO ok_take_money_from_check]
 																																																																																																																																																							[GOTO ok_take_money_from_check]
 																																																																																																																																							[bring_money_to_gop3]Вынесу деньги.
 																																																																																																																																								[gop3_floor_takes_money]...[BGPICTURE bg_floor.jpg][VIDEO gop3_floor_takes_money.webm]
@@ -574,7 +575,7 @@
 																																																															Разговор окончен
 																																																																[mark_08az805u78r80agt7b58]Стой тут, я сказал![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_stay_here2.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																	[fight1]Дам ему в жбан
-																																																																		[mark_x62k643iom09cwmjdwdf]...[BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][SOUNDFX swoosh.mp3]
+																																																																		[mark_x62k643iom09cwmjdwdf]...[BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][SOUNDFX swoosh.mp3][MUSIC music_fight2.mp3]
 																																																																			
 																																																																				[mark_s1mw1txf575x193xd335]Эээ! Ты чо творишь?![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_what_you_doing.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 5][TIMEEXPIRED mark_final9]
 																																																																					Удар левой
@@ -1158,12 +1159,12 @@
 			[GOTO ddonate]
 		[mark_final30]...[IMAGE black.jpg][AUDIO silent_1]
 			
-				[mark_2jz2qk28v7qw9ejbqu16]Чекрыж заплатил тебе крупную сумму денег, чтобы ты забрал заявление. Больше тебя никогда не трогали. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+				[mark_2jz2qk28v7qw9ejbqu16]Чекрыж заплатил тебе крупную сумму денег, чтобы ты забрал заявление. Больше тебя никогда не трогали. Положительный финал (но можно лучше)[BGPICTURE bg_titles.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
 					[GOTO ddonate]
 		[mark_final31]...[IMAGE black.jpg][AUDIO silent_1]
 			
-				[mark_i2pj9v8n2p22jp6bm5x7]Ты отказался от денег Чекрыжа и не забрал заявление. Бандитов посадили. А чуть позже закрыли Чекрыжа. Главный положительный финал![BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+				[mark_i2pj9v8n2p22jp6bm5x7]Ты отказался от денег Чекрыжа и не забрал заявление. Бандитов посадили. А чуть позже закрыли Чекрыжа. Главный положительный финал![BGPICTURE black.jpg|250;240][BGNDVIDEO titles.webm][BGNDIMAGE bars.png&title.png][MUSIC music_titles.mp3]
 					[GOTO donate]
 					[GOTO ddonate]
 	[donate]Достать лопатник.
