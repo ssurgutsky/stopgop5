@@ -3360,7 +3360,7 @@
                                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                                   ],
                                                                                                                                                                                                                                                                                   "_mark": "mark_x62k643iom09cwmjdwdf",
-                                                                                                                                                                                                                                                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][MUSIC music_fight2.mp3][SOUNDFX swoosh.mp3]"
+                                                                                                                                                                                                                                                                                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][MUSIC music_fight1.mp3][SOUNDFX swoosh.mp3]"
                                                                                                                                                                                                                                                                                 }
                                                                                                                                                                                                                                                                               ],
                                                                                                                                                                                                                                                                               "_mark": "fight1",
@@ -6004,7 +6004,7 @@
                     }
                   ],
                   "_mark": "mark_final9",
-                  "_content": "[LABEL Хрящ стукнул тебе в жбан. Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm][SOUNDFX boom.mp3]"
+                  "_content": "[LABEL Хрящ стукнул тебе в жбан. Отрицательный финал.][BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm][MUSIC none][SOUNDFX boom.mp3]"
                 },
                 {
                   "node": [
@@ -6042,7 +6042,7 @@
                     }
                   ],
                   "_mark": "mark_final10",
-                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][SOUNDFX boom.mp3]"
+                  "_content": "[LABEL ...][BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][MUSIC none][SOUNDFX boom.mp3]"
                 },
                 {
                   "node": [
@@ -6382,7 +6382,7 @@
                     }
                   ],
                   "_mark": "mark_final25",
-                  "_content": "[LABEL \"Да пошел ты!\", - гоп отвалил от тебя. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you.mp3]"
+                  "_content": "[LABEL \"Да пошел ты!\", - гоп отвалил от тебя. Положительный финал (но можно лучше)][BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][MUSIC none][SOUNDFX gop1_fuck_you.mp3]"
                 },
                 {
                   "node": [

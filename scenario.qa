@@ -575,7 +575,7 @@
 																																																															Разговор окончен
 																																																																[mark_08az805u78r80agt7b58]Стой тут, я сказал![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_stay_here2.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final9]
 																																																																	[fight1]Дам ему в жбан
-																																																																		[mark_x62k643iom09cwmjdwdf]...[BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][SOUNDFX swoosh.mp3][MUSIC music_fight2.mp3]
+																																																																		[mark_x62k643iom09cwmjdwdf]...[BGPICTURE bg.jpg][VIDEO fight1_gop1_dodge1.webm][SOUNDFX swoosh.mp3][MUSIC music_fight1.mp3]
 																																																																			
 																																																																				[mark_s1mw1txf575x193xd335]Эээ! Ты чо творишь?![BGPICTURE bg.jpg][VIDEO gops1_gop1_speaking_hard.webm][AUDIO gop1_what_you_doing.mp3][BGNDVIDEO gops1_gop1_idle_hard.webm][ANSWERTIME 5][TIMEEXPIRED mark_final9]
 																																																																					Удар левой
@@ -1080,10 +1080,10 @@
 		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm][AUDIO shoots.mp3][SOUNDFX gop1_aaa,gops_steps.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm][SOUNDFX boom.mp3]
+		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_punches_hero_face.webm][SOUNDFX boom.mp3][MUSIC none]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final10]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][SOUNDFX boom.mp3]
+		[mark_final10]...[BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm][SOUNDFX boom.mp3][MUSIC none]
 			
 				[mark_m7bxmxpjp4690v66r1qe]...[IMAGE black.jpg][AUDIO silent_1]
 					
@@ -1154,7 +1154,7 @@
 		[mark_final24]Тебя отпустили, потому что ты оказался нищебродом. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_well_be.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final25]"Да пошел ты!", - гоп отвалил от тебя. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you.mp3]
+		[mark_final25]"Да пошел ты!", - гоп отвалил от тебя. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you.mp3][MUSIC none]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final30]...[IMAGE black.jpg][AUDIO silent_1]
