@@ -52,7 +52,7 @@
 																																																			Только попробуй, сядешь надолго!
 																																																				[mark_pefw5j351a75z6glg5g2]Дудух на!!![BGPICTURE bg.jpg][VIDEO gops2_gop2_punches_hero_to_face.webm,gops2_gop2_punches_hero_to_face_back.webm][SOUNDFX boom.mp3]
 																																																					
-																																																						[mark_0phzs8lz75i27zg7w06g]...[IMAGE black.jpg&gops3_far_hero_records_mobile.png&sausage_vodka.png][AUDIO silent_1]
+																																																						[mark_0phzs8lz75i27zg7w06g]...[IMAGE black.jpg][AUDIO silent_1]
 																																																							
 																																																								[mark_z67oqpivgewvnds08al0]Слышь, черт, терь ты мне две штуки должен![BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO gop2_you_own_me_2000.mp3][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																									>>>
@@ -377,9 +377,11 @@
 																																																																																			Мама звонит, надо ответить
 																																																																																				[mark_c144b60b0v1byo3879j0]- Алло, мам! Да, все нормально у меня... [BGPICTURE bg.jpg][VIDEO gops3_far_hero_holds_mobile.webm][AUDIO hero_mama.mp3]
 																																																																																					
-																																																																																						[mark_a5p13rf5so5684u64nss]Якобы, разговаривая с мамой, ты по-тихоньку отошел от гопов за угол и убежал.[BGPICTURE bg.jpg][VIDEO gops3_far_hero_holds_mobile.webm]
-																																																																																							
+																																																																																						[mark_a5p13rf5so5684u64nss]Якобы, разговаривая с мамой, ты по-тихоньку свалил за угол и убежал.[BGPICTURE bg_big.jpg][VIDEO gop3_far_hero_run_away.webm]
+																																																																																							>>>
 																																																																																								[mark_1lf441i5zl498du9a273][GOTO mark_final11]
+																																																																																			Друзья-спортсмены звонят
+																																																																																				[mark_mfhy1pj43nhtg94k3ph2][GOTO mark_final10]
 																																																																																	Включу секретное приложение
 																																																																																		[mark_637v15m7syx54i3019dg]...[BGPICTURE bg.jpg][VIDEO gops3_far_hero_opens_app.webm]
 																																																																																			
@@ -392,8 +394,8 @@
 																																																																																		[mark_8v0lte162vncq815195e]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_comes_to_hero.webm]
 																																																																																			
 																																																																																				[mark_04i4l7359z5yv3xi6723][GOTO gop3_asks_mobile_to_call_help]
-																																																																																	Убегу
-																																																																																		[mark_u1lif59p8759v4j7h0e8][GOTO mark_final5,mark_final11]
+																																																																																	Пацаны, шухер! Менты маски проверяют!
+																																																																																		[mark_zat8envn398qc4026og4][GOTO mark_final26]
 																																																																					Братан, уходи! Они тут деньги трясут!
 																																																																						[gop3_gone]...[BGPICTURE bg.jpg][VIDEO gops3_gop3_goes_away.webm]
 																																																																							
@@ -439,7 +441,7 @@
 																																																																																																															>>>
 																																																																																																																[mark_xe442uj7f8q38w90nzb9]Чот у мя живот забурлил...[BGPICTURE bg.jpg][VIDEO gops2_gop1_speaking.webm][AUDIO gop1_feels_bad.mp3][BGNDVIDEO gops2_gop2_speaking_soft.webm][BGNDAUDIO gop2_feels_bad.mp3][SOUNDFX fart.mp3][ANSWERTIME 3][TIMEEXPIRED gops_fart]
 																																																																																																																	Я же говорил вам - не надо!
-																																																																																																																		[gops_fart]А-А-А!!![BGPICTURE bg.jpg][VIDEO gops2_gops_feels_bad.webm][SOUNDFX gop2_aaa.mp3]
+																																																																																																																		[gops_fart]А-А-А!!![BGPICTURE bg.jpg][VIDEO gops2_gops_feels_bad.webm][SOUNDFX gop2_aaa_fart.mp3]
 																																																																																																																			
 																																																																																																																				[mark_7y3w1jifrvcm082l395o][GOTO mark_final1]
 																																																																																																					[plz_eat_guys]Ребята, угощайтесь
@@ -455,7 +457,7 @@
 																																																																																																															>>>
 																																																																																																																[hero_sausage_fart2]... после колбасы с пургеном у тебя резко заболел живот...[BGPICTURE bg.jpg][VIDEO gops3_gops_idle.webm][AUDIO silent_3][SOUNDFX fart.mp3]
 																																																																																																																	
-																																																																																																																		[fart_black]...[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm][SOUNDFX gop2_aaa.mp3,fart.mp3]
+																																																																																																																		[fart_black]...[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm][SOUNDFX gop2_aaa_fart.mp3,fart.mp3]
 																																																																																																																			
 																																																																																																																				[mark_kk74320ov04endt58267][GOTO mark_final2]
 																																																																																																									Да нее, я не голоден
@@ -1076,7 +1078,7 @@
 		[mark_final6]Тебя кинул твой "помощник". Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final7]Ты обманул гопов, соврав, что отдал деньги другому! Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
+		[mark_final7]Ты обманул гопов, соврав, что отдал деньги их другану! Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm][AUDIO shoots.mp3][SOUNDFX gop1_aaa,gops_steps.mp3]
@@ -1092,9 +1094,11 @@
 						[mark_7e8f4vw24131bbgmdn6g]Кирпич стукнул тебе в хлебальник. Отрицательный финал.[BGPICTURE bg_sky.jpg][VIDEO gops2_gops_win.webm][SOUNDFX gops_steps.mp3,gops_steps.mp3]
 							[GOTO donate]
 							[GOTO ddonate]
-		[mark_final11]В итоге, тебе удалось свалить, и в будущем тебя никто так и не выловил. Повезло. Положительный финал (но можно и лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
-			[GOTO donate]
-			[GOTO ddonate]
+		[mark_final11]...[IMAGE black.jpg][AUDIO silent_1]
+			
+				[mark_0949b64j5734067gk94d]Тебе удалось свалить домой, и в будущем тебя никто так и не выловил. Положительный финал (но можно и лучше).[BGPICTURE none][VIDEO none][AUDIO silent_1][IMAGE bg_kitchen.jpg][BGNDIMAGE *]
+					[GOTO donate]
+					[GOTO ddonate]
 		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).[BGPICTURE bg.jpg]
 			[GOTO donate]
 			[GOTO ddonate]
@@ -1118,7 +1122,7 @@
 		[mark_final18]Ты надрал Кирпичу задницу! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1][MUSIC none]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final19]Гопы разбежались, как тараканы от приложения "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm][AUDIO shoots.mp3][SOUNDFX gops_steps.mp3]
+		[mark_final19]Гопы разбежались, как тараканы! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm][AUDIO shoots.mp3][SOUNDFX gops_steps.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final20]...[IMAGE black.jpg][AUDIO silent_1]
@@ -1157,6 +1161,9 @@
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final25]"Да пошел ты!", - гоп отвалил от тебя. Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_go_away.webm][SOUNDFX gop1_fuck_you.mp3][MUSIC none]
+			[GOTO donate]
+			[GOTO ddonate]
+		[mark_final26]Гопы разбежались, как тараканы! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops3_far_gops_scary.webm][AUDIO gop2_aaa][SOUNDFX gops_steps.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final30]...[IMAGE black.jpg][AUDIO silent_1]
