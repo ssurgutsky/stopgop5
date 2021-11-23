@@ -4479,9 +4479,75 @@
                       ],
                       "_mark": "",
                       "_content": "[LABEL ПОГНАЛИ!]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "_mark": "mark_3jjo6702yb990axn764r",
+                                  "_content": "[LABEL ][GOTO PREPARE]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_25niz708033n4z3a88td",
+                          "_content": "[LABEL ][NAVIGATEURL https://sobe.ru/na/serjios]"
+                        }
+                      ],
+                      "_mark": "donate",
+                      "_content": "[LABEL На развитие проекта (sobe.ru/na/serjios)]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "_mark": "mark_197x4802ps0345z8qe98",
+                                  "_content": "[LABEL ][GOTO PREPARE]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_sc79jl3mh47397kjt4jl",
+                          "_content": "[LABEL ][NAVIGATEURL https://qiwi.com/n/SERJIOS]"
+                        }
+                      ],
+                      "_mark": "ddonate",
+                      "_content": "[LABEL Донат Сержиосу (qiwi.com/n/SERJIOS)]"
+                    },
+                    {
+                      "node": [
+                        {
+                          "node": [
+                            {
+                              "node": [
+                                {
+                                  "_mark": "mark_q2nd78cyrc83r906j165",
+                                  "_content": "[LABEL ][GOTO PREPARE]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL ]"
+                            }
+                          ],
+                          "_mark": "mark_61s90c870a8bv2jmm4s2",
+                          "_content": "[LABEL ][NAVIGATEURL https://vk.com/club23748098]"
+                        }
+                      ],
+                      "_mark": "go_vk",
+                      "_content": "[LABEL Вступить в группу VK (vk.com/club23748098)]"
                     }
                   ],
-                  "_mark": "START",
+                  "_mark": "PREPARE",
                   "_content": "[LABEL Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})]][BGPICTURE bg.jpg&prado.png|250;240][BGNDVIDEO intro.webm][BGNDIMAGE title.png][MUSIC music_intro][ANSWERSORDER ON]"
                 },
                 {
@@ -6497,74 +6563,12 @@
               "_content": "[LABEL НАЧАТЬ ИГРУ]"
             },
             {
-              "node": [
-                {
-                  "node": [
-                    {
-                      "node": [
-                        {
-                          "_mark": "mark_29quy4j3a76s4d9p9747",
-                          "_content": "[LABEL ][GOTO START]"
-                        }
-                      ],
-                      "_mark": "",
-                      "_content": "[LABEL ]"
-                    }
-                  ],
-                  "_mark": "mark_ht148aj862wm21q30ogd",
-                  "_content": "[LABEL ][NAVIGATEURL https://money.yandex.ru/embed/shop.xml?account=41001220674141&quickpay=shop&payment-type-choice=on&writer=seller&targets=На развитие проекта&targets-hint=&default-sum=50&button-text=01&mail=on\" width=\"450\" height=\"150\"]"
-                }
-              ],
-              "_mark": "donate",
-              "_content": "[LABEL Достать лопатник.]"
-            },
-            {
-              "node": [
-                {
-                  "node": [
-                    {
-                      "node": [
-                        {
-                          "_mark": "mark_8r456ve83222mbv60b0m",
-                          "_content": "[LABEL ][GOTO START]"
-                        }
-                      ],
-                      "_mark": "",
-                      "_content": "[LABEL ]"
-                    }
-                  ],
-                  "_mark": "mark_t319971dwu2865mjn7qo",
-                  "_content": "[LABEL ][NAVIGATEURL https://qiwi.com/n/SERJIOS]"
-                }
-              ],
-              "_mark": "ddonate",
-              "_content": "[LABEL Закивасить Сержиосу.]"
-            },
-            {
-              "node": [
-                {
-                  "node": [
-                    {
-                      "node": [
-                        {
-                          "_mark": "mark_66dq4301190pj3xd8fj6",
-                          "_content": "[LABEL ][GOTO START]"
-                        }
-                      ],
-                      "_mark": "",
-                      "_content": "[LABEL ]"
-                    }
-                  ],
-                  "_mark": "mark_ovd2l48g9d8gp2s5gj0l",
-                  "_content": "[LABEL ][NAVIGATEURL https://vk.com/club23748098]"
-                }
-              ],
               "_mark": "",
-              "_content": "[LABEL Вступить в группу VK]"
+              "_content": "[LABEL ][GOTO go_vk]"
             }
           ],
-          "_mark": "mark_g10n48y0vk811iw36p58",
-          "_content": "[LABEL ...][BGPICTURE bg.jpg&prado.png|250;240][BGNDVIDEO intro.webm][BGNDIMAGE title.png][MUSIC music_intro][ANSWERSORDER ON]"
+          "_mark": "START",
+          "_content": "[LABEL Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})][BGPICTURE bg.jpg&prado.png|250;240&intro_gops.png&title.png][ANSWERSORDER ON]"
         }
       ]
     }

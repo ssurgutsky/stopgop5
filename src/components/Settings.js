@@ -2,7 +2,7 @@
 
 export default {
   // Increase this on every update to reload assets for new on startup
-  GAME_VERSION: 29,
+  GAME_VERSION: 30,
   // Release = true
   CACHE_ENABLED: true,
 

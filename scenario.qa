@@ -1,6 +1,6 @@
-[START]Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})[ANSWERSORDER ON][BGPICTURE bg.jpg&prado.png|250;240][BGNDIMAGE title.png][BGNDVIDEO intro.webm][MUSIC music_intro]
+[START]Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})[ANSWERSORDER ON][BGPICTURE bg.jpg&prado.png|250;240&intro_gops.png&title.png]
 	[mark_jq3z9230b0d555d900as]НАЧАТЬ ИГРУ
-		[mark_p9l7986gqizr9mp5g08c]Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})[ANSWERSORDER ON][BGPICTURE bg.jpg&prado.png|250;240]][BGNDIMAGE title.png][BGNDVIDEO intro.webm][MUSIC music_intro]
+		[PREPARE]Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})[ANSWERSORDER ON][BGPICTURE bg.jpg&prado.png|250;240]][BGNDIMAGE title.png][BGNDVIDEO intro.webm][MUSIC music_intro]
 			ПОГНАЛИ!
 				[mark_78xmw99h8zd7cvh723d2]...[BGPICTURE bg.jpg][VIDEO gop1_intro.webm][AMBIENT ambient][MUSIC none]
 					
@@ -811,9 +811,18 @@
 												[mark_1g8h7cyxnk991na6j0wj][GOTO gop1_we_didnt_finish_talking]
 											Сам вали отсюда
 												[mark_0l2nwi1p6xm083f5rojc][GOTO mark_final25]
-			[GOTO donate]
-			[GOTO ddonate]
-			[GOTO go_vk]
+			[donate]На развитие проекта (sobe.ru/na/serjios)
+				[mark_25niz708033n4z3a88td][NAVIGATEURL https://sobe.ru/na/serjios]
+					
+						[mark_3jjo6702yb990axn764r][GOTO PREPARE]
+			[ddonate]Донат Сержиосу (qiwi.com/n/SERJIOS)
+				[mark_sc79jl3mh47397kjt4jl][NAVIGATEURL https://qiwi.com/n/SERJIOS]
+					
+						[mark_197x4802ps0345z8qe98][GOTO PREPARE]
+			[go_vk]Вступить в группу VK (vk.com/club23748098)
+				[mark_61s90c870a8bv2jmm4s2][NAVIGATEURL https://vk.com/club23748098]
+					
+						[mark_q2nd78cyrc83r906j165][GOTO PREPARE]
 		[fight2]Хрящ, отчапай в сторонку.[BGPICTURE bg.jpg][VIDEO gops2_gop2_speaking_hard.webm][AUDIO gop2_gop1_go_aside.mp3][BGNDVIDEO gops2_gop2_idle_hard.webm][ANSWERTIME 20][TIMEEXPIRED mark_final10][MUSIC music_fight2.mp3]
 			>>>
 				[fight2_s1]...[BGPICTURE bg.jpg][BGNDVIDEO fight2_gop2_hit1_p1.webm][SOUNDFX hit_slowmo2.mp3][ANSWERTIME 3][TIMEEXPIRED fight2_gop2_hits_rhead]
@@ -1181,15 +1190,4 @@
 				[mark_i2pj9v8n2p22jp6bm5x7]Ты отказался от денег Чекрыжа и не забрал заявление. Бандитов посадили. А чуть позже закрыли Чекрыжа. Главный положительный финал![BGPICTURE black.jpg|250;240][BGNDVIDEO titles.webm][BGNDIMAGE bars.png&title.png][MUSIC music_titles.mp3]
 					[GOTO donate]
 					[GOTO ddonate]
-	[donate]Достать лопатник.
-		[mark_ht148aj862wm21q30ogd][NAVIGATEURL https://money.yandex.ru/embed/shop.xml?account=41001220674141&quickpay=shop&payment-type-choice=on&writer=seller&targets=На развитие проекта&targets-hint=&default-sum=50&button-text=01&mail=on" width="450" height="150"]
-			
-				[mark_29quy4j3a76s4d9p9747][GOTO START]
-	[ddonate]Закивасить Сержиосу.
-		[mark_t319971dwu2865mjn7qo][NAVIGATEURL https://qiwi.com/n/SERJIOS]
-			
-				[mark_8r456ve83222mbv60b0m][GOTO START]
-	[go_vk]Вступить в группу VK
-		[mark_ovd2l48g9d8gp2s5gj0l][NAVIGATEURL https://vk.com/club23748098]
-			
-				[mark_66dq4301190pj3xd8fj6][GOTO START]
+	[GOTO go_vk]
