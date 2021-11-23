@@ -4479,9 +4479,21 @@
                       ],
                       "_mark": "",
                       "_content": "[LABEL ПОГНАЛИ!]"
+                    },
+                    {
+                      "_mark": "",
+                      "_content": "[LABEL ][GOTO donate]"
+                    },
+                    {
+                      "_mark": "",
+                      "_content": "[LABEL ][GOTO ddonate]"
+                    },
+                    {
+                      "_mark": "",
+                      "_content": "[LABEL ][GOTO go_vk]"
                     }
                   ],
-                  "_mark": "START",
+                  "_mark": "mark_p9l7986gqizr9mp5g08c",
                   "_content": "[LABEL Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})]][BGPICTURE bg.jpg&prado.png|250;240][BGNDVIDEO intro.webm][BGNDIMAGE title.png][MUSIC music_intro][ANSWERSORDER ON]"
                 },
                 {
@@ -6559,12 +6571,12 @@
                   "_content": "[LABEL ][NAVIGATEURL https://vk.com/club23748098]"
                 }
               ],
-              "_mark": "",
+              "_mark": "go_vk",
               "_content": "[LABEL Вступить в группу VK]"
             }
           ],
-          "_mark": "mark_g10n48y0vk811iw36p58",
-          "_content": "[LABEL ...][BGPICTURE bg.jpg&prado.png|250;240][BGNDVIDEO intro.webm][BGNDIMAGE title.png][MUSIC music_intro][ANSWERSORDER ON]"
+          "_mark": "START",
+          "_content": "[LABEL Симулятор Гопника, часть 5. Подстава.\n(версия 1.{this.game_version})][BGPICTURE bg.jpg&prado.png|250;240][BGNDVIDEO intro.webm][BGNDIMAGE title.png][MUSIC music_intro][ANSWERSORDER ON]"
         }
       ]
     }
