@@ -193,80 +193,82 @@
 																																																																																																																																					
 																																																																																																																																						[mark_405fl7zoi341xsr1xbrp][GOTO mark_final5]
 																																																																																																																					[ok_take_mobile_for_loan]Ладно, вот мобила.
-																																																																																																																						[mark_c9m7fsapen157e9oo0d9]Все, беги домой и не задерживайся там.[VIDEO gops3_hero_gives_gop3_mobile.mp4][SOUNDFX gop3_you_run_home.mp3]
+																																																																																																																						[mark_c9m7fsapen157e9oo0d9]...[VIDEO gops3_hero_gives_gop3_mobile.mp4]
 																																																																																																																							
-																																																																																																																								[mark_whfo8x64u32lnj9418r1][IMAGE black][BGNDIMAGE *][AUDIO silent_2]
-																																																																																																																									
-																																																																																																																										[EPISODE11]Ты дома. Что будешь делать?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
-																																																																																																																											Вызову полицию
-																																																																																																																												[mark_b759p5v1gr413r6whd0c]У тебя нет ни мобильника, ни доказательств для полиции.[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
-																																																																																																																													[return_back_to_gops]Вернусь
-																																																																																																																														[mark_7e7226b2d60cfcxv6510]...[IMAGE black][BGNDIMAGE *][AUDIO silent_2]
-																																																																																																																															
-																																																																																																																																[mark_6qfim9j8l62sj7yquf7l]Принес деньги? Чекрыж уже ждет.[VIDEO gops3_gop3_speaking_hard.mp4][AUDIO gop3_bring_money.mp3][BGNDVIDEO gops3_gop3_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
-																																																																																																																																	А мобилу сначала верни?
-																																																																																																																																		[gop3_give_money_get_mobile]Давай сначала деньги, а потом я отдам мобилу. Через 5 минут эти двое будут извиняться.[VIDEO gops3_gop3_speaking_hard.mp4][AUDIO gop3_gops_sorry.mp3][BGNDVIDEO gops3_gop3_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
-																																																																																																																																			Нет, сначала мобила
-																																																																																																																																				[mark_v0734309i5y600g99i3q]Нет времени спорить, Чекрыж ждать не будет, мне придется твой мобильник отдать.[VIDEO gops3_gop3_speaking_hard.mp4][AUDIO gop3_gop4_want_wait.mp3][BGNDVIDEO gops3_gop3_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
-																																																																																																																																					[ok_here_is_money_for_gop3]Ладно, вот деньги
-																																																																																																																																						[chervley_takes_money_for_polkan]...[VIDEO gops3_hero_gives_money_gop3.mp4]
-																																																																																																																																							
-																																																																																																																																								[mark_56db0310h14xn6z6ddv4]Чекрыж звонит, надо ответить. Жди здесь.[VIDEO gops3_gop3_speaking.mp4][AUDIO gop3_gop4_calls_me.mp3][BGNDVIDEO gops3_gop3_idle.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
-																																																																																																																																									Хорошо
-																																																																																																																																										[mark_4qbggn31dyl82327040r][GOTO gop3_gone3]
+																																																																																																																								[mark_40de270uzea8s539ih72]Все, беги домой и не задерживайся там.[VIDEO gops3_gop3_speaking.mp4][AUDIO gop3_you_run_home.mp3][BGNDVIDEO gops3_gop3_idle.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone1]
+																																																																																																																									Хорошо
+																																																																																																																										[mark_whfo8x64u32lnj9418r1][IMAGE black][BGNDIMAGE *][AUDIO silent_2]
+																																																																																																																											
+																																																																																																																												[EPISODE11]Ты дома. Что будешь делать?[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
+																																																																																																																													Вызову полицию
+																																																																																																																														[mark_b759p5v1gr413r6whd0c]У тебя нет ни мобильника, ни доказательств для полиции.[BGPICTURE bg_kitchen.jpg][VIDEO none][AUDIO silent_1]
+																																																																																																																															[return_back_to_gops]Вернусь
+																																																																																																																																[mark_7e7226b2d60cfcxv6510]...[IMAGE black][BGNDIMAGE *][AUDIO silent_2]
+																																																																																																																																	
+																																																																																																																																		[mark_6qfim9j8l62sj7yquf7l]Принес деньги? Чекрыж уже ждет.[VIDEO gops3_gop3_speaking_hard.mp4][AUDIO gop3_bring_money.mp3][BGNDVIDEO gops3_gop3_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
+																																																																																																																																			А мобилу сначала верни?
+																																																																																																																																				[gop3_give_money_get_mobile]Давай сначала деньги, а потом я отдам мобилу. Через 5 минут эти двое будут извиняться.[VIDEO gops3_gop3_speaking_hard.mp4][AUDIO gop3_gops_sorry.mp3][BGNDVIDEO gops3_gop3_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
 																																																																																																																																					Нет, сначала мобила
-																																																																																																																																						[mark_d344umn925x5zw1o2oa5][GOTO gop3_gone3]
-																																																																																																																																						[gop3_gone1]Разбирайся сам.[VIDEO gops3_gop3_hero_go_out.mp4][SOUNDFX gop3_resolve_yourself.mp3,gop3_calls_somebody.mp3]
-																																																																																																																																							
-																																																																																																																																								[mark_m07bt91i5b7u8sc38rbu]...[VIDEO gops3_gop3_goes_away_phone_talking.mp4][SOUNDFX gop3_calls_somebody.mp3]
+																																																																																																																																						[mark_v0734309i5y600g99i3q]Нет времени спорить, Чекрыж ждать не будет, мне придется твой мобильник отдать.[VIDEO gops3_gop3_speaking_hard.mp4][AUDIO gop3_gop4_want_wait.mp3][BGNDVIDEO gops3_gop3_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
+																																																																																																																																							[ok_here_is_money_for_gop3]Ладно, вот деньги
+																																																																																																																																								[chervley_takes_money_for_polkan]...[VIDEO gops3_hero_gives_money_gop3.mp4]
 																																																																																																																																									
-																																																																																																																																										[mark_7u0o1n6m7a92977d9oil]...[VIDEO gops2_gops_come_to_hero.mp4][SOUNDFX gops_steps.mp3]
-																																																																																																																																											
-																																																																																																																																												[mark_0fga0r46r6th228fb5n4]Ну чо, слился твой защитник? Гони бабло![VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_treator2.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																													[GOTO lets_fight2]
-																																																																																																																																													[i_dont_own_you]Я вам ничего не должен
-																																																																																																																																														[EPISODE10]Ну все, тебе кранты![VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_you_die.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																															[lets_fight2]Давай один на один!
-																																																																																																																																																[mark_55l7x48r5wmpe989lc1g][GOTO fight2]
-																																																																																																																																													[GOTO gop2_clean_shit]
-																																																																																																																																													[GOTO gops2_i_have_1000_only]
-																																																																																																																																						[gop3_gone3]...[VIDEO gops3_gop3_goes_away_phone_talking.mp4][SOUNDFX gop3_calls_somebody.mp3][BGNDVIDEO gops3_gops2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED gop2_about_gop3]
-																																																																																																																																							Подожду
-																																																																																																																																								[mark_843j6yw5b1ciiim8155p]...[BGNDVIDEO gops3_gops2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED gop2_about_gop3]
-																																																																																																																																									Что-то долго...
-																																																																																																																																										[gop2_about_gop3]...[VIDEO gops2_gops_come_to_hero.mp4][SOUNDFX gops_steps.mp3]
-																																																																																																																																											
-																																																																																																																																												[mark_fi74n9rfgomag2a74kzg]Походу дела, он тебя кинул и свалил.[VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_treator.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																													>>>
-																																																																																																																																														[mark_c0wv6814ld3nj9n257qj]...[VIDEO gops2_gop2_punches_hero_to_face.mp4][SOUNDFX boom.mp3]
-																																																																																																																																															
-																																																																																																																																																[mark_g7d81330i60pnf0xbbu4][GOTO mark_final16]
-																																																																																																																																						[gop3_gone4]Выкручивайся сам.[VIDEO gops3_gop3_goes_away_phone_talking.mp4][SOUNDFX gop3_turn_yourself.mp3,gop3_calls_somebody.mp3]
-																																																																																																																																							
-																																																																																																																																								[mark_33w5xjx0386242277lvr]...[VIDEO gops2_gops_come_to_hero.mp4][SOUNDFX gops_steps.mp3]
+																																																																																																																																										[mark_56db0310h14xn6z6ddv4]Чекрыж звонит, надо ответить. Жди здесь.[VIDEO gops3_gop3_speaking.mp4][AUDIO gop3_gop4_calls_me.mp3][BGNDVIDEO gops3_gop3_idle.mp4][ANSWERTIME 20][TIMEEXPIRED gop3_gone3]
+																																																																																																																																											Хорошо
+																																																																																																																																												[mark_4qbggn31dyl82327040r][GOTO gop3_gone3]
+																																																																																																																																							Нет, сначала мобила
+																																																																																																																																								[mark_d344umn925x5zw1o2oa5][GOTO gop3_gone3]
+																																																																																																																																								[gop3_gone1]Разбирайся сам.[VIDEO gops3_gop3_hero_go_out.mp4][SOUNDFX gop3_resolve_yourself.mp3,gop3_calls_somebody.mp3]
 																																																																																																																																									
-																																																																																																																																										[mark_71not4ea40x9rd80v73o]Ну чо, слился твой защитник?[VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_treator3.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																											Он вернется, я же ему заплатил
-																																																																																																																																												[mark_y0r2n94d7h1y5441q58m]Чот я не видел, чтоб ты отдавал ему бабло.[VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_i_didnt_see_money.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																													Отдал ему все, что было
-																																																																																																																																														[mark_f045k5468o3257x6g7lj]Хрящ, быстро за ним![VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_gop1_goto_gop3.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gops2_gops_run_to_gop3]
+																																																																																																																																										[mark_m07bt91i5b7u8sc38rbu]...[VIDEO gops3_gop3_goes_away_phone_talking.mp4][SOUNDFX gop3_calls_somebody.mp3]
+																																																																																																																																											
+																																																																																																																																												[mark_7u0o1n6m7a92977d9oil]...[VIDEO gops2_gops_come_to_hero.mp4][SOUNDFX gops_steps.mp3]
+																																																																																																																																													
+																																																																																																																																														[mark_0fga0r46r6th228fb5n4]Ну чо, слился твой защитник? Гони бабло![VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_treator2.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																															[GOTO lets_fight2]
+																																																																																																																																															[i_dont_own_you]Я вам ничего не должен
+																																																																																																																																																[EPISODE10]Ну все, тебе кранты![VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_you_die.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																	[lets_fight2]Давай один на один!
+																																																																																																																																																		[mark_55l7x48r5wmpe989lc1g][GOTO fight2]
+																																																																																																																																															[GOTO gop2_clean_shit]
+																																																																																																																																															[GOTO gops2_i_have_1000_only]
+																																																																																																																																								[gop3_gone3]...[VIDEO gops3_gop3_goes_away_phone_talking.mp4][SOUNDFX gop3_calls_somebody.mp3][BGNDVIDEO gops3_gops2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED gop2_about_gop3]
+																																																																																																																																									Подожду
+																																																																																																																																										[mark_843j6yw5b1ciiim8155p]...[BGNDVIDEO gops3_gops2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED gop2_about_gop3]
+																																																																																																																																											Что-то долго...
+																																																																																																																																												[gop2_about_gop3]...[VIDEO gops2_gops_come_to_hero.mp4][SOUNDFX gops_steps.mp3]
+																																																																																																																																													
+																																																																																																																																														[mark_fi74n9rfgomag2a74kzg]Походу дела, он тебя кинул и свалил.[VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_treator.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																																																															>>>
-																																																																																																																																																[gops2_gops_run_to_gop3]...[VIDEO gops2_gops_run_to_gop3.mp4][SOUNDFX gops_steps.mp3]
+																																																																																																																																																[mark_c0wv6814ld3nj9n257qj]...[VIDEO gops2_gop2_punches_hero_to_face.mp4][SOUNDFX boom.mp3]
 																																																																																																																																																	
-																																																																																																																																																		[mark_c29g4h071dl23127466x][GOTO mark_final7]
-																																																																																																																																													Отдал ему предоплату 100
-																																																																																																																																														[gop2_hero_gop3_dont_work_so]Ты гонишь! Червлей так не работает.[VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_work_another.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
-																																																																																																																																															>>>
-																																																																																																																																																[mark_25759rje6s32xpuxaux4][GOTO mark_final10]
-																																																																																																																																											[GOTO i_dont_own_you]
-																																																																																																																																											[GOTO gops2_i_have_1000_only]
-																																																																																																																																			[GOTO ok_here_is_money_for_gop3]
-																																																																																																																																	Да, принес
-																																																																																																																																		[mark_6g1n6w6c113wi132i842][GOTO chervley_takes_money_for_polkan]
-																																																																																																																													[go_to_sleep]Лягу спать
-																																																																																																																														[mark_5s12ti897x5889dclte9][GOTO mark_final20]
-																																																																																																																											[GOTO return_back_to_gops]
-																																																																																																																											[GOTO go_to_sleep]
+																																																																																																																																																		[mark_g7d81330i60pnf0xbbu4][GOTO mark_final16]
+																																																																																																																																								[gop3_gone4]Выкручивайся сам.[VIDEO gops3_gop3_goes_away_phone_talking.mp4][SOUNDFX gop3_turn_yourself.mp3,gop3_calls_somebody.mp3]
+																																																																																																																																									
+																																																																																																																																										[mark_33w5xjx0386242277lvr]...[VIDEO gops2_gops_come_to_hero.mp4][SOUNDFX gops_steps.mp3]
+																																																																																																																																											
+																																																																																																																																												[mark_71not4ea40x9rd80v73o]Ну чо, слился твой защитник?[VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_treator3.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																													Он вернется, я же ему заплатил
+																																																																																																																																														[mark_y0r2n94d7h1y5441q58m]Чот я не видел, чтоб ты отдавал ему бабло.[VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_i_didnt_see_money.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																															Отдал ему все, что было
+																																																																																																																																																[mark_f045k5468o3257x6g7lj]Хрящ, быстро за ним![VIDEO gops2_gop2_speaking_hard.mp4][AUDIO gop2_gop1_goto_gop3.mp3][BGNDVIDEO gops2_gop2_idle_hard.mp4][ANSWERTIME 20][TIMEEXPIRED gops2_gops_run_to_gop3]
+																																																																																																																																																	>>>
+																																																																																																																																																		[gops2_gops_run_to_gop3]...[VIDEO gops2_gops_run_to_gop3.mp4][SOUNDFX gops_steps.mp3]
+																																																																																																																																																			
+																																																																																																																																																				[mark_c29g4h071dl23127466x][GOTO mark_final7]
+																																																																																																																																															Отдал ему предоплату 100
+																																																																																																																																																[gop2_hero_gop3_dont_work_so]Ты гонишь! Червлей так не работает.[VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_gop3_work_another.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																																																																	>>>
+																																																																																																																																																		[mark_25759rje6s32xpuxaux4][GOTO mark_final10]
+																																																																																																																																													[GOTO i_dont_own_you]
+																																																																																																																																													[GOTO gops2_i_have_1000_only]
+																																																																																																																																					[GOTO ok_here_is_money_for_gop3]
+																																																																																																																																			Да, принес
+																																																																																																																																				[mark_6g1n6w6c113wi132i842][GOTO chervley_takes_money_for_polkan]
+																																																																																																																															[go_to_sleep]Лягу спать
+																																																																																																																																[mark_5s12ti897x5889dclte9][GOTO mark_final20]
+																																																																																																																													[GOTO return_back_to_gops]
+																																																																																																																													[GOTO go_to_sleep]
 																																																																																																																					Эх ты, хотел бы помочь - уже помог
 																																																																																																																						[mark_727st8by9q19786t974r][GOTO gop3_gone4]
 																																																																																																																			[mark_3xb0sl66ej831882jmhr][GOTO give_mobile_for_home_money]
@@ -443,7 +445,7 @@
 																																																																																																																			
 																																																																																																																				[mark_7y3w1jifrvcm082l395o][GOTO mark_final1]
 																																																																																																					[plz_eat_guys]Ребята, угощайтесь
-																																																																																																						[mark_wh78f37kn42o04538166]Cмори - колбаса и водка.[IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop1_speaking_soft.mp4][AUDIO gop1_sausage_vodka.mp3][BGNDVIDEO gops2_gop2_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
+																																																																																																						[mark_wh78f37kn42o04538166]Cмори - колбаса и водка.[IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_sausage_vodka.mp3][BGNDVIDEO gops2_gop2_idle.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																							Это вам
 																																																																																																								[mark_e8w69py0tbs971220g12]Погодь, не трогай! Пусть он сам сперва откусит.[IMAGE sausage_vodka.png][BGNDIMAGE *][VIDEO gops2_gop1_speaking.mp4][AUDIO gop1_hero_test_purgen.mp3][BGNDVIDEO gops2_gop2_idle_soft.mp4][ANSWERTIME 20][TIMEEXPIRED mark_final10]
 																																																																																																									Да без проблем
@@ -1074,7 +1076,7 @@
 				[mark_at5uuvh5r2wb2e059z1p]Ты отравился собственной пургеновой колбасой и три дня провел на белом друге в комнате для раздумий. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final3]Ты оставил гопу дешманский муляж мобилы и свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.webm]
+		[mark_final3]Ты оставил гопу дешманский муляж мобилы и свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.mp4]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final4]Тебя раскрутили по полной. Отрицательный финал (наихудший).[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
@@ -1091,7 +1093,7 @@
 		[mark_final7]Ты обманул гопов, соврав, что отдал деньги их другану! Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
 			[GOTO ddonate]
-		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO gops1_gop1_run_away.webm][AUDIO shoots.mp3][SOUNDFX gop1_aaa,gops_steps.mp3]
+		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[VIDEO gops1_gop1_run_away.mp4][AUDIO shoots.mp3][SOUNDFX gop1_aaa,gops_steps.mp3]
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
@@ -1109,7 +1111,7 @@
 				[mark_0949b64j5734067gk94d]Тебе удалось свалить домой, и в будущем тебя никто так и не выловил. Положительный финал (но можно и лучше).[BGPICTURE none][VIDEO none][AUDIO silent_1][IMAGE bg_kitchen.jpg][BGNDIMAGE *]
 					[GOTO donate]
 					[GOTO ddonate]
-		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).[BGPICTURE bg.jpg]
+		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).
 			[GOTO donate]
 			[GOTO ddonate]
 		[mark_final13]Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
