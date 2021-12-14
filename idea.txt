@@ -1,16 +1,35 @@
-Предыстория.
-Ты - обычный парень, топаешь к себе домой на съемную хату и по дороге встречаешь гопаря.
-Гоп говорит, что помнит тебя по тусовке в ночном клубе, где его кореш одолжил тебе штуку денег,
-которую ты ему почему-то до сих пор не вернул.
+Интерактивный видеоквест "Симулятор общения с гопником, часть 5. Подстава".
+Как играть: читай сообщения и выбирай варианты ответов из предложенного списка.
 
-Твоя задача: разобраться в ситуации и разрулить конфликт.
+Ты - обычный парень, топаешь к себе домой на съемную хату и по дороге встречаешь гопаря.
+Гоп говорит, что помнит тебя по тусовке в ночном клубе, где его кореш одолжил тебе денег,
+а ты ему почему-то до сих пор не вернул.
+
+Цель: разобраться в ситуации и разрулить конфликт.
 
 Особенности игры:
 - сценарий почти в 7(!) раз больше первой части
 - 4 разных персонажа
-- 28 различных финалов (только один главный)
+- около 30 различных финалов (только один главный)
 - драки в реальном времени
 
+Warning! Full features of the application might not be available in devices that do not support the Russian  language.
+
+
+Interactive video quest "Simulator of Gopnik, part 5. Set-up".
+How to play: read the message and select your answer from the list below.
+
+Scenario: You are a simple student. You go to your home in the rent flat and meet a guy. He is speaking that he remembers you by a party at nightclub, where his homie borrowed you money, but you still haven't returned money back to him yet for some reason.
+
+Features:
+- over 30 different finals (but 1 main only)
+- 4 acting faces
+- interactive fightings
+- train your skills in extreme situation virtually
+
+Goal: resolve the conflict.
+
+Warning! Full features of the application might not be available in devices that do not support the Russian  language.
 
 
 

@@ -2,7 +2,7 @@
 
 export default {
   // Increase this on every update to reload assets for new on startup
-  GAME_VERSION: 36,
+  GAME_VERSION: 37,
   // Release = true
   CACHE_ENABLED: true,
 
@@ -17,9 +17,9 @@ export default {
   GP_PRODUCT1_NAME: 'com.skystairgames.sg5.coin1',
   GP_PRODUCT2_NAME: 'com.skystairgames.sg5.episodes',
   // You can enable some buttons by default in the regular game
-  ENABLE_SAVE_BUTTON: false,
-  ENABLE_LOAD_BUTTON: false,
-  ENABLE_SKIP_BUTTON: false,
+  ENABLE_SAVE_BUTTON: true,
+  ENABLE_LOAD_BUTTON: true,
+  ENABLE_SKIP_BUTTON: true,
   ENABLE_EPISODES_BUTTON: false,
   ENABLE_BACK_BUTTON: false,
   ENABLE_DONATE_BUTTON: true,
