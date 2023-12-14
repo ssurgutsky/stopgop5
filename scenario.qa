@@ -809,14 +809,20 @@
 												[mark_1g8h7cyxnk991na6j0wj][GOTO gop1_we_didnt_finish_talking]
 											Сам вали отсюда
 												[mark_0l2nwi1p6xm083f5rojc][GOTO mark_final25]
-			[donate]На развитие проекта (sobe.ru/na/serjios)
-				[mark_25niz708033n4z3a88td][NAVIGATEURL https://sobe.ru/na/serjios]
-					
-						[mark_3jjo6702yb990axn764r][GOTO PREPARE]
-			[ddonate]Донат Сержиосу (qiwi.com/n/SERJIOS)
-				[mark_sc79jl3mh47397kjt4jl][NAVIGATEURL https://qiwi.com/n/SERJIOS]
-					
-						[mark_197x4802ps0345z8qe98][GOTO PREPARE]
+			[donate]Donate / Дать денежку
+				[mark_8o716rk6f9gm5w4vo191][IMAGE donate.png]Если понравилось, закинь сколько не жалко.
+					Перевод Tinkoff
+						[mark_f80u11uv548604r8v3v5][NAVIGATEURL https://www.tinkoff.ru/cf/7xIiPBRWF9P]
+							
+								[mark_gpz4h2d5q2gj83yqc71b][GOTO START]
+					Перевод Qiwi
+						[mark_n4f3t5qf3l1tjoui2c2f][NAVIGATEURL https://qiwi.com/n/SERJIOS]
+							
+								[mark_xw21sf4q2mxo3q0x9b78][GOTO START]
+					Перевод YooMoney
+						[mark_iz89w1lh9902e1966gt6][NAVIGATEURL https://yoomoney.ru/to/41001220674141]
+							
+								[mark_06z79l0n6q345b2ni5q2][GOTO START]
 			[go_vk]Вступить в группу VK (vk.com/club23748098)
 				[mark_61s90c870a8bv2jmm4s2][NAVIGATEURL https://vk.com/club23748098]
 					
@@ -1070,78 +1076,58 @@
 								[mark_y3s22vshavxtuov5ac3l][GOTO mark_final17]
 		[mark_final1]Ты избавился от гопов с помощью пургеновой колбасы! Несколько дней они не слазили с горшка, а ты за это время сменил имидж и больше той дорогой не ходил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final2]...[IMAGE black.jpg][AUDIO silent_1]
 			
 				[mark_at5uuvh5r2wb2e059z1p]Ты отравился собственной пургеновой колбасой и три дня провел на белом друге в комнате для раздумий. Отрицательный финал.[BGPICTURE shit.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
-					[GOTO ddonate]
 		[mark_final3]Ты оставил гопу дешманский муляж мобилы и свалил. Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO gops1_hero_go_away.mp4]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final4]Тебя раскрутили по полной. Отрицательный финал (наихудший).[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final5]...[IMAGE black.jpg][AUDIO silent_1]
 			
 				[mark_ibq5f1gdl26z0bw411ew]В итоге, тебя выловили через несколько дней и прописали отборных люлей. Отрицательный финал.[VIDEO gops2_gops_win.mp4][SOUNDFX gops_steps.mp3,gops_steps.mp3]
 					[GOTO donate]
-					[GOTO ddonate]
 		[mark_final6]Тебя кинул твой "помощник". Отрицательный финал.[BGPICTURE bg_floor.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final7]Ты обманул гопов, соврав, что отдал деньги их другану! Положительный финал (но можно лучше).[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final8]Ты испугал гопа по приложению "Тревожная кнопка"! Положительный финал (но можно лучше)[VIDEO gops1_gop1_run_away.mp4][AUDIO shoots.mp3][SOUNDFX gop1_aaa,gops_steps.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final9]Хрящ стукнул тебе в жбан. Отрицательный финал.[VIDEO gops1_gop1_punches_hero_face.mp4][SOUNDFX boom.mp3][MUSIC none]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final10]...[VIDEO gops2_gop2_punches_hero_to_face.mp4][SOUNDFX boom.mp3][MUSIC none]
 			
 				[mark_m7bxmxpjp4690v66r1qe]...[IMAGE black.jpg][AUDIO silent_1]
 					
 						[mark_7e8f4vw24131bbgmdn6g]Кирпич стукнул тебе в хлебальник. Отрицательный финал.[VIDEO gops2_gops_win.mp4][SOUNDFX gops_steps.mp3,gops_steps.mp3]
 							[GOTO donate]
-							[GOTO ddonate]
 		[mark_final11]...[IMAGE black.jpg][AUDIO silent_1]
 			
 				[mark_0949b64j5734067gk94d]Тебе удалось свалить домой, и в будущем тебя никто так и не выловил. Положительный финал (но можно и лучше).[BGPICTURE none][VIDEO none][AUDIO silent_1][IMAGE bg_kitchen.jpg][BGNDIMAGE *]
 					[GOTO donate]
-					[GOTO ddonate]
 		[mark_final12]Ты сломал гопу логику и избавился от него. Положительный финал (но можно лучше).
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final13]Ты надавил на жалость гопу, и он дал тебе денег на новую мобилу. Положительный финал (но можно лучше)[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final14]Ты сумел найти уязвимое место Кирпича. Положительный финал (но можно лучше)[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final15]Ты сумел поссорить гопов! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final16]Ты утратил свою не дешевую мобилу, взятую в кредит. Отрицательный финал.[BGPICTURE bg_sky.jpg][VIDEO none][AUDIO silent_1]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final17]...[IMAGE black.jpg][AUDIO silent_1][MUSIC none]
 			
 				[mark_42v8sep21253gmcp5krc]Кирпич надрал твою нежную задницу. Отрицательный финал.[VIDEO gops2_gops_win.mp4][BGNDIMAGE *][SOUNDFX gops_steps.mp3,gops_steps.mp3]
 					[GOTO donate]
-					[GOTO ddonate]
 		[mark_final18]Ты надрал Кирпичу задницу! Положительный финал (но можно лучше)[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1][MUSIC none]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final19]Гопы разбежались, как тараканы! Положительный финал (но можно лучше)[VIDEO gops3_far_gops_scary.mp4][AUDIO shoots.mp3][SOUNDFX gops_steps.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final20]...[IMAGE black.jpg][AUDIO silent_1]
 			
 				[mark_52pa6q8rn23150m6mqmk]Ты утратил свою не дешевую мобилу, взятую в кредит, потому что, когда вернулся, никого уже не было. Отрицательный финал.[BGPICTURE bg.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
-					[GOTO ddonate]
 		[mark_final21]...[BGNDVIDEO fight1_gop1_hit1_p1.mp4][SOUNDFX hit_slowmo.mp3][ANSWERTIME 2][TIMEEXPIRED mark_final9]
 			Защита блоком
 				[mark_s2818v2av827akb218a8]...[VIDEO fight1_gop1_hit1_p1_2.mp4][SOUNDFX boom.mp3]
@@ -1165,27 +1151,20 @@
 			
 				[mark_sjc5793u676q64atp2ul]Ты очнулся в больнице, что произошло - не помнишь, потеря памяти. Отрицательный финал.[BGPICTURE hospital.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
-					[GOTO ddonate]
 		[mark_final23]Тебя отпустили, потому что ты оказался "мамсиком" (маменькиным сынком). Отрицательный финал.[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_fuck_you.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final24]Тебя отпустили, потому что ты оказался нищебродом. Отрицательный финал.[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_well_be.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final25]"Да пошел ты!", - гоп отвалил от тебя. Положительный финал (но можно лучше)[VIDEO gops1_gop1_go_away.mp4][SOUNDFX gop1_fuck_you.mp3][MUSIC none]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final26]Гопы разбежались, как тараканы! Положительный финал (но можно лучше)[VIDEO gops3_far_gops_scary.mp4][AUDIO gop2_aaa][SOUNDFX gops_steps.mp3]
 			[GOTO donate]
-			[GOTO ddonate]
 		[mark_final30]...[IMAGE black.jpg][AUDIO silent_1]
 			
 				[mark_2jz2qk28v7qw9ejbqu16]Чекрыж заплатил тебе крупную сумму денег, чтобы ты забрал заявление. Больше тебя никогда не трогали. Положительный финал (но можно лучше)[BGPICTURE bg_titles.jpg][VIDEO none][AUDIO silent_1]
 					[GOTO donate]
-					[GOTO ddonate]
 		[mark_final31]...[IMAGE black.jpg][AUDIO silent_1]
 			
 				[mark_i2pj9v8n2p22jp6bm5x7]Ты отказался от денег Чекрыжа и не забрал заявление. Бандитов посадили. А чуть позже закрыли Чекрыжа. Главный положительный финал![BGPICTURE black.jpg|250;240][BGNDVIDEO titles.mp4][BGNDIMAGE bars.png&title.png][MUSIC music_titles.mp3]
 					[GOTO donate]
-					[GOTO ddonate]
 	[GOTO go_vk]
