@@ -4475,42 +4475,76 @@
                             {
                               "node": [
                                 {
-                                  "_mark": "mark_3jjo6702yb990axn764r",
-                                  "_content": "[LABEL ][GOTO PREPARE]"
+                                  "node": [
+                                    {
+                                      "node": [
+                                        {
+                                          "_mark": "mark_gpz4h2d5q2gj83yqc71b",
+                                          "_content": "[LABEL ][GOTO START]"
+                                        }
+                                      ],
+                                      "_mark": "",
+                                      "_content": "[LABEL ]"
+                                    }
+                                  ],
+                                  "_mark": "mark_f80u11uv548604r8v3v5",
+                                  "_content": "[LABEL ][NAVIGATEURL https://www.tinkoff.ru/cf/7xIiPBRWF9P]"
                                 }
                               ],
                               "_mark": "",
-                              "_content": "[LABEL ]"
-                            }
-                          ],
-                          "_mark": "mark_25niz708033n4z3a88td",
-                          "_content": "[LABEL ][NAVIGATEURL https://sobe.ru/na/serjios]"
-                        }
-                      ],
-                      "_mark": "donate",
-                      "_content": "[LABEL На развитие проекта (sobe.ru/na/serjios)]"
-                    },
-                    {
-                      "node": [
-                        {
-                          "node": [
+                              "_content": "[LABEL Перевод Tinkoff]"
+                            },
                             {
                               "node": [
                                 {
-                                  "_mark": "mark_197x4802ps0345z8qe98",
-                                  "_content": "[LABEL ][GOTO PREPARE]"
+                                  "node": [
+                                    {
+                                      "node": [
+                                        {
+                                          "_mark": "mark_xw21sf4q2mxo3q0x9b78",
+                                          "_content": "[LABEL ][GOTO START]"
+                                        }
+                                      ],
+                                      "_mark": "",
+                                      "_content": "[LABEL ]"
+                                    }
+                                  ],
+                                  "_mark": "mark_n4f3t5qf3l1tjoui2c2f",
+                                  "_content": "[LABEL ][NAVIGATEURL https://qiwi.com/n/SERJIOS]"
                                 }
                               ],
                               "_mark": "",
-                              "_content": "[LABEL ]"
+                              "_content": "[LABEL Перевод Qiwi]"
+                            },
+                            {
+                              "node": [
+                                {
+                                  "node": [
+                                    {
+                                      "node": [
+                                        {
+                                          "_mark": "mark_06z79l0n6q345b2ni5q2",
+                                          "_content": "[LABEL ][GOTO START]"
+                                        }
+                                      ],
+                                      "_mark": "",
+                                      "_content": "[LABEL ]"
+                                    }
+                                  ],
+                                  "_mark": "mark_iz89w1lh9902e1966gt6",
+                                  "_content": "[LABEL ][NAVIGATEURL https://yoomoney.ru/to/41001220674141]"
+                                }
+                              ],
+                              "_mark": "",
+                              "_content": "[LABEL Перевод YooMoney]"
                             }
                           ],
-                          "_mark": "mark_sc79jl3mh47397kjt4jl",
-                          "_content": "[LABEL ][NAVIGATEURL https://qiwi.com/n/SERJIOS]"
+                          "_mark": "mark_8o716rk6f9gm5w4vo191",
+                          "_content": "[LABEL Если понравилось, закинь сколько не жалко.][IMAGE donate.png]"
                         }
                       ],
-                      "_mark": "ddonate",
-                      "_content": "[LABEL Донат Сержиосу (qiwi.com/n/SERJIOS)]"
+                      "_mark": "donate",
+                      "_content": "[LABEL Donate / Дать денежку]"
                     },
                     {
                       "node": [
@@ -5945,10 +5979,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final1",
@@ -5963,10 +5993,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_at5uuvh5r2wb2e059z1p",
@@ -5985,10 +6011,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final3",
@@ -5999,10 +6021,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final4",
@@ -6017,10 +6035,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_ibq5f1gdl26z0bw411ew",
@@ -6039,10 +6053,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final6",
@@ -6053,10 +6063,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final7",
@@ -6067,10 +6073,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final8",
@@ -6081,10 +6083,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final9",
@@ -6103,10 +6101,6 @@
                                     {
                                       "_mark": "",
                                       "_content": "[LABEL ][GOTO donate]"
-                                    },
-                                    {
-                                      "_mark": "",
-                                      "_content": "[LABEL ][GOTO ddonate]"
                                     }
                                   ],
                                   "_mark": "mark_7e8f4vw24131bbgmdn6g",
@@ -6137,10 +6131,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_0949b64j5734067gk94d",
@@ -6159,10 +6149,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final12",
@@ -6173,10 +6159,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final13",
@@ -6187,10 +6169,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final14",
@@ -6201,10 +6179,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final15",
@@ -6215,10 +6189,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final16",
@@ -6233,10 +6203,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_42v8sep21253gmcp5krc",
@@ -6255,10 +6221,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final18",
@@ -6269,10 +6231,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final19",
@@ -6287,10 +6245,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_52pa6q8rn23150m6mqmk",
@@ -6421,10 +6375,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_sjc5793u676q64atp2ul",
@@ -6443,10 +6393,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final23",
@@ -6457,10 +6403,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final24",
@@ -6471,10 +6413,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final25",
@@ -6485,10 +6423,6 @@
                     {
                       "_mark": "",
                       "_content": "[LABEL ][GOTO donate]"
-                    },
-                    {
-                      "_mark": "",
-                      "_content": "[LABEL ][GOTO ddonate]"
                     }
                   ],
                   "_mark": "mark_final26",
@@ -6503,10 +6437,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_2jz2qk28v7qw9ejbqu16",
@@ -6529,10 +6459,6 @@
                             {
                               "_mark": "",
                               "_content": "[LABEL ][GOTO donate]"
-                            },
-                            {
-                              "_mark": "",
-                              "_content": "[LABEL ][GOTO ddonate]"
                             }
                           ],
                           "_mark": "mark_i2pj9v8n2p22jp6bm5x7",
